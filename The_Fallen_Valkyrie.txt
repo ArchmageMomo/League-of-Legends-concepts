@@ -1,0 +1,77 @@
+Yútre became a Valkyrie a long time ago. In the name of her God, she collected Souls of fallen heroes to build an army for the last fight. As one of few Valkyries she learned about the runes of the gods. Fascinated about their abilities, she begged her god to teach her their magic. He agreed, making her one of the strongest Valkyries of the swarm. She continued collecting souls as she improved her abilities even further, to survive the end of all days.
+That was, until she had a vision caused by the rune Ansuz. She saw herself at the surface without her armor, kissing a human she could not clearly see. That night she knew, she would never be happy again in her eternal life if she continues living without love, so she broke her oath never to seek love, taking her runestones, sword and armor with her to the surface of Runeterra.
+Even though she became a fallen valkyrie, Yútre's abilities as a valkyrie weren't taken from her, so she continued collecting heroic souls. She knows that her god knows what she did, but she doesn't know if he still protects her. Sometimes she wishes to never have abandoned her life as a valkyrie of the swarm, but then she reminds herself of the vision she had and works even harder to find who she's looking for.
+
+"A life without love isn't woth living. Neither for a mere human, nor for an eternal Valkyrie." - Yútre
+
+
+
+
+The fallen Valkyrie:
+
+	Auto:
+		175 Range melee on AD with sword.
+		
+	Passive:
+		Still on duty:
+			If any visable champion dies this champion collects his soul, leading it to the hall of heroes.
+			Every Soul increases the MS of this champion by 5. At 30 souls, this champion begins to fly, enabling him to pass minions, neutral monsters and other champions. Souls are caped to 40.
+			
+			Souls stay collected until they get consumed, even after death.
+			
+			This champion gains 1 runic Energy per second for each visable enemy.
+			
+			His 'Open the hall' can't be skilled before lvl 9.
+			
+	Q:
+		Cowards punishment:
+			The Champion strikes his Sword all around himself, doing (40/65/90/115/140) + 20% AD damage to all enemys hit, marking them and making them visable to this champion for (2/5/8/11/14) Seconds.
+			
+			During that time, this ability can be recast on an marked enemy. The Champion dashes towards his target, doing 30% MS + (5/15/25/35/45) % of the distance between them damage.
+			
+		Cooldown: 14		Range: 220 / global		Cost: 10 / 10 Runic energy
+		
+	W:
+		Valkyries runes:
+			This Champion throws one of 4 runestones onto the ground beneath him (300 Units diameter). These runes cycle in the following order.
+			
+			Isa:
+				Enemys inside the area get stuned for (0.3/0.6/0.9/1.2/1.5) Seconds.
+				
+				Activating after 1 Second.
+				
+			Algiz:
+				Allys inside the area get immune to CC while inside the area. It stays active for (1/1.3/1.6/1.9/2.2) seconds.
+				
+				Activating instantly.
+				
+			Inguz:
+				The area begins to burn for (1/1.5/2/2.5/3) Seconds, doing (20/30/40/60/70) + 20% AD magic damage to enemys inside.
+				
+				Activating after 1 Second.			
+				
+			Dagaz:
+				Enemys inside the area get slowed by 1% every 0.01 Seconds while inside the area. After one second every enemy inside gets damaged by (30/50/70/90/110) True damage + 40% AD magical damage.
+				
+				Activating after 0.2 Seconds.
+				
+		Cooldown: 5			Range: 0				Cost: 30 Runic energy
+		
+	E:
+		Faith in the Vision:
+			Passive:
+				Every time this champion kills a lower soul (minions and neutral monsters) his faith grows by 1. Every (40/35/30/25/20/15/10) Stacks of faith grant this champion permanently enhanced auto attacks.
+				
+				One of the following boosts will get applied:
+					+(1/2/3/4/5/6/7) % AS
+					+(1/3/5/7/9/11/13) AD (unlimited)
+					+(10/14/18/22/26/30/34) magic damage (limited to +300)
+				
+				They cycle in this order, leaving AS and magic damage out if they got maxed out. Once he recieved a buff by this ability, her stacks get reset.
+		
+	R:
+		Open the hall:
+			Up to 10 fallen heroes get summoned, one every 0.5 second (skipable).
+			These heroes attack at AS 2.0 with 40% of this champs AD and follow lanes if they get in contact with one. In Bases and Jungle the heroes follow this champion, attacking nearby enemys.
+			
+		Cooldown: 10		Range: - 				Cost: 5 Runic energy per Hero

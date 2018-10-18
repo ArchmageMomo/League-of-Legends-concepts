@@ -1,0 +1,162 @@
+The horrific quartett:
+
+	Passive:
+		United force:
+			The quartett dies if all of its members die. Each kill of a member gives 10% of the gold reward of the champion. Killing the whole quartett rewards with the remaining gold + 10%.
+			
+			After 30 Seconds, one member of the quartett can be revived at the shop. (doesn't stack)
+			
+			Health items get split: 25% healer, 20% assassin, 45% tank, 10% mage.
+			
+			A random member is controllable at the beginning of each game, the others stay at his side and auto attack targets intellegently at 25% of their normal damage. On death of one member, another random member gets controllable.
+			
+	Healer:
+		Auto:
+			Melee hit with a dagger scaling with AD
+			
+		Passive:
+			The Healer:
+				This champion brews potions while standing still for more than 4 seconds, regenerating 1 every second. (limited to 10)
+			
+		Q:
+			Repositioning:
+				The champion jumps towards the allied nexus, gets invulnerable for (0.5/1/1.5/2/2.5) seconds and controll switches to the assassin.
+			
+			Cooldown: 0.1 global	Range: (1/1.5/2/2.5/3) * 100 	Cost: -
+			
+		W:
+			Regenerate:
+				The member of the Quartett with the lowest health gets healed by (30/60/90/120/150) + 50% AP over 4 seconds.
+			
+			Cooldown: 5				Range: global					Cost: 1 potion
+				
+		E:
+			Splash potion:
+				Passive:
+					The champion can buy some ingretients for potions in the shop, modifying the effect of this ability.
+					
+				Active: 
+					A potion gets thrown to an area of 100 Units radius.
+					
+					No Potion:
+						Enemys get knocked back for (30/60/90/120/150) Units from center.
+					Acid:
+						Enemys get their armor shreddered by (5/15/25/35/45) % for 2 seconds.
+					Moonlight:
+						Enemys get their MR shreddered by (7/13/19/25/31) % for 2 seconds.
+					Goo:
+						Enemys get slowed by (10/15/20/25/30) % for 2 seconds.
+					Poison:
+						Enemys get damaged for a total of (20/40/60/80/100) + 35% AP over 2 seconds.
+					Glycerol:
+						Enemys in a 200 Units biger radius get damaged by (10/30/50/70/90) + 30 AP.
+			
+			Cooldown: 10			Range: 500						Cost: 1 potion
+			
+		R:
+			Heal up!:
+				Every Member gets revived with (5/10/15) % of their max life. After that, every member gets healed by (10/30/50) + 10% AP per potion.
+				
+			Cooldown:  120			Range: -						Cost: all potions
+		
+		
+		
+		
+		
+	Assassin:
+		Auto:
+			Melee hit with Langmesser scaling with AD
+			
+		Passive:
+			The Assassin:
+				Killing a unit restores 5% of this champions Energy, as well reduces his basic ability's remaining cooldown by 0.5 seconds.
+		
+		Q:
+			Work done:
+				The champion disappears for (1/2/3/4/5) seconds and controll switches to the tank.
+			
+			Cooldown: 6 global		Range: - 						Cost: -
+			
+		W:
+			Double dash strike:
+				The champion dashes into the targeted direction and back to his original location, damaging each enemy he passes (multiple hits possible) with (20/30/40/50/60) + 40% AD.
+				
+			Cooldown: 8				Range: 500						Cost: 40 Energy
+		
+		E:
+			Featherstrike:
+				The targeted enemy gets damaged by (10/20/30/40/50) + 60% AD and blinded for 1 second.
+				
+			Cooldown: 9				Range: 225						Cost: 30 Energy
+			
+		R:
+			Impaled alive:
+				When activated, the next Double dash strike marks every enemy passed. Marked enemys get another stack of this mark, up to five, with each time they get hit by a champion. Each stack does (20/30/40) + 70% AD damage, and the final stack does additional 20% AD damage and stuns the target for (0.5/1/1.5) seconds.
+				
+			Cooldown: 200			Range: -						Cost: 20 Energy
+			
+			
+	Tank:
+		Auto:
+			Axe strike scaling with AD
+			
+		Passive:
+			The tank:
+				Bonus Armor counts 1.2 times their value. Every hit taken generates Rage, at full rage this champion gets doubled AS.
+			
+		Q:
+			Protect the crew!:
+				This champion blocks every projectile from the targeted direction for (0.5/0.75/1/1.25/1.5) seconds and controll switches to the mage.
+			
+			Cooldown: 3 global		Range: -						Cost: -
+			
+			
+		W:
+			Bodyslam:
+				The champion jumps onto the targeted enemy, dealing (10/20/30/40/50) + 10% AD damage and stunning him for 1 second.
+			
+			Cooldown: 6				Range: 200						Cost: -
+			
+		E:
+			Axe on a chain:
+				The champion throws his axe on a chain into the targeted direction, dealing (5/15/25/35/45) + 20% damage and pulls the enemy one third of their distance towards this champion.
+				
+			Cooldown: 7				Range: 700						Cost: -
+			
+		R:
+			Chopper!:
+				This champion swings his axe on the chain around him, dealing (30/50/70) +  20% AD damage to all enemys hit, unarming them for 2 seconds.
+				
+			Cooldown: 80			Range: 300 Radius				Cost: -
+			
+	Mage:
+		Auto:
+			Ranged sparkle blast scaling on AD, dealing magic damage.
+		
+		Passive:
+			The mage:
+				When this champion auto attacks a target, he gets 5 mana restored.
+				
+		Q:
+			Safety blink:
+				This champion blinks to the nearest allied building and controll switches to the healer.
+			
+			Cooldown: 6 global		Range: global					Cost: 50 mana
+			
+		W:
+			Arcane snowball:
+				An arcane shot gets fired, gaining size and damage as it travels slowly. On hit, it deals (5/10/20/40/80) + 0% to (30/50/70/90/110) + 50% AP damage at 1200 Units.
+				
+			Cooldown: 6 after hit	Range: 600 radius from champ	Cost: 30 mana
+			
+		E:
+			Arcane grounds:
+				Every enemy around this champion gets silenced and slowed for 1 second and damaged by (10/20/30/40/50) + 40% AP damage.
+				
+			Cooldown: 4				Range: (1/1.5/2/2.5/3) * 100	Cost: 50 mana
+			
+		R:
+			Arcane wave:
+				A wave of arcane energy travels towards this champion, damaging every enemy it hits for (40/80/120) + 70% AP damage.
+				
+			Cooldown: 150			Range: min 1000 max 3000		Cost: 120 mana

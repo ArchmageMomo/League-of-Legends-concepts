@@ -1,0 +1,58 @@
+The transperent child:
+	
+	Auto:
+		Sparkle shooting of 500 Units range constantly scaling on AD
+		
+	Passive:
+		Pain of transparency:
+			This champion is constantly untargetable until using an ability. This ability reactivates after thirty seconds of not using an ability.
+			
+			This champion gets no HP from items.
+		
+	Q:
+		Purity:
+			The champion takes 50% more damage for the next 5 Seconds. Auto attacks get empowered with 60% AP for (2/3/4/5/6) Seconds, hitting every enemy up to (100/150/200/250/300) Units around a hit target.
+			
+		Cooldown: 7			Range: -
+		
+	W:
+		Caution:
+			This champion gets shielded with (100/125/150/200/250) + 100% AP for (2/2.5/3/3.5/4) Seconds.
+			
+		Cooldown: 20		Range: -
+		
+	E:
+		Erase:
+			This champion fires a spark at the targeted location. When the spark hits the ground, a (200/250/300/350/400) Units diameter malestrom gets summoned, doing (10/20/30/40/50) + 30% AP damage per second and staying for three seconds.
+		
+		Cooldown: 12		Range: 300
+		
+	R:
+		See the last of me!:
+			This champion opens his eyes, making himself visable for everyone (abilities still prevent this) and every enemy hiting this champion critical. Recast teleports this champion to the targeted location.
+			
+			Every third enemy hitting this champion gets feared for (0.5/0.75/1) Second and slowed for (1/1.5/2) Seconds by (25/40/55) percent. Auto attacks from this champion deal 10% AP damage over time.
+			
+			The ability gets finished on use of another ability. The champion stays visable for another ten seconds and enemys can crit him for another (7/5/3) seconds.
+			
+		Cooldown: 60		Range: global
+		
+
+
+		
+		
+		
+"There once was born a child on the bonespear island, named Ayana. It's told that everyone could see her entire personality in her eyes, her hopes, her wishes, her dreams, her fears. She got abused, because of this, got treated bad for things others saw inside her eyes. But on Ayanas side, she knew they couldn't even understand the entirety of what they saw, nor they could see everything. But she didn't say a word, because she never knew another life. That was, until a spirit of the moon found her and gave her clarity and magic. Ever since, Ayanas eyes were shut as she wanders around Runeterra.
+That story is over a thousand years old, and still it is true. Every single sentence, word by word." The old woman looked at her. "Aint I right, little one?"
+"How would I know?"
+"Don't think this old lady can't see you never opened your eyes?"
+"So what will you do? Tell others you met me?"
+"No, Ayana, I won't. It is too much of an honor to sit on this campfire with you, an opportunity I never thought to get."
+"Can you do me a favor?"
+"Of course, as long as I am able to fulfill it!"
+"Tell others this story. That is my wish."
+"So I will do."
+"Thank you. I will watch over your path, so nothing can harm you." With that said, she disappeared in the dark.
+"Thank you, transperent child."
+
+Quote: "I am more than you can see!"

@@ -1,0 +1,53 @@
+Basic: 500 Units
+
+
+
+Passive:
+	Arrows of corruption:
+		Enemies hit by basic attacks will have up to 5 arrows stuck inside them. Each arrow will explode into darkin corruption after 20 seconds, dealing [1-3]% of the enemies current health as true damage and [6-24]% AD as physical damage and applying 10% corruption.
+		Corruption resets on death.
+
+	Slowly creeping:
+		The champion only gains 25% AS from all sources, but his AD gain is increased by 25%
+
+
+
+Q:
+	Every arrow counts:
+		The champion fires (1/-/2/-/3) arrows towards each stack of 'Arrows of corruption' stuck inside an enemy, dealing basic attack damage as magic damage and consuming all stacks of 'Arrows of corruption'. Each arrow afflicts 'Arrows of corruption'.
+
+	CD: 20/18/16/14/10
+	Cost: 80 mana
+	Range: -
+
+
+
+W:
+	Corrupted poison:
+		Every stack of 'Arrows of corruption' poisons the enemy affected for (20/25/30/35/40) + 10% AD + (0.5/1/1.5/2/2.5)% enemy missing health damage as physical damage over (3/4/5/6/7) seconds. All stacks of 'Arrows of corruption' get consumed.
+
+	CD: 15/13/11/9/7
+	Cost: 50 mana
+	Range: -
+
+
+
+
+E:
+	Call the arrows:
+		The targeted enemy champion gets pulled towards this champion for (30/60/90/120/150) Units per stack of 'Arrows of corruption' and damaged by (50/60/70/80/90) + 30% AD physical damage.
+
+	CD: 5
+	Cost:40
+	Range: 700
+
+
+
+
+R:
+	Act of corruption:
+		The champion posesses the targeted enemy champion for (1/1.5/2) seconds per 10% corruption. He gains control over the posessed enemy and can use his abilities against other enemy targets, but can be damaged by every unit now. If the posessed enemy gets killed before the ability ends the champion reappears beside him, damaged by (80/70/50)% of the damage recieved by the posessed enemy as true damage.
+
+	CD: 200
+	Cost: 100 mana
+	Range: 400

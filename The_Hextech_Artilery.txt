@@ -1,0 +1,50 @@
+Der neue Urgot????
+
+
+
+Basic Attacks:
+	Ranged attacks between 400 and 700 Units range.
+
+Passive:
+	Hextech artilery:
+		Every time the champion uses basic attacks his 'Defensive Matrix' gets charged by 10. (caped at 100)
+		Every time the champion consumes 'Defensive Matrix' his 'Error Matrix' gets charged by 10. (caped at 100)
+		As long as the 'Error Matrix' is fully charged the champions basic attacks burn for (10-50) True Damage over 5 seconds.
+		Basic Attacks slow the champion by 50% for (0.5-0.2) seconds.
+		Attack speed cap is changed to 4 per second for this champion.
+	
+Q:
+	Red Zone:
+		Two beams get fired in a 45° angle after 0.5 seconds, dealing (60/75/90/105/120) + 100% AP magical damage. They leave the ground burned for 10 seconds which burns enemys once every 10 seconds for (20-100) True damage over 5 seconds and greivously wounds them for 2 seconds.
+	
+	Cooldown: 1 second
+	Cost: 30 Error Matrix
+	Range: (500/600/700/800/900) Units
+
+W:
+	Energy absorption:
+		Passive:
+			Damage and crowd control dealt by abilities gets nullified.
+	
+	Cooldown: 1/0.8/0.6/0.3/0
+	Cost: 20 Defensive Matrix
+	Range: ???
+
+E:
+	Kinetic absorption:
+		Passive:
+			Damage dealt by basic attacks gets nullified. (not for CC)
+	
+	Cooldown: 1/0.8/0.6/0.3/0
+	Cost: 20 Defensive Matrix
+	Range: ???
+	
+R:
+	Landmines:
+		A landmine gets placed at the targeted location, activating itself after 0.5 seconds. It is visable and stays for 240 seconds after which it triggers itself.
+		Once it gets triggered by an enemy champion it explodes dealing (60/120/180) + 30% AD damage to and slows every enemy in a 100 units radius by 42%.
+		Stacks up to 3 times.
+		
+	Cooldown: (60/45/30) Seconds
+	Cost: -
+	Range: 400 Units.

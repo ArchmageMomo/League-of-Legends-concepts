@@ -1,0 +1,63 @@
+Pherro was once just a thief in the city of Zaun. At his biggest job yet, he got caught by some so called scientists and became their test subject. Unfortunatly for everyone related, the experement was a failure and the factory exploded. He survived with bad injuries and was at the edge to death when he reached his home, where he lost conciousnes. When he reawoke, his pain was gone. Looking at his body, he didn't see any of his injuries left. He lived as before, until that job, where he had to steal the device of kid with white hair and black skin. This kid never left his device, so Pherro knew he only had one way to steal it. That was the moment, where he found about what the experement did to him. The kid somehow he would attack him and attacked him instead, but all he hit was some black mist, that spreaded all over the kids place. Pherro didn't know what happened, but he left the place, knowing he would never be the same as before, and he would never be able to kill this kid. He quit the job, what enraged the scientist, causing him to attack Pherro. His body was found later the same day, covered by some black mist.
+Since then, he used his abilities to manipulate the mist his body produces to take things from the rich and give them to the poor. Soon he was loved and feared as the phantom thief, and everyone knew that seeing the black mist would either cost them their precous things or lifes or give them new hope, as he sololy tries to cleanse Zaun from corruption.
+
+
+
+The phantom thief:
+
+	Auto:
+		Melee knife scaling on AD
+		
+	Passive:
+		The Phantom walks:
+			While this Champion walks near walls or buildings he turns invisable. Every time he attacks or uses an ability, he turns visable for 0.75 Seconds.
+			Around this champion in a (400-1000) Unit diameter, lingers phantom mist, decreasing enemys vision by 100 Units. This applys even if he is invisable. The mist lasts 2 Seconds when this champion is out of range. Abilities consume this mist, reducing its range.
+			The mist is blocked by walls.
+			
+			Mist recharges continously for 1 every 0.2 Seconds.
+			
+	Q:
+		Shades of light:
+			The next auto attack of this champion deals additional (50/60/70/80/90/100) % of its damage as magical damage.
+			
+		Cooldown: 3			Range: -		Cost: 15 mist
+		
+	W:
+		Sharpen the mist:
+			The Champion shoots an exploding ball of mist at his target. If it hits another enemy or neutral target, it explodes at his location. The hit does (30/50/70/90/110/130) + 60% AD physical damage, the explosion (30/40/50/60/70/80) + 20% AD magical damage in a 200 Unit radius.
+			
+			After casting, this champion gets (5/7/9/11/13/15) % bonus MS for (1/2/3/4/5/6) Seconds.
+		
+		Cooldown: 7			Range: 700		Cost: 20 mist
+		
+	E:
+		Expanding the mist:
+			The mist stays at his curent location for (11/10/9/8/7/6) Seconds, rapidly increasing its range by (150/200/250/300/350/400) Units radius and every enemy inside gets his Vision reduced by additional (100/150/200/250/300) Units.
+			After this time, the mist collapses, dealing (10/20/35/45/60) % of the enemys AD and (5/15/25/35/45) % of the enemys AP damage as 50% magic damage and 50% physical damage to all enemys inside. The remaining mist returns to this champion.
+			
+		Cooldown: 20		Range: -		Cost: 50 mist
+		
+	R:
+		Pickpocket mastership:
+			The champion steals one of the following buffs from his target and does (390–1000) true damage to neutral monsters (champions and minions won't get any damage). This doesn't count as a agressive action and leaves this champion in stealth.
+			
+			Blue Sentinel: Restores 20 mist.
+			Red Brambleback: Restores 15% of this champions life.
+			Ancient Krug: For 60 Seconds, every sixth auto attack stuns the target.
+			Krug: Increases the gold aquired from kills by 10% for 30 Seconds.
+			Crimson raptor: Grants true sight for 60 Seconds.
+			Raptor: Vision gets enhanced by 100 Units radius for 30 Seconds.
+			Great Murk Wolf: Places a wolf ward for 60 Seconds.
+			Murk Wolf: A wolf ward follows this champion for 60 seconds, approaching neraby enemys.
+			Gromp: Enemys attacking this champion in the next 60 seconds get poisoned.
+			Scuttler: This champion gets 10 Gold.
+			Dragon: Auto attacks have a aoe cone doing 20% damage.
+			Harold: One random minion on each lane gets promoted.
+			Baron: Your recall casts 50% faster for 90 seconds.
+			Minions: Your next auto attack fears your enemy for 0.5 Seconds.
+			Champions: Your MS gets doubled for 1 second.
+			
+			
+			THIS ABILITY DOESN'T HAVE TO BE PERKED, though, it isn't even perkable
+			
+		Cooldown: 50		Range: 500		Cost: 30 mist

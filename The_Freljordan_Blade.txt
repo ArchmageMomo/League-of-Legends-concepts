@@ -1,0 +1,163 @@
+Freljords blade:
+	Auto:
+		Quick Swordslash scaling with AD; range 150
+		
+	Passive:
+		Frostrite, the freljords blade:
+			Every second auto attack deals its damage as magic damage. Every allied minion killed in a range of 1000 Units gives this champion stacks, increasing both his ability and auto attack range by 0.3 Units. The cap is set to 300 stacks.
+	
+	Q:
+		Froststrike: Toggle
+			While active, auto attacks turn into a bolt of frozen lightning, making them ranged for (80/85/90/95/100) of their damage, range increases by 400 Units. On toggling on, this ability causes a (60/70/80/90/100) % AD lightning against every Unit in short auto attack range. On toggling off this ability causes a spin attack, dealing the same amount of damage to all enemys in wide auto attack range.
+		
+		Cooldown: 4					Range: -						Cost: 20 mana
+	
+	W:
+		Snowflake:
+			Passive:
+				This champions AS gets increased by (0.5/1.6/2.7/3.8/5) % per level.
+			Active:
+				This champion calls his friend Snowflake, the frost cat, for help. He gets summoned in front of this champion and dashes forward, dealing (10/20/30/40/50) + 70% AP damage to all enemys passed. He stays at the targeted location for (1/1.5/2/2.5/3) seconds, auto attacking targets around him with 50% AD at 2*AS.
+				At recast, the champion dashes towards his friends location. This is possible as long as Snowflake is active. You can recast infinitely until Snowflake disappears.
+		
+		Cooldown: 7					Range: (500/600/700/800/900)	Cost: 70 mana
+	
+	E:
+		Frozen fire:
+			Passive:
+				Every magic auto attack sets the targeted enemy on fire, causing him to take (5/15/25/35/45) + 20% AP damage after 2 seconds.
+			Active:
+				After struck by a frozen lightning, the targeted enemy or structure gets surrounded by an orb of freezing fire. Enemys hit get damaged by (5/15/25/35/45) + 10% damage. After 5 seconds, the orb charges at the enemy, dealing (50/60/70/80/90) + 70% AP damage.
+				
+				The orb can be charged by auto attacking the enemy. Every charge increases the number of orbs flying around the enemy by one and increases the damage of the last hit. The sixth charge lets the orbs charge at the enemy immediately.
+				
+				Snowflakes autos also charge the orb.
+		
+		Cooldown: (15/14/13/12/11)	Range: 600						Cost: 50 mana
+		
+	R:
+		Elenokoroa:
+			A skeleton of a dragon, Elenokoroa, gets summoned at the targeted location, having this champions HP*(1.5/2.5/3.5). While it rises from the ground for one second, enemies at the targeted location get slowed by (20/40/60%).
+			Once it has risen, it is controllable. It hits enemys from afar with an iceball, dealing (30/50/70) + 40% AP + 60% AD physical damage and slowing the target by (5/15/25) %.
+			
+			Enemys 400 Units around Elenokoroa get physicaly damaged by an icy storm for (5/20/35) + half the amound of passive stacks per second.
+			
+			She stays active until she gets killed, even if the champion dies.
+			
+		Cooldown: (150/125/100)		Range: 500						Cost: 100 mana
+		
+		
+
+		
+		
+		
+		
+		
+Every freljordan knows his legend. A young man once forged a magical weapon, the Frostrite, and became the most respected swordsman in the freljord. The black sword prevented him from aging and made his skin unpiercable. Some say his blood is cold as the freljordan winter, but everyone honors his doing. Every monster terrorozing the freljord had to bend to his will, living in peace with the tribes. But that's not his main goal. Under his - and his eternal friends, the frost cat Snowflake and the undead dragon Elenokoroa - lead every freljordan soul finds his peace in death. If a war's about to start, every participating tribe seeks Teredo to beg for his help, though, he only fights if it is completely neccessary.
+
+
+
+
+
+
+
+The master of the black blade:
+
+"Are you sure you have what it takes to wield Frostrite?"
+"If I haven't I wouldn't have been able to forge it in the first place! But if you want to try wielding it, go ahead and touch it!"
+"I don't know, shouldn't Avarosa touch it?"
+"You're a fool, as allways. I allready have a magical forged weapon, and happy that if didn't kill me the moment I touched it!"
+"So why would anyone even forge these weapons?"
+"You won't understand if you have never forged a soul into a weapon."
+"So Teredo, why don't you wield it yourself?"
+"You don't know what an onus it is to wield Frostrite. It demands you to forget the life you lived before, to live as a beeing capable of deciding who wins a war!"
+"My family needs me. If I take it, they will starve!"
+"I can't take it either. My wife would kill me, even if I was immortal!"
+"I got it. Everyone has a reason to not wield Frostrite. Avarosa has her bow, and besides that, she's way too old."
+"Hey!"
+"Nearly everyone other here has either a good reason, or is just feared of the risk."
+"Why did you forge such a powerfull weapon in the first place?"
+"Because it was my destiny. I saw this part of my future in a vision."
+"Let's vote on who'll try wielding it. Everyone graves the name of his favourite onto one of this stones!"
+"That won't be nessecary. Who wants the blacksmith to wield it, raises his hand now." Everyone except Avarosa and Teredo rose their hands. "So it's settled then."
+"I'm sorry Teredo, but you are the only one who ever touched Frostrite before, and nobody wants to take the risk Avarosa took with her bow."
+"I understand. If I die, make sure someone who can take responsibility gets to wield it, my queen."
+"I promise."
+
+The handle of Frostrite felt cold like ice. The moment Teredo took the black sword from the table, true ice filling the runes glowed in a ghosty white light. A sharp cold snaped through his entire body, making him unable to move. The flow of the swords magic filled his body, and he knew what to do. "I will leave tonight. If someone wants to see me, look for the frozen throne in the mountains. I now know what I will do in the rest of my eternal life."
+"What are you speaking of? Which throne? What will you do?" Avarosa seemed to have expected the burst of insight Frostrite caused.
+"The throne will be built by me soon. Don't worry, you will know where it is." He rose Frostrite and layed it on his shoulder. "For what I am going to do, I just can say that I am going to protect the freljord."
+"Is that what frostrite wants you to do for your entire existence? I mean, it is noble, but what can a single man do in this case?"
+"I'm not just a mere man anymore. I will have my way to fulfill my mission, even if I only can do one thing at a time."
+
+Avarosa layed her hand onto his shoulder as he was about to leave. "I have to talk to you alone. Can you spare a minute?" Her hand was as cold as his body. One of the prices the magical weapons take from their wielders.
+"What's it? Haven't I answered all of your questions?"
+"Wait until the others are gone, then I'll tell you." So they waited. As the last member of the council finaly left the room, she continued. "You haven't told the full truth, haven't you?"
+"No. The other part is something I won't let anyone know about."
+"Not even your queen?"
+"No, not even you! But you can make my job easier and more fun if you want!"
+"Only if you tell me what you are about to do." He thought about the risk and the reward of this offer.
+"If you keep it for yourself, ~"
+"Yes."
+"~ we have a deal." He groaned. "There are many unhappy souls of dead freljordans around the whole freljord. I am going to give them peace, so they can finaly continue their jurney."
+"That sounds like a huge burden. So what's my part of the deal?"
+"Only make sure every freljordan possible gets buried."
+"That's all?"
+"Yes. If you want, your and your successors dead bodies can be brought to my throne to get burried in a special way."
+"Let's not talk about this, ok? But I will take your offer."
+"I have to go, there are things to do for me to leave."
+"Live well, Teredo, the freljords blade. We may see each other again sometime."
+
+
+
+
+
+The masters of the ice bow:
+
+"Here you come, Avarosa. Ready for your burial?"
+"You have been too long among the dead. You should talk to living humans sometimes."
+"And you just refuse to go on ahead because you want to see your burial. I'll talk to some humans soon, but please stop complaining."
+"Ok, but I keep an eye on you. I told you I'll stay here with you until my bow finaly chooses a new wielder."
+"When is this going to happen? In a thousand years from now?"
+"If I have to stay in this world for that long, I will."
+"You are the most stubborn soul I've ever met. Now stay quiet, they shouldn't know you're here."
+
+Elenokoroa carried the spirit of Avarosa on her back as Teredo rid on Snowflake. "How do you know someone used my bow?"
+"My rune inside your cairn was broken. This is only possible if the bow chooses a new master."
+"Or someone broke it open."
+"That would have triggered your rune. No, someone opened it and took the bow." They rid past the frozen throne, towards the cairn of Avarosa "Thank you for now, Elenokoroa and Snowflake, we'll go alone." As they approached the cairn, they saw footsteps around it. "It seems there was a fight. On the other side are some fresh souls I should save soon. But where are their bodies?"
+"I think I know. Back there, near the trees, some icicles are stuck into something I can't clearly see."
+"You're right. I'll let Elenokoroa attend this business for now. Let's follow the path the new wielder took."
+"How'd you know that this person took the bow away from here?"
+"I can't feel its Magic anymore. Let's go."
+It took the second half of the day to find the camp of the new wielders tribe. Hidden by the dark, they approached it, he just as a shadow among shadows, she invisible for mortal eyes. As he reached the the sleeping wielder of the bow, he rose the flat side of his sword above her, and it began to glow. He hated to destroy the dream of the perfect world the new wielder had. But it had to be.
+
+The meadow disappeared in a strike of black lightning and replaced itself with ice. As Ashe turned around, she took a step back. Before her eyes, there was a throne made of ice. A young man sat on it, a black sword layed over his legs. "So you're the new wielder of Avarosa's bow?"
+"Seems so. Who are you?"
+He laughed. "Normaly I would have the right to ask you that exact question first. But to answer you, I'm the freljords blade."
+"So the legends are true?"
+"Legends are legends. In truth, I'm much more than your legends can tell. So what's about you? I won't want to tell you wielder of the bow all the time."
+"My name's Ashe. I'm the leader o..."
+"I know your position. And I also know what you are going to do."
+"Do you think it will work out?"
+"Depends on you. There are some tribes who think of your kind as weaklings, you know?"
+"I'll convince them."
+"If you can, I'll maybe return to the united tribe and help you reaching your goal. My goal has been archieved a long time ago, but the power of Frostrite doesn't allow me to rejoin a tribe as long as there exist at least two."
+"So you also want me to do this? Everyone speaks of you as cruel, why should I believe you?"
+"I'm not cruel! It's because of my only eternal friends, Elenokoroa and Snowflake, isn't it? I hate fighting, more like anything other!" He took his sword and stood up. He was just a bit taller than Ashe, but his frosty aura made him seem way biger. "And thanks to you, the soul of Avarosa maybe finaly leaves into the afterlife."
+"One moment, you knew Queen Avarosa?"
+"Still knowing her. She is the most stubborn soul I've ever met. But she won't leave until I confirm a new leader of her bow."
+"Don't you think you should show a bit more respect towards her?"
+"Only because she was my queen during nearly my whole youth, that doesn't mean I have to be all 'oh lovely queen' towards her. Besides that, she also is here, but you can't see her because you still are alive."
+"She was there all along?"
+"And she laughs like a child at the moment."
+"Great queen, can you give me advice to my quest?" She asked as the blade of the freljord rolled his eyes.
+"She won't. All you need is her bow." A snowflake rose from the sword and flew into the sky. "I think our time is over. Your tribes elders know where to find me if you ever need my help." He rose his sword "Take care, Ashe, the wielder of avarosas bow." A lightning of pure frost struck into the sky, and Ashe awakened lonely, her hand near the bow.
+
+"Did your really mention my existence?"
+"It doesn't matter, because you promised to leave as soon as a new wielder got chosen." He sat down at the frozen throne and enjoyed the sharp snow blowing into his face.
+"I don't want to go just yet. Let me watch Ashe on her quest, just until she manages to reunite the freljord."
+"You really are going to become the bane of my existence, don't you?"
+"Hey, wielders of the magical weapons of the freljord must work together, don't they?"
+"As long as you help me doing my job, you can watch over her. Just let me know if anything wierd is going on in the world around, ok?"
+"Understood, Teredo, I will."

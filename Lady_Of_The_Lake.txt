@@ -1,0 +1,45 @@
+
+The lady of the Lake:
+	
+	Auto:
+		Melee slap, dealing 40% AP magic damage in a cone of 90° 180 Units.
+		
+	Passive:
+		Lady of the lake:
+			Every Auto Attack creates a fairy, up to (5-14) fairys. Fairys give abilities a special effect. These stay at your side, until they get consumed by an ability or death.
+			
+	Q:
+		Lakewater:
+			The champion shoots 3 water projectiles at once, one following a straight path, two flying curves around it. Enemys hit get (80/120/140/160/180) + 40% AP Magic damage per projectile, allys get healed by (100/150/200/250/300) + 10% AP per projectile.
+			
+			One Fairy can fly with each projectile, priorising the central one, followed by the one which starts on the left side.
+			Fairys do extra damage over time to enemys, equal to (70/90/110/130/150) + 10% AP magic damage over 3 Seconds. Allys get healed over time equal to (50/80/110/140/170) + 15% AP over (20/18/16/14/12) Seconds.
+			
+		Cooldown: 6		Range: 700						Cost: 40/45/50/55/60 Mana
+			
+	W:
+		Deadly shore:
+			The champion shoots a bubble to the targeted location. Once it hits the ground, a small wave gets summoned, moving towards the champion. Every Enemy hit gets damaged by (100/140/160/180/200) +45% AP magic damage. If the enemy moves into the oposite direction, the damage gets multiplied with (1.1/1.2/1.3/1.4/1.5).
+			
+			This Ability consumes up to 5 Fairys.
+			Enemys walking towards them in a (300/350/400/450/500) Unit width (600/700/800/900/1000) Unit length corridor from the location where the bubble landed get slowed by 30% for 1 Seconds per fairy.
+			
+		Cooldown: 13	Range 1000						Cost: 60 Mana
+		
+	E:
+		Liquid body:
+			The Body of this Champion explodes, dealing (95/115/135/155/175) + 40% magic damage to enemys in range and knocking them back for (100/150/200/250/300) Units + their distance to the champion. The Champion recovers over (5/4.25/3.5/2.75/2) Seconds, only able to deal auto attacks.
+			
+			Every fairy available during this recovery period attacks the targets knocked back one time each, dealing (10/20/30/40/50) + 10% AP physical damage. These fairys don't get consumed.
+			
+		Cooldown: 15	Range: (300/350/400/450/500)	Cost: 50 Mana
+			
+	R:
+		Wrath of the Lake:
+			Toggle:
+				A Malestrom gets summoned at the targeted Location, sucking every enemy champion to its center by (150/200/250) Units per second.
+				
+				Every fairy gets consumed.
+				Auto Attacks get replaced by a long range mini malestrom (100 Units diameter) for each fairy, dealing (40/45/50) % AP magic damage to every enemy between this champion and his target. Once all fairys got consumed, the auto attacks get back to normal.
+				
+		Cooldown: 5 	Range: diameter (500/600/700)	Cost: (40/50/60) Mana per Second

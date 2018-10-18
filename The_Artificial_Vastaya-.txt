@@ -1,0 +1,62 @@
+The artificial vastayan:
+
+
+Basic:
+	200 Units melee
+	
+	Fills the darkness bar by 1% per hit.
+
+Passive: 
+	Born from the shadows:
+		This champion can attach to an allied champions shadow in (400-600) Units range. This makes him invisible and immune to all damage until he detaches himself to reappear besides the champion. The champion can travel to another allied champions shadow while inside a shadow. As the champion this champion attached to dies, he can stay inside the shadow for another 4 seconds.
+	
+	Being of true darkness:
+		Every fifth basic attack on a target triggers a drop of darkness, that drops down onto the target in between (2-0.5) and (5-1) seconds, dealing 50% AP magic damage and slowing down the enemy by 60% for (0.5-1) seconds. Has a cooldown of 3 seconds on a target.
+		
+		Fills the darkness bar by 20%.
+		
+	The twilight:
+		Every time the champion does magic damage to another unit, the enemy units darkness bar fills up to a maximum of (20-30)% of their maximum health. If the darkness bar fills over the champions curent health, the champion gets slowed down for the duration and takes (0.1-0.5)% curent life + (0.01-0.1)% missing life damage per 2 seconds. Taking this kind of damage does not cancle any channeling. The champion gets healed by 50% of the damage.
+		
+		The darkness bar slowly empties itself after 10 seconds not taking direct damage from this champion for 5% per second.
+
+Q:
+	Shadow crystal:
+		The champion raises his hand to summon a shadow crystal and send it flying into the targeted direction, piercing through all targets hit, dealing (60/90/120/150/200) +40% AP magic damage.
+		
+		Fills the darkness bar by 2%.
+		
+	Cooldown: 2
+	Cost: 20-10 Mana
+	Range: 1300
+
+W:
+	Raiding lights:
+		The champion dashes into the targeted direction dealing (30/60/90/120/150) + 100% AD physical damage to all targets in a 200 Unit radius as he hits a target.
+		
+		Fills the darkness bar by 5%.
+	
+	Cooldown: 10/9/8/7/6
+	Cost: 30 Mana
+	Range: 600 Units
+	
+E:
+	Twilights illusion:
+		The champion gets immune to one hit for (0.5/1/1.5/2/2.5) seconds. As he gets hit, he teleports behind the source of the damage, knocking up the unit and damaging it for 100 + 80% AP magic damage.
+		
+		Fills the darknes bar by 10%.
+		
+	Cooldown: 30/26/22/18/14
+	Cost: 60 Mana
+	Range: -
+	
+R:
+	Forbidden power:
+		The champion transforms himself into his vastayan form, which grants him claws and wings as well as this ability's passive effect and makes him unstopable for the duration. The champion charges towards the targeted location, surpressing the first enemy hit for 2 seconds. If no enemy champion got hit or the surpression ends, the champion becomes uncontrollable at 200% movement speed and attacks the nearest enemy with its claws for (130/180/230)% AD damage and an attack Speed of 1. As more than one enemy is in (300/500/700) Units range, another target can be chosen. This ability ends after 5 seconds, transforming the champion back to his human form, leaving behind the wings and this ability's passive effect.
+		
+	Passive: Wings of the twilight Vastaya
+		The champion can fly now, making him able to pass terrain and structures once every (5/3.5/2) seconds. This passive gets lost on death.
+		
+	Cooldown: 300/270/240
+	Cost: 100 Mana
+	Range: 2000 Units

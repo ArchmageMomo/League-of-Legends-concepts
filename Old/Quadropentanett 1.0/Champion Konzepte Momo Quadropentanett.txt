@@ -1,0 +1,297 @@
+Set 1:
+
+The Dreamer
+	
+	
+Homeless children in Noxus's streets are doomed to either die or join one of the underground gangs. Though Ildon survived many years, stealing food and fighting back enemys using his small magical talent, until one day, when he got knocked down by an unknown gangmember. As he reawakened, he wasn't in Noxus anymore. It seemed like a stranger saved him, hiding him in a cavehouse until he woke up.
+Years after the stranger, Moies, took him as his student, Moies returned from between the times. Ildon now works for a better world, cleaning Zaun and spying the shadow Isles.
+	
+	
+	Auto:
+		Close range (under 175 Units): Sword scaling on AD
+		Wide range (until 650 Units): Sword-Beam scaling on (45% AP) as AD
+	
+	Passive:
+		Aversion to death: 
+			This champion can not kill anyone (his targets will survive with 1 HP).
+			
+			Once every 5 minutes this champion is able to select one enemy champion who will not be able to kill him. This effect stays active until another champion gets selected.
+			
+			If no allied Champion is nearby when an enemy Minion gets killed, this Champion gets 70% Gold.
+	
+	Q:
+		Twisted Thoughts:
+			The selected Champion * gets sucked towards the targeted location and rooted ** for (0.5/0.8/1.1/1.4/1.7) Seconds
+			
+			Cooldown: 12 sec		Range: 1100 Units
+	
+	W:
+		Sprouting Mind:
+			The selected Ally gets healed by (120/160/220/260/300) + (5/10/15/20/25) % of the teams missing health. The healed champion grows roots towards this champion, healing him by 20% of the healed value. The roots stay for (1/2/3/4/5) Seconds, rooting every enemy passing them for 1 Second.
+			
+			Cooldown: 7 sec		Range: 600 Units
+	
+	E:
+		Contorted Sense:
+			This champion blinks to the targeted area, knocking back every enemy. They get slowed by their AS * (50/60/75/85/100) for (0.5/-/1/-/1.5) Seconds
+			
+			Cooldown: 6 Seconds		Range 1000 Units
+			
+	
+	R:
+		Playtime is over:
+			Every spell casts by any champion* charges this ability by 1. On death 50% of the charges are lost.
+			When this ability is fully charged (at 100) this champion fires a beam which makes every champion* touched visable (for both teams) and selectable for 5 seconds.
+			
+			The selected champion gets 100% of his current health minus (400/325/200%) of his armor and magic resistance true damage.
+			
+			
+			Cooldown: 300 sec		Range: Global
+			
+			
+			
+			
+			
+			
+* allied and enemy
+** if it is an enemy
+
+
+
+
+
+
+
+
+
+
+Set 2:
+
+The Catalyst
+
+
+Bilgewater is a hard place to live. Little Xoxan learned that every day anew, but he never was alone in this city of pirates. There allways was this silent voice, his only true friend. This voice led him to Moies, who told him who he and the voice was and took him as his student.
+Now after Moies reawakening, he seeks to rebuild Shurima with the magic as his eternal friend.
+
+
+
+	Auto:
+		Long range spark (500 Units) scaling on AD
+		
+	Passive:
+		One with the Magic:
+			This Champion can not get any AP by Runes, Masterys and Items. He gets 5% of his current Mana as AP. Also, his Mana gets restored by 33% every 10 Seconds.
+			
+	Q:
+		Will of Magic:
+			This champion shoots a shot of pure energy. Enemys hit get marked, stacking up to 10 marks per enemy. If hit by an Auto attack, up to two marks get consumed, doing (40/60/80) % AP magical damage each.
+	
+		Cooldown: 0.5 Sec	Range: 1200 Units		Cost: 1% Mana
+	
+	W:
+		Magical Desire:
+			Passive:
+				The Champion lets the Magic cast a spark, which jumps around the map, searching for the nearest visable enemy Champion with the highest over all money. This Champion takes (100/150/200/250/300/350) magic Damage and gets silenced for 5 Seconds if hit. If the spark doesn't hit the targeted enemy, he changes his target. A previously targeted Champion gets ignored by the spark until the switch of targets.
+			Active:
+				The Spark does (40/48/56/64/72/80) % AP Magic damage to the nearest enemy champion 250 Units around it and jumps back to the champion. This consumes all magical marks on the champion, doing extra (5/10/15/20/25/30) % AP magic damage per mark.
+				
+		Cooldown: 30 Sec		Range: -			Cost: 10% Mana
+	
+	E:
+		Magical Hunger:
+			The Champion leaps into the targeted direction. If a marked enemy is (50/70/100/140/190/250) Units around him, he consumes all marks, stunning the enemy for 0.2 Seconds per Mark, damaging for (10/15/20/25/30/35) % AP and finishing this abilitys cooldown.
+			
+		Cooldown: 30 Sec		Range: -			Cost: 5%
+	
+	R:
+		Cage of Energies:
+			After targeting a Location (800 Units diameter) and channeling, the Champion gets untargetable and locks the targeted Area for everyone. His Mana gets instantly refilled by 33% and he warps to the center of the targeted Area. Inside the Area, every enemy target gets grounded and damaged by (70/82/95)% AP three times in 1.5 Seconds, each time consuming 33% of the champions curent Mana. After the last tick, the Cage explodes, doing 10% max Life damage to enemy targets up to 100 Units outside of it.
+			
+		Cooldown: 220 Sec		Range: 2000 Units	Cost: ?
+			
+			
+			
+			
+			
+			
+			
+			
+Set 3:
+
+The Corruption
+
+
+He was an Ionian. That was, before he found about his second side. Onnezz fought this side since then, but knew that he would loose. It was just a matter of time. He found Moies and became his student after beeing seperated from his second side. Now his evil side nearly reached his goal, and Onnezz waits in an ionian jail for his time to strike down his former master, who returned from between the times.
+
+
+	Auto:
+		Long range Meele chain-whip (610 Units) scaling on AD
+	
+	Passive:
+		Chained:
+			This Champion is only able to move in a radius of 1000 Units around his ROCK. The Rock can be picked up by an ally for ten seconds (0.2 Seconds Cooldown after the rock was droped). Enemys passing his Chain get damaged by 25% AD and slowed by 50% for 1 Second.
+			
+	Q:
+		Throwing Order:
+			The Rock gets thrown to the targeted Area, pulling the Champion through the Air if he gets outside his passive Range, droping him right beside it. Enemys hit by the Rock get damaged by (75/110/150/180/200) + 50% AD. If they get hit by the Champion, they get damaged by (50/80/110/140/170) + (70/-/80/-/85%) AD. Both do damage in a diametre of 400 Units.
+			
+		Cooldown: 5 Sec			Range: 1500 Units			Cost: 20 Mana
+		
+	W:
+		Curse of the Chain:
+			An orb of dark magic gets thrown into the targeted direction. If an enemy Champion gets hit, he gets this Champions passive for (2/3/4/6/8) seconds.
+			
+		Cooldown: 10 Sec		Range: 1400 Units			Cost: 70 Mana
+		
+	E:
+		Burden and Weapon:
+			Passive: The Rock attacks all targets in 300 Units Range with dark bolts of 10 + (20/30/45/55/65%) AD damage at 70% AS.
+			
+		Cooldown: -				Range: -					Cost: 5/7/10/13/15 Mana per Bolt
+		
+	R:
+		The great binding rock:
+			A Rock with a diameter of 500 Units grows at the targeted Location. Once it has reached its full height after (7/5/2.5) Seconds, every enemy Champion gets this Champions passive for 1 Second. If they are in Range of the great binding Rock, the chain gets connected to it instead of the smaller ones for (2/3/4) Seconds. It breakes after (3/4/5) seconds.
+			
+		Cooldown: 130 Sec		Range: - 					Cost: 100 Mana
+		
+		
+		
+		
+		
+		
+Set 4:
+
+The Illusion
+
+
+Minea grew up in one of the tribes of the Freljord, believing that she's a normal child. Ever since she could think, she wanted to learn. If it was hunting, weaving, fishing or lumbering, she wanted to learn it all. After years, noone could teach her anything she didn't know, so she left her tribe behind and traveled southwards, hoping to find anything new to learn. That was, until she heard about a strange man, living inside a cave. She tried to gather information about both this man and the cave. The Statements had one thing in common, so she went to the cave to see if they were right. Moies indeed was a wise person, but he didn't only gave her wisdom. He also taught her how to use her magical abilities.
+Now her master and friend returned from inbetween times, and she helps her tribe to aid Ashe uniting the Freljord using her illusionary mastership.
+
+
+
+	Auto:
+		550 Units iceshard Projectile scaling with 100% AD (Illusion Auto attacks do 50% of damage)
+	
+	Passive:
+		Illusionary Mastery:
+			For each 100 HP damage on this Champion he creates an Illusion of himself 200 Units around. This Illusions move in a random pattern near the champion and copy every other action of the original. They can be targeted, though, they can't be damaged. After (5-20) seconds the Illusion disappears. Illusions are passable.
+			
+			This Champions HP, Armor and MR Items only extend his MP. (HP: 50%, Armor: 120%, MR: 120%).
+			
+	Q:
+		Fogplay:
+			An Orb of Fog (400 Units diameter) gets thrown to the targeted location, doing (20/30/40/50/60) + (9/10/13/14/16%) AP AOE damage every 0.5 seconds for 5/5.5/6/7/8.5 seconds.
+			
+			Each Illusion casts an equaly shaped orb at a random location 1000 Units around themselve. These Orbs do NO DAMAGE, but reduce the vision of enemy targets by 50% each time they get hit for 1.5 Seconds.
+			
+		Cooldown: 15 Sec		Range: 1000 Units			Cost: 35 Mana
+		
+	W:
+		Living nightmare:
+			Every target 380 Units around the Champion gets damaged by (40/50/60/70/80) + (30/40/45/55/65%) AP.
+			
+			Every Illusion stuns every target 380 Units around for 0.5 Seconds and fears them for an extra 1 Second.
+		
+		Cooldown: 10 Sec		Range: - 					Cost 75/60/55/50/47 Mana
+		
+	E: 
+		Fading Rose: (Enemy visual: Champion dies)
+			This champion becomes invisible for 2/3/5/8/10 seconds. His movement speed rises by (20/30/40/50/65) % while invisible. Any action except moving breaks this spell.
+			
+			Every active Illusion gets consumed, healing this Champion for 50/60/75/95/120 HP
+			
+		Cooldown: 30 Sec		Range: -					Cost: 100 Mana	
+		
+	R:
+		Face reality:
+			Passive: 
+				If the Champion is 670 Units around an ally he turns into an orb of light. Every living ally gets a copy of this orb, which copys abilitys like an illusion would (including R), copying the movement of the Original relative to his nearest ally. Illusions also turn into an orb, but don't get copied to other allys. This does not apply if the ability is on Cooldown.
+			
+			Active:
+				The Champion instantly creates two Illusions and fires a Beam (200 Units width) of iceshards in the direction of the target, doing (290/380/450) + (45/53/60%) AP damage.
+				
+				The Illusions fire a beam each into the same direction (relative to the nearest Fountain), stunning every enemy Champion for 1 Second per hit, consuming the Illusions.
+				
+				Every active orb of light gets blasted onto the target, doing 200/400/600 damage to every other enemy Champion passed once the beams were fired. Each orb does additional 50/75/100 True Damage to the target.
+				
+		Cooldown: 150 Sec		Range: 2000 Units			Cost: 130 Mana
+		
+		
+
+	
+
+
+	
+Set 5:
+
+The Eternal
+
+
+Once Moies was a boy of a vilage near the ironspike mountains, living a normal life. That was until he discovered his bound to the magic by defending his vilage against wolfes. Unfortunatly, nearly everyone got heavily wounded and died. He had no choice than to leave his town, knowing he would starve at his home if he stayed. Since then, many things happened, until he smashed himself between times to restore the balance of the world. Now he has returned from inbetween times to his house in piltover, assisting the Police at catching criminals, but never gets seen. That aside, he is waiting until the day comes, where he is needed to truly restore runeterras balance. Until then, he keeps one of the greatest secret of this universe for himself.
+
+
+
+	Auto:
+		Mostly Melee
+	
+	Passive:
+		Mastery of Energy:
+			This Champion has no Resource. His Abilitys consume the resources of everyone visable nearby (1500 Units), priorizing enemys over neutrals over allys, ignoring buildings.
+			
+			If the target has Mana as Resource, it will get consumed with 1*cost. Rage, Fury, Energy and Heat get consumed with 0.2*cost. If a target has any other resource, no resource at all or his resource completely consumed, his HP get consumed by 2*cost. If a resource gets fully consumed, the remaining cost also consumes HP.
+			
+			If enemys are nearby, they get the cost split. If there are no enemys, but neutral targets, they each consume the cost completely. If only allys are in range, they (excluding himself) get the cost split between them, but they'll be left alive with 1% HP if their HP get consumed. If noone is nearby, his abilitys get disabled.
+			
+	Q:
+		[M] Timewalker:
+			The Champion manipulates time, so he can quickly travel a short distance. Summoning a new weapon, he switches between the sword, two axes and the Hammer (in this order, cycling back to the sword). The Sword does 100% AD Damage at 100% AS (Range: 170 Units). The Axes do 110% AD Damage at 100% AS, but needs a longer time to proceed(Range: 140 Units). The hammer does 90% AD damage in an 150 Unit diameter Area around the target at 50% AS and needs a longer time to proceed (Range: 200 Units).
+			
+		Cooldown: 12/11/10/9/8 Sec		Range: Max 350/380/410/440/470 Units	Cost: 70/90/110/130/150
+	
+	
+		[E] Etherwalker:
+			The Champion travels through the Ether, letting him blink to his targeted location. While he's in Ether, he switches his weapons between two swords, two glaives and an scythe (in this order, cycling back to the swords). The Swords deal 60% AP damage at 150% AS (Range: 160 Units). The glaives do 60% AD damage at 200% AS (Range: 130 Units). The scythe does 100% AD damage at 100% AS, but has a little bit longer time proceed (Ranged, with 500 Units range).
+		
+		Cooldown: 15/12.5/10/8.5/8 Sec	Range: Max 400/420/440/460/480 Units	Cost: 30/55/79/90/109
+		
+	W:
+		[M] Magical catalyst:
+			The champion shoots a crystal into the targeted direction, making the target hit (allied and enemy) a magical catalyst, blasting (5/10/15/20/25) Shots in (1/1.75/2.5/3.25/4) Seconds at random enemy targets in a (200/250/300/350/400) Unit radius (except itself if enemy), each doing (50/60/70/80/90) + 50% AP magical damage.
+		
+		Cooldown: 15/13/11/9/7 Sec		Range: 800 Units						Cost: 60/85/110/135/160
+		
+		
+		[E] Pure eternal love?:
+			The champion shoots a crystal into the targeted direction, charming the target, making it unable to harm this champion for (1/1.2/1.5/1.7/2) Seconds. This also does (90/150/225/268/300) + 50% AD physical damage.
+			
+		Cooldown: 13 Sec				Range: 1000 Units						Cost: 20/30/40/50/60
+			
+	E:
+		[M] True friends:
+			The selected ally (including this champion) gets marked for (2/3/4/5/6) seconds, healing the target by (20/30/40/50/60) % of the physical damage this champion recieves.
+		
+		Cooldown: 24/22/20/18/16 Sec	Range: 800 Units						Cost: 30/50/80/120/170
+		
+		
+		[E] Work of an amateur:
+			The selected ally gets immune to (30/38/46/51/60) % damage from abilitys for (1/1.2/1.4/1.6/1.8) Seconds, reflecting (10/20/35/50/65) % of unblocked damage as magical damage to the caster.
+			
+		Cooldown: 30/27/24/21/19 Sec	Range: 800 Units						Cost: 10/40/80/130/150
+		
+	R:	
+		Not only siblings love:			
+			Passive:
+				AP scales with 134% bonus AD
+				AD scales with 75% bonus AP
+			
+			Passive:
+				If this Champion reaches 30% HP, his dead girlfriend appears in a crystalline body. She is uncontrollable, staying at this champions side, acting intelligently and attacks with a dagger, doing 100% of the champions AD physical damage at his Attack speed. She counts as allied champion. After loosing her HP, (30/50/70) % of the champions HP, her body shatters, and she leaves the Field of justice. If the champion gets lethaly hit, she will change their positions, healing him by (5/15/25) % of her remaining HP and shatters as well. This Ability has a cooldown of 300 Seconds.
+					
+			[M] Active:
+				The champion requests aid of the older sister, the eternity, giving the Magic a break. The wielded Weapon changes: sword -> two swords , axes -> glaives , hammer -> scythe
+				
+			[E] Active:
+				The champion requests aid of the younger sister, the magic, giving the Eternity a break. The wielded Weapon changes: two swords -> sword , glaives -> axes , scythe -> hammer
+				
+		Cooldown: 5 Sec					Range: -								Cost: [M] 30, [E] 100

@@ -1,0 +1,333 @@
+The Dreamer 2
+
+Basic: 
+	230 Melee
+
+P:
+	Aversion to Death:
+		HP of targets Ildon attacks can't drop below 1 HP
+		
+		If an enemy minion dies nearby while no allied champion is nearby and it wasn't killed by an allied champion, Ildon gains 50% of the gold reward from last hitting.
+	
+	The Dreamer:
+		Once every (300-120) seconds Ildon can start dreaming while on fountain, making his basic attacks 650 Units ranged and dealing additional 40% AP damage. Ildon can have two instnaces of Dreams Focus active as long as he dreams.
+		His physical body stays behind as his dream-body becomes his active body. While dreaming Ildon has (1/3/5)% [scaling on ult level] increased MS.
+		Ildon wakes up after taking (50-80%) max health total damage. This includes damage on his pyhsical- and dream-body. It is indicated on his bealth bar.
+		
+Q:
+	Twisted Thoughts (900 Units / (30-11) s / -)
+	
+		The selected champion or epic monster and every similar target{1} in a (50/60/70/80/90) * target AS Units radius gets pulled towards a targeted position in this abilitys range. Enemies and neutral targets hit get rooted for (0/0.2/0.4/0.6/0.8) s after arrival. During the pull targets are immobilized but can still attack with every non-movement ability.
+		
+		Cooldown scales down on the sum of the main targets and Ildons current HP%, caping at 11s at 30%. This ability isn't affected by CDR.
+		
+		{1} Meaning allied, neutral or enemy targets (even those that can't be directly targeted)
+		
+W:
+	Sprouting Mind (600 Units / 7 s / -)
+		
+		The selected Ally gets healed by (120/160/220/260/300) + (5/10/15/20/25) % of the teams missing health. The healed champion grows roots towards this champion, healing him by 20% of the healed value. The roots stay for (1/1.5/2/2.5/3) Seconds, rooting every enemy passing them for 1 Second.
+		
+E:
+	Contorted Sense (400 Units / (15/13/11/9.5/8.5) s / -)
+		
+		Ildon blinks at the targeted location. After 0.3 seconds this ability can be recast to blink at the nearest enemy champion in a (100/130/160/190/220) Units radius. The champion gets slowed by (15/18/21/25/30)% + 75% of their CDR for (1/1.3/1.6/2/2.3) seconds. After the duration, the enemy gets marked for 3 seconds. If Ildon lands a basic attack on the marked champion, the closest enemy in a (200/230/260/290/320) Unit radius to the previously marked champion gets slowed by the same amount, but doesn't get marked.
+	
+R:
+	Dreams Focus (1500 Units / (15/10/5) s / -)
+		
+		Ildon marks an allied champion. Marked champions can't be killed by the first enemy champion they take damage from. They become vulnerable again as the ability gets cast or Ildon dies.
+		
+		
+Ildon doesn't remember where he came from. The first thing he could remember was waking up to the harsh reality of the noxian empire with a burn mark of a rose on his chest.
+He managed to stay alive by begging for food for around a year before someone found him. The eerie man saw a hidden power in Ildon and invited him to be his student.
+As Muolon returned from inbetween time and space, the memories did as well. Ever since, Ildon uses his dreams to uncover the black rose and turn their grasp on the noxian empire to cooperation, as the final fight draws closer.
+
+
+
+
+
+The Chained (former: The Corruption)
+
+Basic:
+	610 Melee
+	
+Passive:
+	Curse of the Chain:
+	
+		Onnezz is chained to a rock. He can only move in a 500 unit Radius around the rock. The rock can be picked up by an allied champion or himself. Whoever carrys the rock gets slowed by 20% after 10 seconds until he drops the rock. Any other action than walking will cancle carrying the rock. Enemies passing his Chain get damaged by 25% AD and slowed by 50% for 1 Second.
+		
+	Split Mind:
+	
+		Magic damage increases Onnezz madness, while physical damage increases his sentience.
+		If Onnezz took (10-0.5) times max HP, he transforms into the corrupted or the iron-willed based on the majority of the damage taken in fountain automaticaly.
+		
+	The Corrupted
+	
+		Onnezz looses his mind. Curse of the Chains damage now scales with 30% current health.
+		All additional AD gets converted to 3 health per point AD instead.
+		The rock can't be picked up anymore but gets pulled by (100-300) Units instead, slowing Onnezz by 30% for 0.1 seconds each time.
+		Basic attack range gets reduced to 490 Units, but hits in an arc of 5° on full range around the target.
+		Basic attack damage scales on 25% max HP
+	
+	The Iron-Willed:
+		
+		Onnezz bests his madness and frees himself from the rock, adapting Curse of the Coain. His bonus AS gets doubled and he can move freely.
+		His basic attack range gets reduced by 100 Units.
+		Bonus MP gets converted to bonus magic damage on basic attacks, making 1 magic damage out of 10 MP.
+	
+Q:
+	Throwing a stone ((450/500/550/600/650) Units / 6 s/ 30 Mana) [Split Mind]
+	
+		Onnezz uses magic to throw his stone towards the targeted location. On impact the stone does (50/70/90/110/130) + 70% AD physical damage in a (50/75/100/125/150) Units radius. If Onnezz is outside the limit of Course of the Chain he also gets pulled towards the location and deals the same amount of damage in the same area.
+		
+	Madness equals Power ( - / 6 s / 50 Mana) [The Corrupted]
+		
+		Onnezz empowers his next basic attack using the rock. The target hit gets stunned for 0.7 seconds and damaged with additional (50/100/150/200/250) + 10% user max HP physical damage.
+		
+	Double chain whip (800 Units / (13/11/9/7/5) s / 30 Mana) [The Iron-Willed]
+		
+		Onnezz enchants his chains and whips them into the targeted direction. If an unit gets hit, he pulles himself towards the target. If the target is an enemy or neutral monster, it gets damaged with (20/40/60/80/100) + 70% AD magic damage and gets disarmed for the duration of the ability.
+		
+W:
+	Unstable Corruption (500 Units / - / -)
+		
+		The rock constantly attacks enemies and neutral monsters in its range, dealing (10/20/30/40/50)+ 70% AD physical damage at 70% AS.
+		
+		[The Corrupted] adds 40% slow for 1 second and converts the damage to (10/20/30/40/50)+ 10% user max HP physical damage in a 100 Units radius around the target.
+		
+	Sharpened Magic ( - / - / 10 Mana) [The Iron-Willed]
+		
+		Every basic attack causes a bleeding effect on the target, dealing (20/40/60/80/100) + 6% Mana over (9/8/7/6/5) seconds.
+		
+E:
+	Break free ( - / (22/19/16/13/10) s / 100 Mana)
+		
+		Onnezz consumes all CC effects currently affecting him. For every CC effect that got consumed he heals for (30/60/90/120/150) + (1/3/5/7/9)% Missing health + AP. If no CC effect got consumed he gains a shield of half the value
+		[The Iron-Willed] also grants him (5/10/15/20/25) % movement speed for 2 * AS seconds.
+		
+	Consuming Madness (600 Units / (15/13.5/12/10.5/9) s / 80 Mana) [The Corrupted]
+		
+		Every unit in range around the rock gets pulled towards the rock for a maximum of (100/130/160/190/210) * (10% of their missing health divided by their MR) Units.
+		
+R:
+	Feeling connected (800 Units / (140/120/100) s / 80 Mana) [Split Mind]
+		
+		Onnezz throws a spectral chain into the targeted direction. Enemy champions hit take (50/100/150) + 100% AP magic damage and extend the chain for 500 units behind them. If the chain hits any other enemy unit or a wall, both enemies take (50/10/150) + 100% AD magic damage and get chained together for 3 seconds, as well as stunned for (0.5/0.75/1) seconds.
+		
+	The Great binding (500 Units / (40/30/20) s / 100 Mana) [The Corrupted]
+	
+		Onnezz summons a shockwave around the rock, damaging all enemys hit with (100/200/300) + 10% user max HP + 10% of their current health physical damage and stunned for 0.25 seconds.
+		
+	Arcane whips ( - / (70/60/50) s / 100 Mana) [The Iron-Willed]
+		
+		Onnezz gains (0/50/100) Units basic attack range, (25/50/75)% AS and on-hit effects get applied one additional time per hit for 5 seconds.
+		This ability breaks the AS Limit.
+
+		
+Onnezz was raised in the ranks of the Kinkou. He only ever heard stories of the noxian invasion, as he was too young to fight himself at the time. One day he got recruited by Zed's order of the shadow, but instead of him mastering the Arts, the Arts mastered him. He was declared dangerous and chased into the woods.
+Just as the madness seemed to overwhelm him, a strange man found and saved him, binding him to an enchanted stone that helped him to stay sane. But even as he started his training under the mans supervision, he ever struggled to keep the madness in check.
+As Muolon returned from inbetween time and space, he returned to Ionia, where he seeks to bring balance to Zed's order of the shadow and reunite it with the Kinkou, as he knows that only together they would survive the final fight.
+
+
+
+
+
+The Believer (former: The Catalyst)
+
+Basic:
+	470 ranged
+	
+P:
+	Nagakabouros company:
+		
+		All abilities can be cast out of movement. Casting abilities grants stacks of tidal force, which stacks up to 10 times. Each stack grants 7% bonus movement speed.
+		Basic attacking at more than 5 stacks unleashes a wave that travels 1000 units in a 100 units straight line, dealing (50-200) damage and rooting for (0-1.5) s based off the amount of stacks. Removes all stacks.
+		Standing still for 2 seconds at a time removes all stacks.
+		
+	The Believer:
+		
+		Every (40-30) seconds an aquatic sphere appears on an aquatic spot of the map. Trillion can hit them with a basic attack or ability once to gain a stack of Nagakabouros presence.
+		Aquatic spheres disappear after (2-5) minutes.
+		Stacks of Nagakabouros presence grant up to 6 ap and 10 ability amplifyer, which varies on the holy phase. The holy phases fluctuates between the phase of the sea and the phase of the bearded lady, former granting the full AP bonus and latter granting the full ability amplifyer bonus.{1}
+		Phases fluctuate in a (240-120) seconds cycle. Casting abilities doubles the cycle speed for 1 second.
+		
+		{1} For every % cycle progress from a maximum, one % of the active cycles reward gets stripped and one % of the other cycles reward is granted.
+		
+Q:
+	Water whip (900 Units / (3/3.5/2/2.5/2) s / (20/18/16/14/12) Mana)
+		Trillion hits the first enemy in a straight line with a water whip. If an enemy is hit every enemy in a 200 units splash radius gets damaged with (60/70/80/90/100) + (40+ability amplifyer/20)% AP magic damage.
+		
+W:
+	Tricky waters (300 Units / (10/9/8/7/6) s / 60 Mana)
+		Trillion positions a puddle of water at the targeted location. After (3/2.5/2/2.5/1) seconds one of the following effects occurs:
+			
+			If the ability amplifyer is lower than 120: The water channels for 0.5 seconds after which it gushes into the direction of the closest champion or enemy in a 600 units radius and damages every enemy hit with (40/60/80/100/120) + 80% AP magic damage.
+	
+			If the ability amplifyer is higher than 120: The water channels for 0.5 seconds after which it gushes into the direction of the closest champion or enemy in a 600 units radius and damages every enemy hit with (40/60/80/100/120) + 50% AP magic damage and pushes them away for (ability amplifyer) Units.
+	
+			If the ability amplifyer is higher than 290: The water channels for 0.5 seconds after which a tentacle extends into the direction of the closest champion or enemy in a 600 units radius, dealing (20/40/60/80/100) + 40% AP magic damage and pulling the first enemy champion hit towards its source for (ability amplifyer) Units.
+		
+		Prioritizes champions.
+	
+E:
+	Concentric waves (700 Units / (20/18/16/14/12) s / 100 Mana)
+		The champion summons a wave that extends into every direction. Enemies hit get damage with (30/50/70/90/110) + 50% AP magic damage [30% against minions].
+		If your ability amplifyer is higher than 200 and lower than 350, enemys hit get slowed by (ability amplifyer/10)% for (0.5/1/1.5/2/2.5) seconds.
+		If your ability amplifyer is higher than 350, enemys hit get rooted for (ability amplifyer/1000) seconds.
+		
+R:
+	Ocean of tentacles (300 Units / (240/190/140) s / 100 Mana)
+		The selected are with (400/625/750) Units radius transforms into a raging vortex for (3/5/7) + 2 * ability amplifyer seconds. Enemy champions inside get damaged with (90/150/210) + 20% AP per second.
+		If the ability amplifyer is higher than 230, enemies inside get slowed by (10/20/30)%.
+		If the ability amplifyer is higher than 400, enemy champions get pulled a max of  (ability amplifyer) Units towards the center of the ability on first contact.
+		
+
+Trillion survived, but the time he wished it was different.
+As a kid he worked at the slaughter docks. One day they brought a big catch for them to disassemble. But contrary to everyones believe, the fish wasn't dead and struggled.
+The next thing Trillion remembered was him lying on a hard bed, numerous bones broken. If it wasn't for the prophet of Nagakabouros he would have died that day. She was the one enforcing propper medication after just Minutes of talking. But it wasn't the medicine that kept him alive. It was his newfound believe in Nagakabouros and Illaois way of living.
+As soon as he was able to walk again he devoted his life to Nagakabouros. He even started the training of the Truth Bearer after surviving the Test of Nagakabouros, but life had other plans.
+During the Harrowing he had a second flirt with death. One of the undead managed to sneak up on him. An outlandish man saved him and invited him to be his student.
+As Muolon returned from inbetween time and space, Trillion returned to Bilgewater to warn Illaoi, as the undead would be the least of their worries in the final fight.
+
+
+
+
+
+The Mirrored (former: The Illusion)
+
+Basic:
+	470 ranged
+
+P:
+	Shattered perception:
+	
+		Allies have an empowered basic attack or ability every 20 seconds. As the empowered attack hits an enemy champion, mist builds in a (50-150) Units radius around them for (3-6) seconds. Enemies inside the mist are unable to see Yanumi unless she uses an ability or basic attacks.
+		
+	The Mirrored:
+		
+		An illusion of Yanumi randomly travels around the map. If the illusion has an enemy champion in (700 - 1300) Units range, it pings the location.
+		If the illusion gets attacked, it takes damage, but never falls below 1HP. After 3 seconds of not taking damage, the illusion explodes in a (300-600) Units radius, dealing (50-250) + 50% AP magic damage.
+		
+		The illusion respawns after (40-20) seconds.
+		
+Q:
+	Mist Ball/Snap freeze/Shatter (1000 Units / (10/9.5/9/8.5/8) s / 20 Mana)
+	
+		On the first cast Yanumi throws a ball of mist into the targeted direction. It deals (30/40/50/60/70) + 40% AP magic damage to all enemies hit and creates mist in a (66/100/133/166/200) Unit radius around them and at its final location. The mist disappears after (4/4.5/5/5.5/6) seconds.
+		
+		On the second cast Yanumi throws a magic bolt into the targeted direction. It deals (40/50/60/70/80) + 45% AP magic damage to the first enemy hit. If the bolt enters the mist all connected mist snap freezes dealing the same amount of damage and stunning all enemies inside for (0.3/0.5/0.7/0.9/1.1) seconds and marking them with frost for 2 seconds.
+		
+		On the third cast Yanumi another magic bolt does (50/60/70/80/90) + 50% AP magic damage to the first enemy hit. If the enemy is marked with frost the damage is doubled and (0/3/5/8/10)% is converted to true damage and the bolt jumps to the next frost marked target in 300 Units range.
+		
+W:
+	Spray of shards (600 Units / max (12/11/10/9/8) s / (10/13/16/19/22) Mana per second)
+		
+		While the button is pressed, iceshards get sprayed in a 5° angle around the targeted direction for a maximum of 4 seconds at a time. Enemies inside get slowed by (5/10/15/20/25)% and hit trice a second, which applies a bleed effect for (10/15/20/25/30) + 10% AP magic damage over (10/8/6/4/2) seconds and reveals the champion for (1/2/3/4/5) seconds.
+		If a frost marked champion gets hit, the damage of the bleeding effect gets doubled.
+		
+		Yanumi can move while casting the ability. The ability recharges based on the time active and can be used as long as more than 1/4 of the ability is charged.
+		
+E:
+	Reflection ((200/240/280/320/360) Units / (24/21/18/15/12) s / 70 Mana)
+		
+		Yanumi places a mirror with (100/150/200/250/300) Units width and blinks to the mirrored location, leaving behind an illusion that moves mirrored to her in a range of (500/750/1000/1250/1500) Units. Yanumi becomes camouflaged for up to 10 seconds.
+		The mirror stays active for (20/30/40/50/60) seconds and is invisible. It can be revealed by true sight. Enemies passing the mirror shatter it, stunning themselves for 0.5 seconds.
+		
+R:
+	Mirror cabinett ( - / (150/130/110) s / 100 Mana)
+		The Cooldown of Mist Ball gets halved for 6 seconds. During that time, (3/4/5) illusions get summoned and attack the selected champion with Mist Ball, dealing (90/80/70)% reduced damage.
+		
+		
+There are agressive and unforgiving tribes in the freljord. Luckily Yanumis isn't one of those.
+She grew up learning about the world and its wonders. Soon her tribe couldn't fulfill her strive for knowledge, so she left to learn whatever she could. This way she met a weird man. As both of them were heading the same way, they traveled together. At some point they got attacked and the man was forced to use magic to defend themselves. Yanumi was fascinated by the elegance and power the man displayed and swore to follow the man to learn more about it. But as soon as the snow settled and the man had studied her face for a while, he offered her something even more valuable.
+As Muolon returned from inbetween time and space, his first student returned to the Freljord. Armed only with magic and determination, Yanumi now strives to unite the tribes and the Frostguard so they would fight together when the final fight comes.
+
+
+
+
+
+The one who has seen the end (former: The Eternal)
+
+Basic:
+	175 Melee
+	
+Passive:
+	Leyline forging:
+		Everywhere Mana gets consumed, energy clouds build. If more than 10 clouds are in a (250-1000) units radius to each other, they collect at their center of mass and form a small ley node.
+		ley nodes collect any energy cloud or smaller ley node in their radius and build leylines to the closest 2 ley nodes.
+		
+		Small ley nodes grant Muolon 1/3 of their stacks as mana regeneration. Small nodes loose 1 stack every 30 seconds if no additional energy clouds get consumed.
+		Small ley nodes upgrade to medium ley nodes at 50 stacks. These grant 2/3 their stacks as mana regeneration to Muolon and loose 1 stack every 90 seconds, no matter if they consume a cloud or not.
+		Medium ley nodes upgrade to a ley fountain at 100 stacks. These grant their amount of stacks as mana regeneration and are stable.
+		
+		Leylines consume energy clouds touching them and transfer them to the weaker unstable node of the ones they are connecting. If a node would upgrade, the stack is lost. They can't grant stacks to ley fountains. Leylines grant mana regeneration based on the ley nodes they connect and Muolons position on them. The ammount is calculated like this: weaker node +(stronger node - weaker node)*relative distance of Muolons location to the weaker node.
+		
+		Both fountains build a ley fountain that starts with 0 stack and gains 10 on allied side or 3 on enemy side stacks per minute.
+		
+		Only Muolon can see ley constructs and profit from them.
+		
+	Shattered and Rebuilt:
+		Muolon enters the field of justice with an alternative version of himself. It can be told where to generally go, but it fights independently. It has access to the same movepool as Muolon with slightly different values and an individual respawn timer. They share the same items and xp.
+		If the player dies and the alternative version is still alive, the player gains controll over it. The player can switch between the two Muolon by Ctrl+5 (Rebindable).
+		
+		The alternative Version can be told to help in jungle and on which lane it shall fight. If it is in a 2000 Units radius of the active version, it can lasthit minions to gain gold and also xp if the active version wouldn't.
+		
+		The inactive version always plays defensive. The inactive version never uses the ultimate and it has a shared cooldown on it.
+		
+Q:
+	Shared Barrage:
+	
+		Male (700 Units / (4/3.5/3/2.5/2) s / 10 + 30 Mana per orb)
+		
+			The first enemy hit in a straight line takes (40/50/60/70/80) + 10% AP magic damage.
+			
+			If the female Muolon is in a (1000/1400/1800/2100/2300) Unit radius of the enemy hit she fires as much bolts as they have stacks of Building Barrage in a 0.05 interval to each other, each dealing (30/45/60/75/90) + 15% AP magic damage, and both Muolon stack one instance of Building Barrage.
+			
+		Female (800 Units / (6/5/4/3/2) s / 20 + 20 Mana per orb)
+		
+			The first enemy hit in a straight line takes (10/20/30/40/50) + 5% AP magic damage.
+			
+			If the male Muolon is in a (900/1100/1400/2700/2000) Unit radius of the enemy hit he fires as much bolts as they have stacks of Building Barrage at once, each dealing (40/55/70/85/100) + 25% AP magic damage, and both Muolon stack one instance of Building Barrage.
+			
+		If no stack of Building Barrage is built in 5 seconds they get reduced to 0. Building Barrage caps at 20.
+		
+W:
+	_ Enchanted Blade:
+		
+		Male: Utopic (230 Units / (14/13/12/11/10) / 100 + 10% Mana)
+			
+			Muolon strikes with his blade. Every enemy in front of him takes (30/60/90/120/150) + Building Barrage % target max health physical damage (20% on Minions) and inflicts healing barrier for (1/1.5/2/2.5/3) seconds.
+			
+			Healing Barrier transfers (20/30/40/50/60) % of received healing to both Muolon.
+			
+		Female: Dystopic (220 Units / (14/13/12/11/10) s / 100 + 10% Mana)
+			
+			Muolon strikes with her blade. Every enemy in front of him takes (30/60/90/120/150) + Building Barrage % user max health physical damage and knocks them back by (40/80/120/160/200) Units.
+			
+E:
+	Male: Bending space ((400/475/550/625/700) Units / 10 s / 100 Mana)
+		
+		Muolon blinks behind his target and deals (20/40/50/80/120) + 20% AP magic damage.
+		
+		If he hits enemies with Utopic Enchanted Blade he gains up to 4 stacks of this ability. Stacks disappear after 2 seconds of not using them.
+		
+	Female: Bending time ((450/500/550/600/650) / (17/15/13/11/9) s / 50 Mana)
+		
+		Muolon dashes into the targeted direction. Every enemy passed will be damaged with (20/50/80/110/140) + 60% AP magical damage after 5 seconds.
+		
+		Muolon can dash a second time, activating the damage on all targets hit instantly and charming the first enemy hit for 1 second.
+		
+R:
+	Shattered between realitys ( - / (270/200/130) s / 15% Mana)
+	
+		Muolon draws the shard of a world rune and bursts himself and his alternative version into a space between realitys. They become invisible untargetable and unable to interact with anything on the map while being able to move around the map. If this ability gets activated on a ley construct a shockwave travels through the ley system and damages each enemy hit with (100/200/300) + 40% AP magic damage.
+		
+		On recast or after (10/20/30) seconds they reappear in an explosion dealing (100/300/500) + 30% (Male) or 20% (Female) AP + (10/25/40)% enemy missing health damage in an 200 (Male) or 300 (Female) Units radius.
+		
+		
+Muolons tribe lived near the mountains north of Rakelstake. One day he learned about his ability to cast magic. He started a journey to find someone who could teach him how to use it propperly, but the only person who seemed capable, an excentric man with blueish skin, refused.
+As time went on, Muolon got better by himself. At some point during his journey he started to questioned what else to do with his life. That's when he met a freaky girl that told him something cryptic before disappearing.
+Stupid as it may sound, this message kept him going. At the time he fully understood the message he had trained four students. To postpone the progress of the void, he and his students tried to shatter a strange runestone between time and space. But something went wrong, and not only the runestone but also Muolon disappeared from the world.
+During his time between realitys Muolon saw a glimpse of things that were and things that will be. Things clearly from other realitys and things that he sought to prevent. His had only himself as a company, but he was many. And then, he got forced back into being. But with him he brought knowledge and what he would have been in another reality.
+Now knowing that the runestone was indeed just a piece of a piece, he seeks to unite Mount Targons Religions, while she strives to calm the Ascended. Both Muolon knew, that the war against the void would only be won if Runeterra stood united.

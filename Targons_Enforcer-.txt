@@ -1,0 +1,82 @@
+Targon's enforcer
+
+
+Basic:
+	Ranged 435 Units (MP)
+
+Passive:
+	Rapid fire
+		This champion's rapid fire gun holds 60 bullets, which get fired in 3 seconds. Reloading speed matches 30% of the attack speed. Each round does 10% AD damage.
+		The Champion can move during basic attacks.
+		Reloads on activation of Protocol: GHOST or when all bullets got shot.
+		
+	Protocol: GHOST
+		Moving out of combat for (5-3) seconds grants invisibility to the champion. Every (0.3-1) seconds, a damage indicator briefly reveals this champion's position if he moves. Using another ability or basic attacking reveals this champion.
+		
+	Protocol: DUPLICATE
+		Dealing damage with an ability or basic attacking out of Protocol: GHOST creates an illusion in the intersection of 500 Units radius around the champion and 500 units radius around his target. This illusion autonomously attacks targets with basic attacks and abilities, but deals no damage. The illusion disappears after (3-5) seconds.
+	
+	Protocol: UPGRADE
+		Every third level instead of perking abilities the champion upgrades them to alter their effects. R gets perkable on lvl 5, 11 and 16.
+	
+Q:
+	Protocol: HACK
+		Staying in range of the targeted enemy champion for (2.5/2/1.5) seconds hacks one of his abilities, adding (2/3.5/5) seconds or (10/15/20)% on ultimates cooldown to it. This ability does not cancel Protocol: GHOST.
+		
+		Neural hack (3 or 6):
+			This ability stuns the enemy for (0.3/0.6/0.9) seconds.
+		Overwhelming hack (9 or 12):
+			The ability hacks all of the enemys abilities, including passive abilities, items and summoner spells, but reduces the hack on ultimate abilities to the basic value.
+		Viral hack (15 or 18):
+			Enemies in a 500 Unit radius of the target during the hack or the effect of the hack also get hacked.
+	
+	Cooldown: 10/8/6
+	Range: 500 Units
+	
+
+W:
+	Protocol: IMPULSE
+		The champion teleports into the targeted direction.
+		
+		Reversed blink (3 or 6)
+			The ability can be recast to return to the location the champion initialy casted the ability for 3 seconds. Cooldown triggers after recast or time's up.
+		Static blink (9 or 12)
+			The blink creates a static field between the location the champion disappears and the location he reappears, dealing (30/70/110) + 30% AD damage to all enemies inside a 100 units wide area.
+		Explosive blink (15 or 18)
+			The champion leaves behind an explosion on every cast of this ability, dealing (50/90/130) + 50% AD to all enemies in a 100 Units radius
+	
+	Cooldown: 2
+	Range: 200/350/500 Units
+	
+E:
+	Protocol: DRONE
+		The champion conjures a drone, which orbits around the targeted target, zapping it for (80/100/120)% AD once per second for 10 seconds before it destroys itself. It can be destroyed with 3 basic hits.
+		
+		Fast drone (3 or 6)
+			The drone's attack speed doubles as its duration lowers to 7 seconds.
+		Tripple drone (9 or 12)
+			Two additional drones orbit the champion. All three deal 40% of the previous damage.
+		Boom drone (15 or 18)
+			The drone explodes as it gets destroyed, dealing (30/50/70) + 40% AP damage to all enemies in a 150 Unit radius.
+		
+	Cooldown: 20
+	Range: 500 Units
+
+R:
+	Protocol: AIM
+		The Champion roots himself and charges one massive but slow energy projectile for one second before firing it into the direction the target was on cast. The shot homes towards the targeted enemy with a wide turning radius, dealing (100/150/200) + 40% AD + 6% missing health damage on impact. Disappears on impact or after 10 seconds.
+		
+		Splitting bolt (6)
+			After 10 seconds of not hitting the targeted enemy the projectile bursts into 5 smaller bolts with higher speed and small turning radius, which home for a random enemy target near their location. These bolts always hit dealing (30/60/90) + 10% AD damage.
+		Tri bolt (9 or 12)
+			Three projectiles get fired for (100/130/160) + 30% AD + 6% missing health damage each.
+		Legendary bolt (15 or 18)
+			The ability can be cast on epic and legendary monsters for 1.5 times the damage.
+	
+	Cooldown: 100/80/60
+	Range: 4000 Units
+	
+	
+	
+	
+As a specially trained unit in Targon's army, her sole purpose and profession is to assassinate individuals fighting against Targon's power. Seeking for Aurelion Sol, who decided to betray Targon to regain his freedom, she followed him to Runeterra. There she lost against the Star Forger. With her remaining power she was able to flee onto the Planet, where she passed out. As she woke up again, she realized that someone had taken care of her wounds. Her damaged equipment was nowhere to be found. As she sneaked out of the hospital, she bumped into a human. Recognizing her as the one who fell from the sky, she took her to her office and returned her equipment. The enforcer quickly repaired it with some help of Caitlyns coworker, Vi, so she could return to fight the cosmic dragon. As a sign of her gratitude for the help she offered to help them hunting down a villan they had been chasing for a while.

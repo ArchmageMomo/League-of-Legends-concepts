@@ -1,0 +1,53 @@
+Ohmstone 1000G
+	Amplifying Tome
+	Faerie Charm
+	440G
+	
+	40 AP
+	+50% Mana Reg
+	+5% CDR
+	
+	Unique Active Ohmstone:
+		Targets an enemy turret to prevent it from attacking for 2 seconds and sets them in stasis for 1 second after. This effect cannot be used against the same tower more than once every 8 seconds. Gets converted into broken Ohmstone after use.
+		
+Broken Ohmstone
+	40 AP
+	+50% Mana Reg
+	+5% CDR
+
+Ohmwrecker 3000G
+	Raptor Cloak
+	Ohmstone/Broken Ohmstone
+	1100G
+	
+	60 AP
+	50 Armor
+	10% CDR
+	100% Mana and Health reg
+	
+	Unique Passive Point Runner:
+		Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+		
+	Unique Active Ohmwrecker:
+		Targets an area within 7000 Units around an objective (Tower, Inhibitor, Legendary Monster, ...). After a 1 second delay everything in this area except towers and champions get set to stasis for 4 seconds and towers will get prevented from attacking for 2 seconds before getting set to stasis for 2 seconds. If the casting champion sets an enemy champion below 70%, 50% or anything below 30% health the spell gets cancled. This item can't be used for 2 seconds after dealing damage. (Cooldown 220 seconds)
+		
+	Unique Passive Ohm Runner:
+		Allys within 300 Units from a Unit affected by Ohmwrecker or Ohmstone gain 30% Movement Speed. The user gets 5% of its Ultimates cooldown refounded for each allied champion affected. If the Ultimate is off cooldown, the user gains 3% CDR per affected allied champion for 3 seconds instead (lifts CDR limit).
+		
+Ohmcrusher (Ornn Masterpiece)
+	Ohmwrecker
+	1000G
+	
+	90 AP
+	70 Armor
+	20% CDR
+	200% Mana and Health reg
+	
+	Unique Passive Point Runner:
+		Builds up to 20% bonus movement speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+		
+	Unique Active Ohmwrecker:
+		Targets an area within 7000 Units around an objective (Tower, Inhibitor, Legendary Monster). After a 1 second delay everything in this area except towers and champions get set to stasis for 4 seconds and towers will get prevented from attacking for 2 seconds before getting set to stasis for 2 seconds. If the casting champion sets an enemy champion below 70%, 50% or anything below 30% health the spell gets cancled. This item can't be used for 2 seconds after dealing damage. (Cooldown 220 seconds)
+		
+	Unique Passive Ohm Runner:
+		Allys within 300 Units from a Unit affected by Ohmwrecker or Ohmstone gain 30% Movement Speed. The user gets 5% of its Ultimates cooldown refounded for each allied champion affected. If the Ultimate is off cooldown, the user gains 3% CDR per affected allied champion for 3 seconds instead (lifts CDR limit).

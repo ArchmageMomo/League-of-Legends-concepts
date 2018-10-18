@@ -1,0 +1,116 @@
+Auto:
+	Melee knife hit scaling on AD. Wounds chest.
+
+Passive:
+	Sadistic bloodlust:
+		Auto attacks and abilitys wound vitals of enemy champions and epic monsters. Every wounded vital stays active for 5 seconds. Wounding a new vital resets the duration of the  active vitals.
+		After the vitals deactivate, the champion hit gets damaged by (duration active * vitals wounded)*13% AD over (vitals wounded) seconds.
+		
+		Every wounded vital creates one blood every second. Blood stays on the ground for five seconds and can be collected by this champion. Collecting blood increases this champions AD by (0.1-2) per blood and decreases the cooldown of his abilitys by 0.01 seconds. Blood can be collected up to 50 times.
+		
+		Blood decays by 5 every 40 seconds if out of combat. Blood completely discharges after beeing killed.
+		
+		Only one of her auto attack buffs can be active at once.
+
+Q:
+	Smile!:
+		The next auto attack deals silence for (0.5/0.6/0.7/0.8/0.9) seconds. Wounds head.
+	See that?:
+		The champion halves the enemys vision for (0.5/0.6/0.7/0.8/0.9) seconds and deals auto attack damage. Wounds head.
+	Cooldown: 7		Range: -
+
+W:
+	Hug me!:
+		The next auto attack lowers AS by (20/30/40/50/60)% for two seconds. Wounds arms.
+	Beautiful Chest!:
+		Deals (1.1/1.2/1.3/1.4/1.5) times auto attack damage. Wounds chest.
+	
+	Cooldown: 7		Range:-
+	
+E:
+	Run!:
+		The next auto attack roots the enemy for (0.4/0.8/1.2/1.6/2) seconds. Wounds legs.
+	You don't need them!:
+		The enemy can't auto attack for (0.5/0.7/0.9/1.1/1.3) seconds. Deals auto attack damage. Wounds arms.
+		
+	Cooldown: 7		Range:-
+	
+R:
+	Let's Play!:
+		The champion leaps into the targeted direction. If an enemy got hit, this champion will connect with him, slowing him for (10/25/40) %.
+		The hit champion won't be able to attack this champion directly, but other champions, traps, minions, neutral monsters and towers can. Moving breaks the ability.
+		
+		The secondary moveset will activate while you are connected with the champion.
+		
+	Cooldown: 60	Range: 500
+	
+	Dirty trick:
+		The enemy gets stunned for (0.5/1/1.5) seconds. Deals auto attack damage. Wounds legs.
+	
+	Cooldown:7		Range: -
+	
+	
+	
+	
+
+	
+Beleno Milenad grew up in a rich family of piltover. One day, an assassin killed her father in front of her eyes, making her realize her fascination of blood and brutality. Officially, the assassin also killed her mother too, but Beleno is the only one knowing the truth. As the only descendant of this family, Beleno owns the mansion and all the treasures of her family. She later was picked up as the assistent of a shady woman, where she saw girls break under the brutality of men. Every broken girl was her payment for assisting there.
+Now she trys to keep her desire under control and only graves her sadistic line through all she thinks of deserving it. But sometimes, the animal inside her takes control.
+
+
+
+
+
+
+The night, when innocence died:
+
+"Dad!" The shadow of the woman disappeared in the shadows as she heard Belenos whisper. It also was the moment when Beleno saw the red liquid pouring out of her fathers chest. "Your blood..." she walked towards him like hypnotized. "... it is..." she touched his wound. "... so beautiful..." She took the knife out of his dead hand and hit his shoulder to see more of the beautiful red. "Give me more of your blood!" She stroke some of her hair out of her face, ignoring the fact that her hand was bloody. "I need more... do you think mother has some she would like to share with me?" She giggled as she came up with a plan. She hid behind the door and took a deep breath. Then she screamed. Beleno didn't have to wait long for her mother to run into the room. She screamed as Beleno attacked her from behind, but went quiet as Beleno stuffed her plush poro into her mouth. Her mother wasn't able to resist her as Beleno broke her shoulder. "It wouldn't be fun if you give me all at once, would it?" Her mothers eyes were opened wide and tears were flowing down her cheeks. "Don't look at me like that!" Beleno whispered, cutting her mothers eyes. "I never knew blood can be so beautiful... Why haven't you told me?" She stabbed her abdomen.
+
+As she awoke from her trance, her mother was dead and the floor and Belenos body were covered in blood. The corpse of her mother looked like a morbid artwork. "I am sorry." Beleno said, then ran out of the mansion to contact the police. As she passed a mirror, she saw her face. Only a handprint of red was on it. A handprint, biger than herselfs. She sobed, as she passed the shocked peasents. As she entered the police station, she said "My parents..." and lost conciousness as she collapsed in front of the citys most famous officers.
+
+
+
+The night, when life got meaningful:
+
+The shady woman steped infront of her. "I've heard rumors about you."
+"Oh, have you?" Beleno asked.
+"You seem to struggle with getting a job. I could offer you one."
+"Describe what you're doing."
+"I organize girls who offer men, let's say special things, to gain information."
+"I won't do this. I'm not that desperate."
+"I would have offered you something completely different." The woman answered. "I'm starting to have a hard time to organize the girls and utilizing the information, so I am looking for someone to assist me with that."
+"Give me time to think about it. Where should I contact you?"
+"I'll be waiting here every day at this time for a week." The woman smiled, then steped back into the shadows. "Have a nice night, Milenad"
+
+
+
+The night, when purity returned:
+
+"So we meet again." Vi stood with before her, her hands on the hips. "I never thought you may be our contact at catching this woman!"
+"Neither have I. I'm leading you to her place."
+"One moment. Why should I trust you?"
+"Don't you think that if she catches me I'll be dead?"
+"There's no proof." Beleno sighed.
+"If I tell you where I got the information from, will you believe me?"
+"That's not my decision. So go ahead."
+"I work at her office, sorting the information for her. Yesterday I got some information that looked like it connects her to this big crime you are after."
+"That's not enough proof for us."
+"I can give you what the girl gave me. I don't really think you want to touch it, but if you want, I put on my gloves and give it to you."
+"Just show it to me, ok?" Beleno did as she was told.
+"Gosh, put away that filthy piece of paper! How could you even work for her?"
+"I had no choice! You told me to take a job, and she was the only one who actually wanted someone as young as me to work for her!"
+"That's gross! If we'd known..."
+"Do you want to follow me now? This woman has to pay for her crime!"
+"Ok, go ahead. But know, if this is a trap, you are the first one to die!"
+
+
+
+The night, when a star died:
+
+While some Star Guardians serve the light of the first star with honor, others don't cringe from using everything they deem necessary. These Star Guardians wouldn't resist killing other Guardians to reach their goal and still their desires.
+
+That's what Beleno finaly understood. She pulled her knife out of the former Guardians dead disembered body. Janna stood aside, fear in her eyes. "You know, when you want to stop me, you'll be next. You might as well help me now, so their stupidity wasn't a complete waste."
+"I'm sorry, but I won't help you. You killed my beloved team, just to be able to fulfill you mission!"
+"There was no other way!"
+"There was, but you weren't able to see it! Now go, try to complete this mission, as now your way is the only way possible!"
+"At least I don't have to massacre you as well. Serve well, 'leader'." Then she ran. Her mission awaited to be finished.

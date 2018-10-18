@@ -1,0 +1,37 @@
+The reconstructed bladesman:
+	
+	Auto:
+		Slash 160 Units range scaling on AD
+	
+	Passive:
+		The helixblade:
+			As the CSC and the MS can't rise from Items, the AD rises in exchange.
+			
+			Bonus AD from bonus CSC: (1 per percent)
+			Bonus AD from bonus MS: (1 per point)
+			
+	Q:
+		Split and Reconnect:
+			The Helixblade splits up and reconnects into two seperate swords / The Helixblade splits up and reconnects into one connected glaive. Each enemy hit by the transformation gets damaged by (70/80/90/100/110) % AD.
+			
+			The blades now do 80% AD damage at 100% AS. Range reduces to 125 Units. / The blade now does 100% AD damage at 80% AS. Range returns to normal.
+		
+		CD:	2		Range:	200			Cost:	5% max Health
+		
+	W:
+		Recoded Genetics:
+			The enemies last used ability gets unavailable for (2/3/4/5/6) seconds.
+		
+		CD: 12		Range:	400			Cost:	3% max Health
+	
+	E:
+		Swirling helixes:
+			The champion dashes towards the targeted location, where he swirls his blade(s) around him. This deals (40/50/60/70/80) + 60% AP damage to all enemys in a 200 Units radius.
+			
+		CD:	8		Range:	400			Cost: 	7% max Health
+	
+	R:
+		The Worlds Helix:
+			The Champion rams his blade(s) into the ground, dealing 100% AD damage to all Enemys 200 units around. 2 seconds after, every enemy on the map gets knocked up and damaged for (250/325/400) + 60% AD damage.
+		
+		CD:	200		Range: global		Cost:	10% max Health

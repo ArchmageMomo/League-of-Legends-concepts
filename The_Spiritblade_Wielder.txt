@@ -1,0 +1,74 @@
+Naraja, the Spiritblade wielder
+Resource: Mana
+
+P: Engraved with Spirits
+
+	Attack Speed gets increased by [100-200]% CDR.
+
+
+P: Drawing Attention (CD: [60-30] sec)
+	
+	Enemies marked for more than 20 seconds get rooted for [0.3-2] seconds and dealing [0-100]% AD or [0-65]% AP adaptive true damage if it wouldn't kill the target.
+
+
+Q: Indirect Combat (- # / 7 sec / 500 units) {Gets treated as basic attack but can't apply all types of On-Hit effects}{CDR increases the abilitys animation speed}{area covered by the slashes is 50 to 100 units wide}
+
+	Naraja sweeps his blade, releasing a magical wave dealing [20/40/50/70/90] (+ 80% AD or + 55% AP - 40% on the lower stat) damage, half magic half physical, to every enemy in its path (40% to minions). The ability has a window of 4.2 seconds to be recast and can be recast up to 4 times, each resetting the window to 4.2 seconds.
+	Enemies in Basic attack range get damaged by [40/65/90/115/140] (+ 120% AD or + 75% AP - 40% on the lower stat) physical damage instead.
+	The last Champion hit by the ability gets marked for [3/3.5/4/4.5/5] seconds.
+	CDR on this ability is doubled.
+
+
+W: Spirit Shield (100 # / [45/41/37/33/29] sec / - units) {After redirection targeted projectiles target their caster if visable, else they disappear}
+
+	Naraja summons a tempest of spirits around him. The next [1/1/1/2/2] projectiles hitting him within the next [1/2/2.5/3/3] seconds swirl around him. After [3/3/2/2/1] rotations, the projectile gets shot into the direction it came from, dealing an additional 10% AD damage.
+	While the projectile swirls around Naraja, it can hit both allies and enemies. After being released, it can only hit enemies.
+	Projectiles keep their characteristics.
+
+
+E: Spirits Path ([70/65/60/55/50] # / 15 sec / 700 units)
+
+	Naraja opens a path to the spirit realm in front of him, creating an area {400 Units cone} of spirit energy in front of it, dealing (10/15/20/25/35) + 30% AP per second to enemies inside. Effect lasts for 4 seconds
+	If an enemy champion is marked, a similar path is opened behind him. Naraja travels through the path and disarms the enemy for 0.8 seconds. The mark gets cleared.
+
+
+R: Border of Illusions (100 # / [150/120/90] sec / -) {Not affected by any CDR}
+
+	Naraja breaks the borders to the spirit realm and creates [3/6/10] illusions of himself at random locations (on SR in jungle). The illusions wander around the map for [10/15/20] seconds.
+	Illusions grant vision in [50/70/100]% of base radius and disappear if hit by an enemy champion or tower twice. Illusions are imune to other sources of damage. Destroyed illusions reduce the cooldown of this ability by [0/1/2] seconds. Destroying illusions grants rewards equal to wards times 1.5.
+	Naraja can recast the ability to redirect the closest illusion.
+
+	As the ability ends, all illusions get sucked back to Naraja, dealing ([100/300/500] + 50% AP) * (1+0.5*CDR (on this ability)) magic damage to all enemies they pass.
+	The ability doesn't get interrupted by death.
+	
+	
+	
+	
+	
+	
+Not many who pass the border to the spirit realm survive and those who did never returned. Except Naraja, that is. Entering the world of spirits as a child barely able to crawl, he lived among them for decades in which he barely aged. One day, the spirits requested of him to return to the physical realm to do their bidding. Now he roams Runeterra, sword in hand, to end whomever threatens the spirits he calls family.
+
+
+
+
+
+
+Play as:
+	--Don't rely only on 'Indirect Combat' as it can be dodged. Use your basic attacks to guarantee a hit.
+	--To apply non-stacking On-Hit Effects like 'Spellblade' use basic attacks
+	--'Spirits Path' can be helpful to secure kills, but can also doom Naraja. Be careful if you can't see the currently marked enemy and its surrounding.
+	--'Border of Illusions' does great damage if positioned right. 
+	--Projectiles circling around Naraja after hitting a 'Spirit Shield' can hit allies and enemies alike. Take care not to hit that low-health Yasuo you try to protect.
+	--Naraja is most effective against isolated targets due to his marks.
+	--'Border of Illusions' can still be used and controlled after death. Keep that in mind to aid your team.
+	--One way to use 'Border of Illusions' is to act like an illusion to sneak up on enemies.
+	
+Play against:
+	--Naraja struggles to hit multiple enemies, especially when they have a greater range than his 'Indirect Combat'.
+	--Naraja scales on items. Keep him from farming or getting kills to keep his early and midgame low.
+	--Evaluate if it is worth to get rid of Narajas illusions. Not all of them can get dangerous for your team.
+	--Naraja will try to engage a fight when 'Border of Illusions' duration ends to deal the highest possible damage. That is your opportunity to use your defensive abilities.
+	--Naraja needs offensive items to be a danger. As a result, his defensive is bad which makes mistakes extremely punishable.
+	--Assassins are his worst nightmare.
+	--Not every Naraja you see during 'Border of Illusions' is an actual illusion. If you don't know where he is, keep your distance to them.
+	--You can prevent huge chunks of damage by forcing Naraja to reset his mark. This can be achieved by letting a teammate catch one of his 'Indirect Combat' casts.

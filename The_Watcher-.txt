@@ -1,0 +1,50 @@
+The Watcher:
+
+Basic:
+	470 ranged
+
+Passive:
+	The other eye of the Watcher:
+		Using a warding trinket places a ward of the currently active type and activates the next type of ward. (Warding Totem -> Farsight alteration -> Control ward -> Warding Totem)
+		Trinket cooldown gets reduced by 25%.
+		
+		The champion only generates vision on his left side. Vision radius is increased by (30-60)%.
+		
+	The recovered eye of the Watcher:
+		As Eye of the Watchers gets purchased and carried away from the shop, it gets fully consumed, granting the champion its passive effects and stats, as well as vision on his right side.
+		
+		Trinkets get replaced with the Watchers Eyeballs, which has a 4000 Units range and places an Eye ward at the targeted location. The trinket has a 80 seconds cooldown and can hold up to 4 charges
+		Eye wards generate vision for 300 seconds and rotate, acting as control wards in a 15° radius where it points to.
+		Eye wards can take 4 hits.
+		
+Q:
+	Freezing rivers:
+		The champion summons a flow of water into the targeted direction from a source-point, which slows and every enemy inside a 200 x 500 area by (20/25/30/35/40)% and damages them by (30/50/70/90/110) + 50% AP every 0.2 seconds for 2 seconds, before it collapses, rooting every enemy inside for (0.4/0.6/0.8/1/1.2) seconds.
+	
+	Cooldown: 6
+	Cost: 40
+	Range: 700
+	
+W:
+	The Watchers grasp:
+		The champion places a shield on an targeted ally. For (4/4.5/5/5.5/6) seconds, every time the ally takes damage, (50/80/110/140/170) + 60% AP damage gets returned to its source. If the ally gets out of range, the ability gets finished.
+		
+	Cooldown: 6
+	Cost: 40
+	Range: 1000
+
+E:
+	Frozen call:
+		Spears of ice grow out of the targeted location and charge towards the champion, pulling every enemy unit with them for (100/170/240/310/480) Units and damaging them for (50/70/90/110/130) + 20% AP.
+		
+	Cooldown: 6
+	Cost: 40
+	Range: 700
+
+R:
+	Watchers sight:
+		A beam of Light strikes every enemy in a targeted 300 Units radius location, stunning them for 1 second and damaging them for (100/150/200) + 40% AP magic damage. An Eye Ward gets placed in the center of the Beam. Hit enemies stay visible for (5/10/15) seconds.
+		
+	Cooldown: 80
+	Cost: 70
+	Range: global

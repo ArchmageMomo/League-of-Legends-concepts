@@ -1,0 +1,65 @@
+The twilight maiden:
+	Basic:
+		550 Units
+		
+	Passive:
+		Twilight Blood:
+			Every unit except champions and legendary monsters have a shadow.
+			
+			Units without shadows recieve additional 20% AP magical damage from basic attacks.
+	
+	Q:
+		Dim call:
+			The champion throws a ball of twilight through a twilight rift over his head. After 5 seconds the targeted neutral or enemy unit gets damaged by (10/20/30/40/50) true damage and (10/30/50/70/90) + 50% AP magical damage. Every unit with a twilight mark recieves bonus damage equal to (10/20/30/40/50) true damage and (50/60/70/80/90)% AP magic damage. During the 5 seconds the portal builds up over the targeted unit.
+		
+		Cooldown: 11/10/9/8/7
+		Cost: 40 Mana
+		Range: 600 Units
+		
+	W:
+		Twilight shard:
+			After channeling for 0.2 seconds, a shard of twilight energy gets shot into the targeted direction. As it hits an enemy or neutral unit, it deals (20/40/60/80/100) + 30% AP magical damage. If (1/-/-/2/-) enemy champions are in an (50/100/125/150/200) unit radius of the hit target, a rift to the twilight realm opens between the hit target and them. The rift stays open for (0.5/1/1.5/2/2.5) seconds. Rifts aply a twilight mark on enemy or netural units passing it and damage champions with (30/50/70/90/110) +60% AP magical damage once. Twilight marks disappear after (6/7/8/9/10) seconds.
+		
+		Cooldown: 10/9/8/7/6
+		Cost: 40/45/50/55/60 Mana
+		Range: 700 Units
+		
+	E:
+		Hidden aid:
+			If the target has a shadow, it gets consumed and conjures a twilight wolf. If the targeted unit is marked with a twilight mark, it spreads the effect on every other unit with a twilight mark except champions, consuming their mark.
+			Twilight wolves have the same percantage of health as their originating unit. Depending on the originating units type, the type of the wolf changes:
+				
+				Minion wolf: doubled amount of health of the originating minion. Every other stat is equal to the originating unit.
+				Caster wolf: doubled amount of health of the originating caster minion. Range is increased by 50 units relative to the originating canon minions. Every other stat is equal to the originating unit.
+				Canon wolf: 1.5 times the amount of health of the originating canon minion. Range is increased by (50/75/100/125/150) units relative to the originating canon minions. Every other stat is equal to the originating unit.
+				Jungle wolf: Stats are trice of the great murk wolfs in the ally-sided jungle.
+				Siege wolf: Stats are equal to the originating siege minion.
+			
+			The wolves follow the champion for (28/36/44/52/60) seconds and attack the latest hit target in a 1200 units range.
+			
+		Cooldown: 40/-/20/-/10 per stack
+		Cost: 60 Mana
+		Range: 300 Units
+	
+	R:
+		Twilight empire:
+			The champion makes itself and everything in a 250 units radius visable for 1 second and creates a twilight zone with a radius of (300/400/500) units at the targeted location. The twilight zone reduces the vision of every enemy or neutral unit inside by (100/150/200) Units and blocks the vision of other units and wards. As an enemy or neutral unit enters or leaves the zone, it gets damaged by (5/10/15)% remaining health + 50% AP magical damage.
+			The zone stays active for (5/7/9) seconds. The ability can be recast during that time to teleport the champion to the center of the zone.
+		
+		Cooldown: 240
+		Cost: 120 Mana
+		Range: 4500 Units
+		
+		
+		
+		
+		
+		
+Downfall of an empire:
+
+"Milady", the servant shouted from afar, "we are being attacked!"
+"Calm down. There's nearly anyone knowing about our empire, and even less know how to enter it." She knew that she was fooling herself. This servant never lied to her.
+"The rift we were researching got instable. Monsters are rushing the research facility!" She noticed the wound on his arm, but forced herself to ignore it.
+"Will we be able to defend ourselves against them?"
+"I don't think ..." She jumped back as her servant started to scream in pain. In the blink of an eye, the servant was gone and a dark purple creature stood in front of her. A creature of the void. Knowing she had no other chance she left the shadows of Zhaun. The twilight realm in the cities shadow collapsed under her command, erasing void creatures as well as her kind, the dim ones, from existence. She sighed as she realized her situation. Now she wasn't only banished from her world, the twilight, also almost everyone who followed her into her exile was dead, burried in the shadows of Zhaun.
+"But you would never leave me, right?" Dozends of red eyes opened in her shadow. "Unfortunately I can't carry all of you around in the bright world. You have to seek shelter in the shadows of the natives around me." The twilight wolves wimpered. "I don't like it either, but it has to be this way. I may have to live among the bright ones for some while." Slowly the wolves jumped out of her shadow, just to enter Zhaun's. As the last one left, she turned to the cities gate. She wasn't a queen anymore. She wasn't even anything anymore, just an unknown girl in a pested city

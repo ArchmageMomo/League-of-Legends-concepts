@@ -1,0 +1,99 @@
+Ymaldil, the Gunblade master
+
+Once Ymaldil was a proud member of the royal guard of Demacia. During the little bit of spare time he had, he worked together with a blacksmith he was friends with on a new type of weapon, which basically was a Bilgewaterian gun mounted on a sword. Eventually, they managed to get a prototype working, just before Ymaldil had to accompany King Jarvan on his journey to the frontline. The night before battle, Ymaldil decided to practice with his new weapon. He did it in secret inside the near forest, as he didn't want anyone to know about it before battle. Too late he noticed a major flaw in their design and knocked himself unconscious.
+Ymaldil woke up to the sound of battle. As he made his way towards the battle he froze to the sight of a bluely glowing cloud aproaching him. He rose his sword in a desperate attempt to fend it off, but ultimately got surrounded by it. The cloud passed, leaving Ymaldil feeling stronger than he ever felt before.
+As he aproached the battlefield he knew something was wrong. The Demacian soldiers backed away from the Noxian army, or more specificaly a giant man swinging an equally giant axe. He wore a crown on his head, which unmistakenly belonged to Jarvan. He approached the man he realized being the Hand of Noxus. Out of pure luck, Ymaldil took him by surprise and shot a bullet into Sion's jaw. This time, the weapon didn't malfunction, but instead seemed to cause the giant statue they brought into battle to come to life and attack the giant man.
+With the hand of Noxus dead, the Battle soon came to an end. But instead of thankfulness Ymaldil got not only got accused of breaking his vow, but also of using magic. As it was his duty, he layed down his weapon and waited for his judgement. He was exiled, but got to keep the his belongings.
+He traveled to Piltover, where he not only learned more about magic, but also improved his weapon with a new, more precise design and the active use of magic. As he observed the magical clouds only he seemed to be able to see he learned about the world runes and a man who was commonly called 'The Nomad Archmage' and seemed to collect them.
+Ever since Ymaldil travels the world in a seemingly infinite search for Ryze to warn him, not about the world runes in general, but the one they stood on all along named Runeterra.
+
+
+Basic: 200 units
+
+P: Rounds of betrayal:
+	Ymaldils gunblade can hold up to 6 rounds.
+	Every ability loads individual rounds into the gunblade:
+		Frozen Vortex:
+			Ranged: Leaves behind a trail that increases all allies movement speed for [5-20]%. Slows enemies by the same amount on hit for 1 second.
+			Melee: Sucks in all enemies in a 300 units radius for 3 seconds by 400 units per second around the hit enemy.
+		Hextech: Deals the abilities damage as AoE damage around all enemies hit. If used Melee, each enemy champion hit by the AoE effect triggers another AoE burst once.
+		Warping:
+			Ranged: Warps Ymaldil to the first champion hit (enemy and allied)
+			Melee: Triggers 'Aetheral shadows' on the ally with the lowest current health, but doesn't add another round of Warping Bullets
+		Split:
+			Ranged: Fires two additional bullets.
+			Melee: Hits three more times with 100% AD.
+		Crimson: Deals the greater of 50% AD and 40% AP as true damage.
+		
+P: Arcane edge
+	Ymaldil collects up to [200-1000] energy from arcane streams traveling on fixed routes around the map, each holding [20-500] arcane energy. Ymaldil deals additional (Charges/100 * AP/100) true damage on all abilities.
+	He also collects [0-10] charges per champion hit.
+	At full charge he loads a frozen Vortex bullet every 30 seconds.
+	
+P: Runeterran Lifeline
+	As Ymaldil's HP drop to zero, every additional damage drains his arcane charges.
+
+Q: Pull the trigger (1 round/~/[800-1100])
+	A shot and the next bullet gets fired into the targeted direction dealing the greater of 95% AD and 80% AP to all enemies passed as magical damage and uses the next round loaded.
+	The ability can also be used during a basic attack to use the next bullet and deal a bonus (50/100/150/200/250) + 70% AD physical damage.
+	
+	Cooldown is relative to attack speed.
+
+W: Aetheral shadows (~/(30/24/16/12/9) sec/~)
+	Ymaldil prepares himself for the next hit and is able to negate the next champion ability or basic attack. The ability lasts for (1/1.3/1.6/1.9/2.2) seconds.
+
+E: Reposition and aim (~/5 sec/300)
+	Ymaldil dashes into the targeted direction. If an enemy is in a (1000/950/900/850/800) Units radius he loads a Split bullet and has aditional (10/8/6/4/2) seconds cooldown. If he is in an arcane stream the cooldown gets reduced to 0.
+
+R: Full scoped Gunblade (~/120/global)
+	Ymaldil fuses all rounds in his gunblade. Either he uses 'Pull the trigger' to apply all effects of the fused bullets at once or he recasts this ability and aims for (2/1.7/1.5) seconds.
+	While aiming he can adjust the angle by a max of 10°. As the time runs out he fires one bullet in a straight line which deals (100/200/300) + 100% AD + (7/10/13)% missing health physical damage, followed by 2 arking bullets which deal (100/200/300) + 65% AP + (3/5/7)% max health magical damage each. Each bullet applies additional (10/20/30) + 1% current health true Damage per round fused. All bullets can pierce walls and minions, but hit epic monsters, legendary monsters and champions.
+	If all three bullets hit the same enemy, the crimson bullets effect gets aplied (1/2/3) times as well.
+	
+	
+	
+
+
+
+Yasuo took a gulp of the ricewine. It had been a long time since he last was able to stay at an inn, and it surely was an oportunity to catch up on the latest events by listening to the other guests mumbling. Though, so far he hadn't catched up anything interesting. He took another gulp as the door opened and a man in a long travelers cloak entered the room. Yasuo watched him taking a seat at the table in the opposite corner of Yasuos. The man ordered a bowl of stew and a bottle of ricewine. Yasuo silently snorted - the man either wanted to drown his memories in alcohol or was simply an alcoholic. *Or both. Just like me.* Yasuo thought. He again listened to the other guests.
+"I don't like the followers of the blade dancer." one stated.
+"Me neither. They dishonor this land and our traditions." Yasuo couldn't hold back, and seemingly the stranger couldn't either.
+"Don't talk about things you don't understand." both of them said almost simultanously. The man had an accent Yasuo didn't recognize. That said, he was sure the man was no Noxian. Their eyes met and Yasuo believed to see the same anger he felt.
+"And you two do?" a third one asked but went quiet as he looked into Yasuos face.
+"Yes." Yasuo said and took another gulp from his bottle. He couldn't understand the whispers of the men, but he was sure that they were about the same fact as always, that he has killed Yone.
+"I take you know who this man is?" asked the lone stranger. "Mind telling me?"
+"A traitor to his ..." one of the men began to answer but shut his voice as Yasuo glared at him. Yasuo stood up, took his bottle and walked over to the stranger.
+"Let's talk." Yasuo said with dry voice
+"We should probably introduce to each other." the stranger responded equally dry.
+"Yasuo."
+"Ymaldil." Yasuo sat down whilest the other guests left the inn. "So, what did you do to make them call you a traitor."
+"They just didn't hear the news regarding this topic." Yasuo said to cut the topic. "But I had to kill Ionians in self defense." he added a bit more quiet.
+"I see." said Ymaldil. "So you are an exile then?"
+"I guess I still am." Yasuo answered and took yet another gulp out of the bottle.
+"So am I." Ymaldil answered. "Though I don't know if anyone but me remembers." Yasuo raised an eyebrow and moved his hand towards his sword.
+"So you killed the ones who knew?"
+"No, most had a peaceful death, though some of them fell in meaningless wars." the stranger took a gulp from his bottle. "Some of them were friends to me."
+"Who did you fight for?" Yasuo asked.
+"Demacia." the man answered. "But I lived in Piltover for most of my life." Yasuo nodded. Ymaldil didn't look any older than him. Did not only Noxus but also Demacia send children into war?
+"What led you to Ionia?" Yasuo casually asked.
+"I am looking for a man with a huge scroll and runes on his skin." Ymaldil answered.
+"Haven't seen anyone like this." Yasuo took another gulp. "How do you know he is even here?"
+"I don't. But I thought I could just follow the arcane energy in this land to possibly find him or what he is looking for."
+"Yeah, I've heard we have plenty of magic around." Yasuo snorted. "Good luck."
+"Why thank you!" Ymaldil laughed. The door opened and five armed men entered. The Demacian looked at them and drank the last bit of rice wine from the bottle and Yasuo followed. "I guess nobody informed them either." Ymaldil said after he finished. Both stood up and left some coins on the table before they aproached the men.
+"You can either lay down your weapon now or ..." their leader began shouting at Yasuo but stoped as Yasuo raised his hand.
+"Elder Soumas true killer has been found and judged." He calmly announced. "You can stop chasing me and wasting your friends lifes."
+"And you think we believe you?" the man began shouting after he seemed to have digested the news. Just before he could command his men to attack, Yasuo dashed through the still open door, followed by Ymaldil.
+
+As Yasuo was sure to be far enough away from anyone who might get hurt unintentionaly he stoped and turned around. He wasn't surprised to find Ymaldil behind him. The guards still had some distance to them.
+"If they attack you, I'll help." Ymaldil announced.
+"Suit yourself." Yasuo simply responded. The guards arrived and surrounded them. Their weapons were pointed at them.
+"Attack!" the leader shouted. Yasuo waited for them to approach before he drew his blade. It cut through air, flesh and bone, singing its sad tunes. Ymaldil too seemed to have rid himself of one guard. A short dance later, none of them stood anymore.
+"How often did you have to deal with that?" Ymaldil asked.
+"Lost count." Yasuo reacted instantly as he heard the sound of a crossbow. The wind stoped the bolt mid air. Ymaldil pointed his odd looking blade into the direction it approached from. A noise like hissing, the tune of something flying really fast, a silent moan.
+"What was that?" Yasuo asked.
+"I shot the man." Ymaldil answered while he cleaned his blade on the cloak of a guard. Yasuo shook his head as he realized that the sword had a barrel and scope.
+"Pretty unique weapon you have there." he said.
+"Thank you, my own creation." He pointed at the crossbow bolt. "Nice air skills."
+"They are why they hunted me." Yasuo stretched out his arm and Ymaldil reached out with his. They grabed each others forearm and nodded. "Good luck finding your man." Yasuo said.
+"As with you on your jurney." Only seconds later they parted.

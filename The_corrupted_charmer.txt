@@ -1,0 +1,62 @@
+Mirko, The corrupted charmer
+
+B:
+	100 Units
+	
+P: The One
+	
+	Every minion killed by Mirko or his slaves gets revived with (10-60)% HP uppon dath, switching allegiance and rewarding half their gold value. Minions revived get marked as his slaves. If this minion dies a second time, it dies for good and rewards Mirko with the second half of their gold value.
+	
+	If the map has no minions on it, Mirko gains 20% CDR instead.
+
+Q: Sweet nothing (70 Mana ; 300 Units ; 25 sec)
+
+	Mirko promotes an allied minion or Champion, marking it as his slave. 
+	
+	This empowers Minions with (40/50/60/70/80)% AD physical, (10/20/30/40/50)% AP magical damage on hit and (1/1.3/1.6/1.9/2.2) times armor and MR, as well as the greater of its and Mirkos AS.
+	
+	Champions get healed by (150/175/200/225/250) + 40% AP and loose their promotion after (3/4/5/6/7) seconds.
+	
+	Minions surrounding the promoted entity deal additional 20% of the promoted minions damage. This effect is not stackable.
+	
+	If the map has no minions on it, the cooldown gets reduced by 30%
+	
+W: Symbiosis (- ; 600 Units ; -)
+	
+	Mirko connects himself to a minion or allied champion by attaching a voidling, granting access to a secondary kit and marking them as his slave. Minions become controlable via champion inputs. Champions can still move by themselves, but Mirko can cast abilitys through them.
+	
+	If an enslaved champion gets damaged by more than (10/20/30/40/50)% of their max health the voidling and thus Mirko get detached from it. If the map has no minions on it, the health cap is doubled.
+	
+	Mirko is still voulnerable and can't move while Low resistance is active. If he gets killed, the entity he is attached to gets damaged by 20% current health magical damage.
+	
+	The effect of this ability is only visable on champions. If the target Mirko is attached to dies, Mirko gets stuned for 2 seconds. Mirko only gains half the gold and experience if he isn't within a (1000-2000) Units radius to the champion
+
+E: Breach (90 Mana; 300 Units; 40 sec)
+
+	Mirko creates a rift to the void. The rift stays open for (40/60/80/100/120) seconds and releases one voidling every 5 seconds. Voidlings deal (10/20/30/40/50) + 30% AP physical damage at 100% of Mirkos AS.
+	
+	The rift can be closed by enemy champions by channeling for 2 seconds. Up to 3 Rifts can be open at the same time. Breach disappears after (10-70) seconds if Mirko or the symbiot leaves a 2000 Units radius.
+
+R: Agressive dominance (100 Mana ; 500 Units ; (240/200/160) sec)
+	
+	Mirko targets an enemy champion, causing it to struggle. While the champion struggles it can move freely, but can't attack or cast spells.
+	The missing health of the enemy gets converted into dominance. Every second the enemy champion negates the greater of (55/45/35)% [AP + 1.3 * AD] and 15% dominance. If all dominance got negated, the spell ends.
+	If the enemy champion falls below (5/10/15)% HP during the effect of this ability it dies and gets revived as a slave at Mirkos location. The revived champion has all stats reduced by (40/30/20)%, is controlable and uses the original champions basic abilities.
+	
+Symbiosis Q: Impale (60 Mana ; 700 Units ; 12 sec)
+	The symbiot summons a void spike into the targeted direction. Enemy champions hit get damaged by (30/50/70/90/110) + 30% AD physical damage, rooted for 0.7 seconds and then pulled by 50% towards this champion.
+	
+Symbiosis W: Void Pheromones (20 Mana ; 500 Units ; 5 sec)
+	The symbiot launches a bubble of an unknown liquid at the targeted location, dealing (40/60/80/100/120) + 50% AP magical damage to enemy champions and epic monsters and fearing minions for (1/1.5/2/2.5/3) seconds.
+	
+Symbiosis E: Void Passage (50 Mana ; 500 Units ; 15 sec)
+	The symbiot prepares for (4/3.5/3/2.5/2) seconds to blink the unit he is attached to into the targeted direction. If attached to a champion, the champion can trigger the blink within a 4 second window. If attached to a minion the blink gets executed instantly
+
+Symbiosis R: Strange attractor (100 Mana ; global ; (90/70/50) sec)
+	(Unskilled/On CD)
+		Exits the symbiosis, but leaves the symbiot behind for quick global reconnection.
+		
+	Every enemy gets sucked towards the symbiot by (300/350/400) Units per second  for (1/1.5/2) seconds, adjusting their MS relative to their walking direction. Destroys the symbiot.
+	
+
+	

@@ -1,0 +1,71 @@
+The infamous banshee
+
+Basic:
+	600 Units dealing magical damage with 50% AP (visualy: energy flys out of enemy towards the champion)
+
+Passive:
+	Passing Eons:
+		The champion does extra damage over (5-3) seconds. The amount of damage is equal to the dealt damage times (5-30)% of the champions missing health.
+		
+	Oldest Banshee:
+		The champion can see through walls.
+	
+Q:
+	Occupying:
+		The champion occupies the body of a minion or neutral monster (not epic monsters, siege minions and buffs), enabeling it to control it. The damage dealt by the unit gets multiplied by (1/1.5/2/2.5/3). The champion is able to cast its other spells while occupying another unit. The champion takes no damage while occupying another unit. The champion gets disconnected from the occupied unit as it gets killed.
+	
+		Cooldown: 4
+		Range: 500
+	
+	Rapid aging:
+		The occupied unit explodes after channeling for 2 seconds(kills the unit), dealing (30/60/90/120/150) + 60% AP damage to all units in range.
+	
+		Cooldown: 8
+		Range: (100/125/150/175/200)
+
+W:
+	Ongoing bloodshed:
+		A dark orb gets shot into the targeted direction. As it hits an enemy or neutral monster its remaining range gets reset and an explosion with a radius of (50/75/100/125/150) Units gets triggered. The explosion deals (20/50/80/110/140) + 40% AP magical damage to every enemy or neutral unit in range.
+	
+		Cooldown: (15/13/11/9/6)
+		Range: (500/550/600/650/700)
+
+E:
+	Boneshatter scream:
+		The champion dashes towards the selected wall in range, damaging every enemy or neutral unit in a radius of 200 Units of it for (40/80/120/160/200) + 30% AP magical damage and stunning them for (0.25/0.5/0.75/1/1.25) seconds.
+		
+		The range scales with the champions missing health.
+		
+		Cooldown: (16/13/10/7/4)
+		Range: (500-1000)
+
+R:
+	Runeterra's bane:
+		The champion channels energy to dash unstopably into the targeted direction, destroying the ground, walls and structures* in a (700/1000/1300) Units radius in its way. Enemy Champions hit get rooted for (1/2/3) seconds and damaged with (100/150/200) + 70% AP magical damage. Destroyed ground grounds enemies on it. Destroyed walls and structures slow units passing them for (40/60/80) %. The field of justice repairs itself after (40/60/80) seconds.
+		
+		* working structures (towers, inhibitors, nexus) disappear, but don't get permanently destroyed. As the field of justice repairs itself, they return with the same amount of health as they had before. Later in order structures still won't be targetable.
+	
+		Cooldown: 180
+		Range: (2000/3500/5000)
+		
+
+		
+Another war, another genocide:
+
+The armys marched towards each other, each one wielding a world rune. Aiae giggled as she sneaked up onto one of them, the one with the rune she desired. Neither one of them would use the rune to attack, but to use it in case their enemy used it. It was going to be a great bloodshed. The armies started fighting, making it just easier for Aiae to approach her target, the man wielding the rune. As she reached the first men fighting she finaly got noticed, just too late for them to even open their mouths to call for help as their bodies aged for eons in the blink of an eye. They may haven't ever seen a banshee, but everyone knows stories about them. Not even one matches Aiae's abilities even closely of course. She cleared the way between her and the man wielding the rune by sucking the warriors souls out of their body. The man realized her doing and did the only thing he was able to. She barely managed to enter a warriors body as he unleashed the power of the world rune. Then she lost conciousness as the other rune wielder used his rune as well.
+
+As she awoke her body hurt. She barely was able to move an inch. The body of the man which she occupied lied right beside her, completely burned from the massive amount of energy that was unleashed by the world runes. "At least it was a great bloodshed." She whispered before she occupied the body of a squirrel sitting on a tree besides her. She could be dead, but somehow she seemingly got blasted away from the epicentre of the second explosion. ~That would have been a pretty boring ending for my story.~ She thought as she made the squirrel run southwards. There had to be another world rune somewhere, and she had to find it. She had to show the world who they had to fear.
+
+
+
+
+A cataclysm, a downfall:
+
+The woman Aiae occupied walked towards the Mage with the scroll. The mage with the world rune. "Excuse me!" she said as she was near enought for the mage to hear the womans voice, "You are a traveler, aren't you?"
+"Yes, ma'am. Why do you ask?"
+"I am looking for someome to escort me." She just had to get a little closer to kill him and the woman at once. This rune surely would be hers.
+"You can't fool me, banshee." He took the rune out of his pocket and used its power. The womans body burned in the cataclysm caused by the mage. There wasn't much left of the buildings surrounding them.
+"Thank you for making my job easier." she said as she left the dead womans body. "And now, give me the rune!" She charged towards the mage, destroying anything that survived the cataclysm on her way. Right out of range for her to end his life, he put her into stasis.
+"You are Aiae, aren't you? It's time to free the world from your existence." He took out an amulett. "At least for a while. Your power might come in handy someday, banshee." Then the world turned pitch black as she got banished into the amulett.
+
+The amuletts metal finaly was weak enough for her to break free. She opened her eyes to a world she didn't knew, a world that forgot about her. During her time in the amulett she noticed the world runes disappearing from Runeterra, but she knew that they had to be hidden somewhere. And once she found them, the world was going to pay with its blood for what the mage did to her.

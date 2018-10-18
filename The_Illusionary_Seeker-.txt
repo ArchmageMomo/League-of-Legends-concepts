@@ -1,0 +1,269 @@
+﻿Shortlore:
+
+"There once was a girl, seeking true love."
+"Did she ...?"
+"No, she didn't."
+"How sad. So she was alone?"
+"One night, when a Freljordan blizzard darkened the sky, she disappeared."
+"No one ever heard of her again?"
+"Never. But some tell stories about her, still looking for true love."
+"And she never found it?"
+"And we never found it."
+
+
+Pick quote:	“All illusion and lies!”
+Ban quote:	“You can't banish what doesn't exist!”
+
+
+Basic attacks:
+	150 Units sword-slash scaling on AD
+
+Passive:
+	Illusions and lies:
+
+		Once every ten basic attacks, an illusion dashes towards the target as a ranged basic attack with 400 Units range, dealing additional 20% AP as true damage.
+		Every five abilities used, an additional effect can be casted on each ability. The Counter doesn't reset on death.
+
+		Illusions act like Bots (but stick to the lane they got summoned) and aid when nearby epic monsters or champions get attacked. Illusions have 50% of the Champions Health and deal 70% damage. Illusions disappear when getting killed or on the Champions death. Illusions are capped to 5 at a time. If additional illusions get summoned, the earliest summoned illusion disappears after (1-5, based on level) seconds. If an allied champion is nearby the illusion, he gets exp and Gold rewards instead of the original champion. Illusions don't make any use of this ability and do 10% damage to towers.
+
+Q:
+	Shards of reality:
+
+		A shard flys towards the casting Champion, damaging the first enemy hit by (35/60/90/120/150) + 50% AP magical damage. If the ability got casted by the original Champion, allies hit within 200 Units of the Champion get pierced by the shard and teleported to their mirrored position relative to the Champion.
+
+	Reality passes:
+
+		On the fifth ability-stack of 'Illusions and Lies', this Ability can be recast for 3 Seconds to teleport to the position the shard got summoned, creating an illusion at the position the champion casts it.
+
+	Range: 800 Units
+	Cost: 20/25/30/45/50 Mana
+	Cooldown: 5/4.5/4/3.5/3 s
+
+
+W:
+	Fraction of truth:
+
+		The champion swaps locations with the targeted illusion. (80/60/40/20/0) percent of health and mana get swapped as well. (*)
+		Illusions can use this ability on each other, but not on the champion.
+
+		On the fifth ability-stack of 'Illusions and Lies', this ability can be recast for two seconds to finish the cooldown of 'Shards of reality', 'Fraction of truth' and 'Slice of dreams'.
+
+		(*)Calculated: percent remaining * stage percent as double = percent swapped
+
+
+	Range: 1000 Units
+	Cost: 80 Mana
+	Cooldown: 60/50/40/30/20 s
+
+
+E:
+	Slice of dreams:
+
+		A swarm of five illusionary butterflies gets summoned on a random location 1000 Units away of the targeted enemy and flies towards it. Every butterfly can get targeted and destroyed.
+		One butterfly out of the five can endure three hits upon being destroyed, every other butterfly only takes one hit. Only this butterfly does (50/90/130/170/210) + 70% AP magical damage in a 200 Units radius.
+		Enemy champions have guaranteed vision on the butterflies.
+
+		On the fifth ability-stack of 'Illusions and Lies', the ability can be recast after two seconds with additional casting range of 300 Units for four seconds to summon another swarm of butterflies.
+
+
+	Range: 300 Units
+	Cost: 30/37/45/52/60 Mana
+	Cooldown: 9 s
+
+
+R:
+	Rewoven paths:
+
+		A wall with a diameter of (500/800/1100) Units gets summoned at the targeted Location, warping any champion touching it (400/600/800) Units towards the direction the touched side of the wall points. The wall disappears after five seconds.
+		
+		(The wall is completely visible to allied champions, enemy champions can only see a dim line on the ground. The Wall doesn't count as structure and can be passed by flash and similar teleporting mechanics. Dashes don't pass the wall. )
+
+
+
+	Rewoven reality:
+
+		On the fifth ability-stack of 'Illusions and Lies', the ability can be recast to summon a controllable clone that acts like a sixth illusion, but can summon two additional illusions and makes use of the passive. This clone has HP equal to the champions and does the same amount of damage.
+
+		The clone disappears 10 seconds before the cooldown of 'Rewoven paths' gets finished or the clone or the Champion gets killed.
+
+
+	Range: 400 Units
+	Cost: 100 Mana
+	Cooldown: 160 s
+
+
+
+
+Extended lore:
+
+
+
+
+True love and illusion: 
+
+The last tone of the song faded, and their audience applauded. Laia accepted the cup of hot goat milk from the tribal elder and sat down on on the fire. "I love you singing this song about Ellerui. You truly bring it to life."
+
+"Thanks elder. I wish she was a real person, not just a tale." She sipped the milk.
+
+"I bet the two of you would be great friends!"
+
+"I would feel so sorry for her. It must be hard to never find someone you truly love." She looked into the night sky.
+
+"You'll find the right person someday. Everyone does."
+
+"A storm is coming. We need to prepare the camp." She jumped up and extinguished the fire.
+
+Storms are a common thing in the Freljord, so everyone knew what to do. After some minutes, the camp was ready to face the storm. Short before entering her tent, she looked at the sky again. Then she saw Frans child, crawling towards the fire pit. 'Didn't anyone take care of her?' But it was too late to think. She started running towards the child. As she reached her, the blizzard started raging around the camp, and she had to protect her face. She grabbed the child and turned towards her tent, as a hand grabbed her by her shoulder. "Don't run. I want to talk to you."
+
+"Are you crazy? She will freeze to death! How should I explain Fran why she ..." The child in her hands exploded into a swarm of butterflies, beautiful insects Laia only knew from tales.
+
+"This blizzard is an illusion, as was the child." The blizzard stopped raging around Laia and the woman standing behind her. "I listened your song. You have such a beautiful voice."
+
+"Thank you. But why would you literally start a blizzard to tell me that?" Laia didn't was feared of turning around.
+
+"I think you are lonely. That's why you like the tale about me so much, isn't it?" A lightly dressed girl stepped out of the blizzard.
+
+"Your tale?" She stuttered as she recognized herself as the girl standing in front of her. "You mean... you are Ellerui?"
+
+"Yes, I am. But at the same time, I am not." Her clone stepped closer as it answered. "Once I was a girl, just like you. I also was looking for the one I could truly love. And as you, I was supposed to die in that blizzard." She hugged her from behind. Laia could feel the warmth of her blank skin through her pelts.
+
+"What do you want to do to me? I haven't betrayed anyone!" Laia felt helpless, but also, she didn't dare to call for help.
+
+"I don't want you to be lonely." She tightened her hug. "And I don't want you to end like me. I died that night, and became the being I am right now."
+
+"But how do you want to help me? If someone truly needs help, you do!" Now Laia was completely confused as her clone came closer.
+
+"You will see. We will meet again sometime." The pressure around her chest disappeared. Her clone took her by the hand and led her to her tent.
+
+"The person you will love, will love you too. Don't worry, that's no illusion, that's the truth." Laia was the first to enter her tent, her clone followed her. "And don't forget, Ellerui will meet you again sometime."
+
+"I hope you are right, Ellerui." Too fast for her to react her clone pressed her lips onto Laias. One instant later, her clone was replaced with a man.
+
+
+
+
+
+Years passed, Laia and her husband left the tribe to return to his home. In Piltover, she gave birth to three children. Unfortunately one day both she and her husband became sick. He passed away first. One night, Laia woke up as someone touched her at her arm. "Don't worry, it's just me." Ellerui whispered.
+
+"You finally visit me."
+
+"As promised."
+
+"I have to thank you. Because of you, I found the person I loved. I wish I could do anything for you, but I guess I'd die before I could even think of anything."
+
+"Don't worry. Seeing you two living together was enough of a reward for me."
+
+"Is it true that you never found love?"
+
+"Unfortunately. But that's why I became what I am."
+
+"Is this your true body?"
+
+"Yes."
+
+"You are beautiful. There must have been many men making a proposal to you."
+
+"You are right. But they didn't truly love me, and I didn't any of them either." She laid one of her hands on Laias chest as she started to cough.
+
+"I guess that's it for me. It was nice to meet you, Ellerui. I hope you will find the right one someday."
+
+"May I create an illusion of your younger self to help me?"
+
+"It would be an honor." After those words, the arrow pierced her chest, right beside Elleruis hand. As her soul left her body, the illusion of the young Laia rose besides the lamb.
+
+"She deserved a peaceful death." it whispered.
+
+"As did we. But now look at us."
+
+"I feel bad for you." muttered the wolf besides her ear, "You don't even have a partner to talk to in bad times!"
+
+"She may not have one, but she has many."
+
+"That's right, but illusions are no replacement for a true partner." Laias illusion answered sadly.
+
+"How does it feel?" asked the lamb.
+
+"How'd I know?" answered the wolf.
+
+"Like something, a part of you, is missing. It drives you crazy, makes you trying to talk to everyone you can. But that doesn't fill the space." Ellerui whispered.
+
+"Don't you sometimes want to let me chase you?"
+
+"Or to take my arrow?" the lamb continued as the wolf licked over her face.
+
+"We can't just do that. Us have responsibilities, Kindred. You are the one bringing death, I am ..." Ellerui responded, but her sentence got finished by the lamb.
+
+"... the bringer of love and illusions, I know. It just was a theoretical question. Both of us need to exist, so we have to live this eternal life."
+
+"Would you?" Laias illusion asked.
+
+"Back then, we did. Now, we won't." The wolf laughed as he answered.
+
+"How ironic. If you think about it, we represent what we couldn't reach in our former lives." The lamb tightened her grip on the bow. "Come wolf, we need to go."
+
+"Where is the next one?"
+
+"The prey lives in Demacia." The wolf muttered.
+
+"I'll take you there." Laias illusion whispered. The four of them disappeared as the door opened.
+
+
+
+
+
+
+Illusions and lies:
+
+"Finally I meet you!" The man, Reederas, turned around and drew his sword.
+
+"So you know why I'm here?" The Sun disk glowed in the setting sun. They stared at each other.
+
+"You're beautiful. But you can't trick me, Ellerui. You're a dead girl!"
+
+"Funny. Is that what you tell every girl you find pretty? Oh, of course it is! Else your wife wouldn't have left you!" She giggled as his head turned red. Suddenly he jumped forward and tried to stab her with his sword. It didn't reached her as she blocked it with her own sword she suddenly held in her hands.
+
+"You dare laughing about me?"
+
+"Does it matter? Only one will leave this desert alive." She blocked his sword again. The next hit surprised her and wounded her leg heavily.
+
+"I guess that's me then!"
+
+"Do you really think of me as that weak?" She asked as he stabbed her chest.
+
+"Doesn't matter, you are dead now!" Elleruis body exploded into a swarm of butterflies. "How ...?" He didn't come to finish his sentence as another Ellerui dashed through the swarm. Reederas managed to block her attack and stabbed her back. He rolled away as something shot towards his chest. Two more of Ellerui stood before him as he stood on his legs again.
+
+"Truth be told, you were woven into this illusion the whole time." said the left one.
+
+"But the greatest illusion you were woven into was the relationship between your wife and you." said the other one
+
+"Shut up!" He shouted and dashed forward.
+
+"So you don't want me to tell you what you want to know? What a pity." Both said as the distance in between them and him got bigger as he ran forward.
+
+"You can't just go now!"
+
+"Oh, I can." Her voice whispered in his ear. "But first, I make you pay for the pain you did to them." As she said that, a swarm of butterflies appeared in the distance. "Find the special one, and you will live."
+
+"How am I supposed to do that? They all look the same!"
+
+"And that's exactly what you think about girls too, isn't it? Now, let the fun begin." The swarm started to surround him. He tried his best to find the one that was different, but as they got closer, he knew he was doomed.
+
+"Please! I promise to excuse myself to every of them. I'll never betray anyone again! I'll do whatever you tell me to, but please let me live!" The butterflies almost touched him. Then one of them directly flew towards his chest. He screamed as it entered his body, which suddenly expanded in size. "Please!" he cried, but it was too late. His body felt like it was about to explode at any moment.
+
+He was a butterfly that got caught by a bat.
+
+He was the last girl he betrayed. It was the first night they spent together. One week before he had left her.
+
+He was a Goat that was getting killed by the butcher.
+
+He was himself, getting buried under the dunes of Shurima.
+
+Reederas sank to his knees. "I'll give you one week. If you manage to hold your promise, you will live and warn anyone like you. The one person you will truly love will meet you in some years."
+
+"Thank you, great Ellerui!"
+
+"But if you fail or betray me, you will die." She was gone, but Reederas chest still hurt where the butterfly entered his body, as it left the mark of the illusionist, a heart shaped butterfly, burnt into his skin.
+
+
+
+And Reederas lived.
