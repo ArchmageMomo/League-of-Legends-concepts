@@ -1,0 +1,49 @@
+The sadistic maniac (former: The sadistic citygirl)
+
+Basic:
+	
+	125 melee
+	
+	Wounds arms
+	
+P:
+	Craving for blood:
+		
+		Auto attacks and abilitys wound body parts of enemy champions and epic monsters. Every wounded body part stays active for 5 seconds. Wounding a new body part resets the duration of the active body parts.
+		After the body parts deactivate, the champion hit gets damaged by (duration active * body parts wounded * 2)% AD over (body parts wounded) seconds.
+		If a champion gets killed while at least one body part is wounded, the champion killing and the champion having dealt the most damage to the killed one in the last 20 seconds besides it will get the full gold reward
+		
+		Every wounded body part creates one blood every second. Blood stays on the ground for five seconds and can be collected by this champion. Collecting blood increases this champions AD by (0.1-2) per blood and decreases the cooldown of her abilitys by 0.01 seconds. Blood can be collected up to 50 times.
+		
+		Blood decays by 5 every 20 seconds if out of combat. Blood completely discharges after beeing killed.
+		
+		Only one of her auto attack buffs can be active at once.
+		
+Q:
+	Throwing a knife ((300/350/400/450/500) Units / (8/7/6/5/4) s)
+	
+		Her next basic attack becomes ranged and deals (1/1.3/1.6/1.9/2.2) times damage on crits.
+		
+		Wounds chest
+	
+W:
+	Bloody fascination ( - / (9/8/7/6) s)
+		
+		Her MS and AS get increased by (40/50/60/70)% for (1/1.5/2/2.5/3) seconds.
+		
+		The next basic attack wounds the head instead
+		
+E:
+	Hit and Run (500 Units / (18/16/14/12/10) s)
+		
+		Her next basic attack wounds the legs.
+		
+		After hitting she can recast this ability to flic-flac into the oposit direction of the enemy hit for (1/1.5/2/2.5/3) seconds.
+		
+R:
+	Bloodbath (1000 Units / (140/100/60) s)
+		
+		Every wounded enemy in range gets stunned for (0.5/1/1.5) seconds. She latches onto the targeted enemy champion and surpresses it for the lesser of half the time the champion was wounded and 5 seconds. During that time the targeted champion gets damaged with up to (30/40/50)% current health true damage based on the time surpressed.
+		Surpression can be stopped by movement.
+		
+		Resets wound activity time on all targets affected on cast.
