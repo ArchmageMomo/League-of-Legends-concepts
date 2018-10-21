@@ -228,6 +228,8 @@ W:
 		
 		Yanumi can move while casting the ability. The ability recharges based on the time active and can be used as long as more than 1/4 of the ability is charged.
 		
+		If this ability hits a mirror it reacts with it dealing (100/130/160/190/210) + 70% AP physical damage as a bleed effect over (12/10/8/6/4) seconds.
+		
 E:
 	Reflection ((200/240/280/320/360) Units / (24/21/18/15/12) s / 70 Mana)
 		
@@ -278,13 +280,13 @@ Passive:
 Q:
 	Shared Barrage:
 	
-		Male (700 Units / (4/3.5/3/2.5/2) s / 10 + 30 Mana per orb)
+		Male (700 Units / (4/3.5/3/2.5/2) s / 10 + 20 Mana per orb)
 		
 			The first enemy hit in a straight line takes (40/50/60/70/80) + 10% AP magic damage.
 			
 			If the female Muolon is in a (1000/1400/1800/2100/2300) Unit radius of the enemy hit she fires as much bolts as they have stacks of Building Barrage in a 0.05 interval to each other, each dealing (30/45/60/75/90) + 15% AP magic damage, and both Muolon stack one instance of Building Barrage.
 			
-		Female (800 Units / (6/5/4/3/2) s / 20 + 20 Mana per orb)
+		Female (800 Units / (6/5/4/3/2) s / 0 + 30 Mana per orb)
 		
 			The first enemy hit in a straight line takes (10/20/30/40/50) + 5% AP magic damage.
 			
