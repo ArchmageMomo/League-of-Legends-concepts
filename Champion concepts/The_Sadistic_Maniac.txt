@@ -10,8 +10,8 @@ P:
 	Craving for blood:
 		
 		Auto attacks and abilitys wound body parts of enemy champions and epic monsters. Every wounded body part stays active for 5 seconds. Wounding a new body part resets the duration of the active body parts.
-		After the body parts deactivate, the champion hit gets damaged by (duration active * body parts wounded * 2)% AD over (body parts wounded) seconds.
-		If a champion gets killed while at least one body part is wounded, the champion killing and the champion having dealt the most damage to the killed one in the last 20 seconds besides it will get the full gold reward
+		After the body parts deactivate, the champion bleeds for (duration active * body parts wounded * 2)% AD over (body parts wounded) seconds.
+		If a champion gets killed while at least one body part is wounded or it is bleeding, the champion killing and the champion having dealt the most damage to the killed one in the last 20 seconds besides it will get the full gold reward
 		
 		Every wounded body part creates one blood every second. Blood stays on the ground for five seconds and can be collected by this champion. Collecting blood increases this champions AD by (0.1-2) per blood and decreases the cooldown of her abilitys by 0.01 seconds. Blood can be collected up to 50 times.
 		
