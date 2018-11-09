@@ -1,0 +1,80 @@
+The vampiric demon
+
+
+Basic:
+	100 Units Melee
+	
+P:
+	Blood:
+		
+		Simons resource is blood. Blood scales on Mana, but starts at 0 and only fills to (0-3)% at fountain.
+		
+		
+	Vampirism:
+		
+		If the champion is in the vision of an enemy champion or structure it looses (10-50) of its resource per second. If there is not enough of the resource to consume left, the ability deals (1-100) true damage instead.
+		If the champion is inside jungle or a brush it won't consume his resource or take damage.
+		
+	Vampiric demon:
+		
+		Per 100 points of Blood Simon has collected his AP and AD increase by 15.
+		
+
+Q:
+	Enforced Locomotion (700 Units / (12/10/8/6/4) s / +(50/100/170/250/300) Blood)
+		
+		Simon shoots bloodmagic into the targeted direction. The first enemy hit takes (50/80/110/140/170) + 80% AP magic damage and rewards the amount of blood after 4 seconds.
+		Enemy champions hit also get locomoted for (0.5/1/1.5/2/2.5) s.
+		
+		Locomotion makes the enemy walk towards the caster at 50% MS. Enemys can still basic attack and cast abilitys (but won't stop moving).
+		
+
+W:
+	Mesmerize (200 Units / - / +100 Blood per second)
+		
+		Simon surpresses the target for up to 5 seconds and drinks its blood.
+		If the target is an enemy or legendary monster it takes (30/60/90/120/150) + 30% AD physical damage per second. If an enemy champion gets surpressed for the full duration, it gains Vampirism until death or it returns to base.
+		If the target is a non legendary monster it won't trigger its aggression.
+		If the target is an allied minion it gets surpressed for double the time but the ability rewards only half the blood.
+		If the target is an allied champion it will reward 75% of the blood instantly instead.
+		
+		If the target or Simon get damaged by a spell or basic attack the ability cancles.
+		Every target can only get mesmerized once every (60/45/30/20/10) seconds.
+
+		
+E:
+	Mistwalker ( - / (15/13/11/9/7) seconds per stack (3 stacks) / -50 Blood)
+		
+		Simon turns into mist and gains (50/80/110/150/180)% MS for 3 seconds. If he casts the ability with 3 stacks available he turns unstopable for 1 second 1 second after casting and can basic attack an enemy out of invisibility for (50/60/80/120/170) + 60% AD + 40% AP physical damage and a 1 second stun.
+		
+
+R:
+	Crimson Vampirism (P)
+		
+		Every time this ability gets a level up another ability becomes available. Simon can choose which ability to use while in base.
+		
+	Crimson Dawn (600 Units / (100/80/60) s / - )
+		
+		P: Enemies 2000 Units around Simon get slowed by (20/30/40) MS.
+		
+		Enemies in an 300 Units radius around Simon get charmed for the duration of this ability while inside the radius around Simon. After 1.5 seconds Simon dashes towards every enemy affected dealing (100/150/200) + 80% AD physical damage to each and gaining 100 blood from each.
+		
+	Crimson Peak ( - / (80/60) / 100 Blood)
+		
+		P: Enemies in a 2500 Units radius get revealed to Simon as red mist when they are below (60/80)% health.
+		
+		All enemies get revealed as red mist for 10 s. Simons next basic attack against a champion during that duration has 400 Units additional range, deals (50/100) + 20% AP additional physical damage and pulls him towards the target.
+		
+	Crimson Dusk (400 Units / 100 / - )
+		
+		P: After being out of combat for 5 seconds Simon gains camouflage. After 2 seconds red mist emerges from where he walked.
+		
+		Simon shoots a sphere of blood magic. Either on max range or on enemy champion hit 3 cultists get spawned, each having Simons HP and 2/3 of Armor and MR. They deal 50 + 20% AP magic damage at 1 AS and stay active for 10 + 50% CDR as seconds seconds.
+		If an enemy champion got hit by the orb the cultists become invisible to any other enemy champion and structures until they die or the champion hit dies. Cultists will only target the champion hit while invisible.
+		
+
+Simon was little more than nothing until the Darkin war. During a ritual he accidently got exposed to blood magic. That's what made him sentient.
+The Darkin and Bloodmages had a hard time containing him initially, but later they decided to use him as a weapon. He played along for a short time, but immedeately after the battle began he killed his caretaker and fled. He watched the Darkin war from afar and fed on the blood of everyone fleeing from the battles.
+Right after the war ended and the Darkin got sealed away, he took shelter in the ruins of an old temple. Weeks passed until a group of nomads took camp nearby. Driven from hunger he sneaked up to a guard at night. Out of instinct he mesmerized the guard and drank his blood. When he was full, he left the nomads and returned to his temple.
+The next morning he woke up to a scream of pain. Knowing that the sunlight would hurt him he only took a look out of the window. The guard he drank from squirmed on the ground in agnony. Simon saved him using an old blanket to cover them both. He was his first vampire.
+Now Simon is the leader of a group of vampires and cultists supplying them with blood. He offers eternal life to those willing to loose everything.
