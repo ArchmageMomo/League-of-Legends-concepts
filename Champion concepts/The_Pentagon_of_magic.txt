@@ -60,7 +60,7 @@ Passive:
 	Split Mind:
 	
 		Magic damage increases Onnezz madness, while physical damage increases his sentience.
-		If Onnezz took (10-0.5) times max HP, he transforms into the corrupted or the iron-willed based on the majority of the damage taken in fountain automaticaly.
+		If Onnezz took (10-0.5) times max HP, he transforms into the corrupted or the iron-willed based on the majority of the damage taken automaticaly in fountain.
 		
 	The Corrupted
 	
