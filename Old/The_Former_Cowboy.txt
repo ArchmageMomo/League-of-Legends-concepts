@@ -1,0 +1,90 @@
+Everyone in piltover fears the former Cowboy, a mystic murderer. None of his targets ever was innocent in law, but all were killed with a loud gunshot, and to top that, while daylight shone bright. Nobody knows his identity, and the police doesn't even try to catch him.
+Every time the former officer Crowley hears rumors about the mystic assassin he smiles, though all of them are true. Knowing his hextech peacemaker would never betray him, he leaves a trail of blood and bullets among those who screw with the law.
+
+
+The former Cowboy
+
+	Auto:
+		Shot out of his hextech peacemaker, 570 Units range, scaling on AD. Additional effects based on his courent bullet type.
+		
+	Passive:
+		Old guys tricks:
+			Every auto attack triggers a (0.8-0.1) second cooldown on all of this abilities. Each ability triggers a (1-0.3) second cooldown on auto attacks and other abilities.
+			
+			The hextech peacemaker has 6 bullets in his round. After shooting all of them, this champion recharges it with white bullets in AS/2.
+			Every ability refills the free slots of the peacemaker with a set number of special bullets:
+			
+			Automatic refill:
+				Refills with 6 white bullets. These have no special effects.
+			
+			Q:
+				Refills with 2 blue bullets. The bullets slow the enemy by (10/15/20/25/30) % on both AS and MS.
+				
+			W:
+				Refills with 3 green bullets. The bullets deal extra (20/40/60/80/100) + 70% AP damage over 2 Seconds.
+				
+			E:
+				Refills with 2 red bullets. The bullets deal extra (10/25/40/55/70) + 50% AP damage to all enemys in a 150 Units radius around the target.
+				
+			R:
+				Refills with 6 purple bullets. The bullets deal extra (40/80/120) + 20% AD true damage.
+				
+	Q:
+		Grapplin' hook:
+			Fires a grappling hook in the targeted direction.
+			
+			Hiting a wall, this champion gets pulled right to the wall.
+			
+			Hitting an enemy, the enemy gets pierced, dealing (30/40/50/60/70) + 30% AD.
+				If the hook hits a wall after piercing, he gets pulled towards the wall.
+				If the hook hits another enemy, it deals the same amount of damage to this enemy, plus additional (10/20/30/40/50) + 30% AD damage to both. They get connected to each other for (1/1.5/2/2.5/3) Seconds, so they can't be seperated for more than (500/450/400/350/300) Units. This adds another 4 seconds cooldown.
+				
+		Cooldown: 4			Range: 800
+		
+	W:
+		Fan the hammer:
+			The champion fires up to three bullets in a cone of 45°, dealing (10/20/30/40/50) % of their damage and applying their effects. Additionaly, the champion gets knocked back by (30/60/90/120/150) Units per bullet.
+			
+		Cooldown: 8			Range: 400
+		
+	E:
+		Good ol' bobbybomby:
+			The champion leaps into the targeted direction. If he hits an enemy champion, he places a bomb on him, jumping back 400 Units. The bomb explodes as he lands, dealing 40% AD damage in 300 Units radius.
+			
+		Cooldown: 6			Range: (200/300/400/500/600)
+		
+	R:
+		Sunshine 'n' bullets:
+			Both teams get true sight, except in bushes. This champion aims up on all enemys for 3 seconds, then rapidly shoots all enemys in sight (not blocked by a wall or in bush) for (100/200/300) + 100% AD damage. This shots get (20/40/60) % critical strike ratio. The champion can move while aiming.
+		
+		Cooldown: 300		Range: global
+		
+		
+		
+	
+	
+"Have you heard of the last victim of the former cowboy? This guy has killed an old fisherman!"
+"I knew that guy. I heard rumors that he killed his wife. You know, the one who was killed by some Zaun guys!"
+"Who is this cowboy anyway?"
+"I've heard rumors that he once was a police officer."
+"Can't be, if he was old he would have allready been caught!"
+"I can tell you that much, youth, just 'cause someone's friggin' ol', he can still be fast as this criminal everyone's talkin' 'bout" An old man took a chair and set down on their table. "And if it's just 'cus some lousy tools, like the ones found on some roofs."
+"You've guts to eavasdrop on us, 'pa. What's your name?"
+"Crowley's the name. How comes you talk 'bout this former cowboy?"
+"Why should I tell you?"
+"'ya don't have to. I was just curious." He took a sip from his beer. "In my eyes this cowboy has hella' balls to mess with officer Cait."
+"I don't know... She seems to ignore his attacks."
+"That's 'cus they are all guilty, youth. Besides that, I've heard rumors of her wanting to recruit him for her department."
+"How comes?"
+"I don't know, kid, these are just rumors."
+"I've heard he shoots with a sniping rifle, you know, like the one our officer uses!"
+"I don't think that makes any friggin' sense. Besides that, I allready know what kind of weapon he uses." Crowley spits into the fire.
+"With that you allready know more than Cait!"
+"You hella' wish. They have also found some bullets lying around." He pulls out some used bullets "These ones weren't fired from a rifle. These ones are bullets of the hextech peacemaker, a prototype with only six pieces ever produced. And all of them seem to remain in pilt'"
+"Why do you exactly know about these weapon if they are so rare?"
+"'cus I own one. Wanna see?" He pulls out his gun, unloads it and places it in the middle of the table.
+"I think you know more about this weapons than I do, so I believe you."
+"I've heard another rumor. Some People believe to have seen him flying through the air, like a bird. Can something like that even be true?"
+"Flyin'? More like pullin' ma' friend! Where I worked in my younger days we had somethin' like a Hook. Ya' were able to throw it and pull you towards it at a hella' fast speed." He picks up one of the used bullets. "You know, he even engraves his targets name on the bullets, ya' see?"
+"How'd you find out about all that?"
+"'cus I am the former cowboy, dumbass." Crowley responds, loading two bullets into his peacemaker. "And ya' know who's name is engraved on thos' bullets." The room lightens up, and it gets silent. "'s nice to meet'cha, youths, now you'll pay for ya' crimes." The last thing he saw after beeing shot was the cowboy, putting his peacemaker into his holster and shooting his hook out of the window. That's when everything went black.
