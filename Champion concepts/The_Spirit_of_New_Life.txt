@@ -1,0 +1,39 @@
+The Spirit of New Life:
+
+Basic:
+	200 Units Melee
+
+P:
+	The call of Life:
+		<Name> spawns with (5-15) animal soldiers at his side. Animal soldiers follow him and attack enemies using their spears, dealing (5-20)+20%AD physical damage per hit each. They can hit enemies in a 200 units radius of them, have 15% max HP each and the champions armor and MR.
+		
+		Once every minute a group of up to (3-10) animal soldiers spawns at fountain and join <Name>. Up to 35 animal soldiers can be active at once. Returning to base restocks the soldiers.
+		
+		When <Name> dies, all remaining soldiers fight on their own and return to base if they have no enemy in vision range.
+		Soldiers generate vision.
+	
+Q:
+	Formation change ( - / (7/6.5/6/5.5/5) s / 10 Mana)
+		The animal soldiers change their fighting style:
+		
+		Melee Triangular: Soldiers build a triangle around <Name> and attack anything that is in their range. Their damage gets increased by (5/7/9/11/13/15) + 5% AD.
+		Ranged Line: Soldiers build a line in front of <Name> and have (300/350/400/450/500) Units ranged attacks. <Name> can direct their attacks (ref Azir).
+		Defensive Circle: Soldiers stand in a circle around <Name?>, block any incoming ranged attack and act as a one-way wall to enemies. They can't attack, but gain a shield worth (80/110/140/170/200)% of their max health that regenerates within 5 seconds after taking damage.
+		
+W:
+	Taking camp (global / 3 max (60/50/40/30/20) s / 50 Mana)
+		One animal soldier gets sent to the targeted location to prepare a camp. Once he arrives he takes (5/4/3/2/1) seconds to finish and serves as the first soldier at the camp. Enemies standing on empty camps for 2 seconds destroy them and gain 5 Gold. Camps block vision on them for everyone more than 550 Units away.
+		
+		Once every (60/50/40/35/30) seconds one soldier per camp active spawns at fountain for up to 3 soldiers per camp.
+		Soldiers at camps attack every enemy or neutral target within 500 Units with ranged attacks, dealing (20/30/40/50/60) + 40% AD physical damage.
+		
+E:
+	Aim and fire (500 Units [soldiers global] / (8/7/6/5/4) s / 50 Mana)
+		The soldiers and <Name> shoot a rain of arrows each at the targeted 200 Units radius location. Every enemy inside gets damaged by (10/20/30/40/50) + 10% AD physical damage + 92% of the previous rain of arrows damage up to a maximum of sum([(10/20/30/40/50) + 10% AD] * 11.88 physical damage.
+		
+R:
+	For Honor and Newborn ((1700/2500/3000) Units / - / - )
+		The soldiers that would normaly follow <Name> can be controlled now.
+		Casting the ability on any target in range makes the soldiers attack this target.
+		Casting the ability on any spot in range will make the soldiers go to that location.
+		Casting the ability on an ally makes the soldiers follow that ally.
