@@ -31,7 +31,7 @@ W:
 		
 		Her MS and AS get increased by (40/50/60/70)% for (1/1.5/2/2.5/3) seconds.
 		
-		The next basic attack wounds the head instead
+		The next basic attack wounds the head.
 		
 E:
 	Hit and Run (500 Units / (18/16/14/12/10) s)
@@ -44,6 +44,11 @@ R:
 	Bloodbath (1000 Units / (140/100/60) s)
 		
 		Every wounded enemy in range gets stunned for (0.5/1/1.5) seconds. She latches onto the targeted enemy champion and surpresses it for the lesser of half the time the champion was wounded and 5 seconds. During that time the targeted champion gets damaged with up to (30/40/50)% current health true damage based on the time surpressed.
-		Surpression can be stopped by movement.
+		Surpression can be stopped by movement, CC or death.
 		
 		Resets wound activity time on all targets affected on cast.
+		
+		
+		
+		
+Beleno Milenad grew up as an orphan in Piltover. Even though she was kept from harm for the most part, she soon had to learn how to defend herself against the bullies of the orphanage. But the bullies thought of new more gruesome methods every day, until one day Beleno found herself cornered while on cooking duty. She ended up stabbing one of them with a knife by accident. She fell into shock while the other bullies ran in panic. But then the puddle of blood forming around the dying boy mesmerized her. Her foster parents declared it an accident and thought that Beleno was traumatized by the accident. Quite the opposite was the case, as she was fascinated by the pain, panic and blood. Ever since she secretly hunts at night to statisfy her fascination.
