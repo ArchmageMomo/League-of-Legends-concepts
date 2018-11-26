@@ -1,0 +1,35 @@
+The Betrayer
+
+
+Basic:
+	450 Units ranged
+	 
+P:
+	Wings are made to fly:
+		Being out of combat for (15-8) seconds enables Genesé to pass terrain, leaving behind a trail of dust for 5 seconds and gaining 20 MS + 5% MS per 100 AP. Enemies passing the dust get revealed for (1-3) seconds
+		
+	Glittering dust:
+		The first basic attack after the activation of Wings are made to fly deals additional (20-80) + 70% AP magic damage and slows the target by (10-60)% for 1 second.
+	
+Q:
+	Pixie dust (1500 Units / (3/2.5/2/1.5/1) s / 20 Mana)
+		Genesé throws a slowly moving sphere of pixie dust into the targeted direction dealing (40/50/60/70/80) + 60% AP magic damage to every enemy passed. Cooldown gets reduced to 0.5 seconds when a unit gets killed. This ability can be used while moving.
+		The ability gets redirected by terrain.
+
+W:
+	Glittering Maelstrom (900 Units / (16/14/12/10/8) s / (90/80/70/60/50) Mana)
+		Genesé marks an area of 150 Units radius. If an enemy or allied champion passes the edge of this area after 1 second any enemy inside will get damaged with (50/70/90/110/130) + 90% AP magic damage. The area disappears after 4 seconds
+		
+E:
+	Betrayers Spike (1000 Units / (20/17/14/11/9) s / 90 Mana)
+		Any enemy in a radius of 200 units gets knocked back. Genesé channels a thin beam over 0.5 seconds that damages the first target it hits  by (100/150/200/250/300) + 150% AD magic damage and stuns it for 0.3 s + 0.3 s per 100 AP up to a maximum of 1.5 seconds.
+	
+R:
+	Genocide (800 Units / (120/100/80) s / 100 AP)
+		Genesé releases a cloud of pixie dust at the targeted enemy champion. It deals magic damage in a range of (10/15/20) + 30% AP to (100/150/200) + 140% AP + 7% missing HP, caping at 15% HP.
+		If the targeted enemy dies within 2 seconds after being hit new clouds get released at every enemy in a 500 Units radius dealing (75/125/175) + 70% AP magic damage and this timer on champions and large minions.
+		
+
+		
+
+Genesé was a loyal and playful fairy of the fae-kingdom. One day her friend Pix returned with a curious yordle girl and continued to spend all of his time playing with her instead. All of Genesés attempts to remind him of his other friends and his duties failed and even the fairy-king was clueless as she turned to him for help. That was when her loyalty crumbled and she got angrier at everyone every day. When Pix and the girl disappeared Genesé tried to follow them, but was stopped by the king. She left anyway, with the remains of the kingdom smoldering behind her. Now she looks for her friend, unsure whether to talk sense into him or leave his remains to rot.
