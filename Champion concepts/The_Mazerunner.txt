@@ -1,0 +1,29 @@
+The Mazerunner
+
+B:
+	300 Melee
+
+P:
+	The Maze:
+		<Name> is bound to a maze acting as an alternative version of the map. The maze changes outside of combat. The maze blocks vision on <Name> (except controll wards). <Name>s vision is bound to the actual map. <Name> has a 15% increased effect on MS buffs and items.
+		
+Q:
+	Tumblestab (400 Units / (5/4.5/4/3.5/3) s / 30 Mana)
+		The targeted enemy gets stabbed for (40/60/80/100/120) + 200% AD physical damage. Every maze-wall in a 400 units radius crumbles and creates a field slowing enemies on it by (6/7/8/9/10)% + 2% per 100 AP and deals physical damage equal to (10/20/30/40/50) + 5% HP. Crumbled walls rebuild themselves after 10 seconds.
+		
+W:
+	P: Comfy Walls
+		The first time <Name> deals damage to a champion or epic or legendary monster after being out of combat she heals for (30/50/70/90/110) + 60% of the damage dealt.
+	
+	A: Clearing ( - / 30 s / 70 Mana)
+		<Name> creates a clearing of (300/350/400/450/500) Units in a square around her.
+		
+E:
+	Mazegolem (700 Units or - / 20 s / (100/90/80/70/60) Mana)
+		<Name> creates a maze golem which follows the rules of the maze. It either is aimed at an enemy champion or monster or wanders until it sees an enemy champion. It has 200% HP and deals (50/125/200/275/350) + 200% AD + 150% AP physical damage in an 250 Units radius when it hits an enemy and disappears right after. If it is destroyed it explodes in a 200 Units radius and stuns enemies for 0.5 seconds.
+		
+R:
+	Living Walls (2000 Units / (200/170/140) s / 100 Mana)
+		The targeted enemy champion gets cursed with an alternative version of The Maze but has an opening of (1000/650/300) Units in a square around him on the initial cast. After 2 seconds the walls of the maze affect him for 10 seconds. If the enemy stands on a wall as it activates or deactivates he gets pushed to the closest opening, damaged with (30/60/90) + 40% AD physical damage and stunned for 0.5 seconds.
+		The maze is synchronized between all users of it.
+		Enemies affected can be seen through the walls of the maze.
