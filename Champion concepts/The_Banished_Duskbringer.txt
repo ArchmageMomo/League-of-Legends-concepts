@@ -13,7 +13,7 @@ P:
 
 Q:
 	Dark barrage (1100 Units / (10/9/8/7/6) s / (40/50/60/70/80) Mana)
-		After channeling for 1 second Semaraa fires 5 projectiles of dark matter dealing (8/16/24/32/40) + (20/25/30/35/40) % AD + (22/24/26/28/30) % AP adaptive damage each. The first one is larger than the others and pulls every enemy it touches to its center. The first projectile pierces all enemies, the smaller ones are blocked by enemy champions.
+		After channeling for 1 second Semaraa fires 5 projectiles of dark matter dealing (8/16/24/32/40) + (20/25/30/35/40) % AD + (22/24/26/28/30) % AP adaptive damage each. The first one is larger than the others and pulls every enemy it touches to its center. The first projectile pierces all enemies, the smaller ones are blocked by enemy champions if they deal magic damage.
 		Minions take 40% damage.
 	
 W:
