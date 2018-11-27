@@ -70,8 +70,33 @@ Animations:
 	B: Throws with dark blobs
 	P: When her wings ignite she flys
 	Q: Thrusts her arms in front of her and summons the dark matter between her claws before releasing it
-	W: Throws a blob of dark matter with her left hand
+	W: Throws a blob of dark matter with her left hand; black spikes grow out of and retract into the ground
 	E Mirror Shield: Her hair burn in twilight colors when she has the mirror shield active
 	E Mark: A claw with 5 fingers hovering over the head of the champion, each finger igniting a star at the tip on hit
-	E 25 fragments: A small purple ghost floats around her
+	E 25 fragments: A small dusk colored ghost floats around her
 	R: Rams her feet into the ground and stretches an arm in front of her, growing the dusk star around it with the edge always in front of her; tumbles back shortly when she releases it
+
+
+
+
+
+
+
+
+Starguardian appearance:
+	Black "edgy" clothing; Stockings black and white with the pattern of vines on it; relatively flat, black and white sneakers; White hair bound to a high ponytail and decorated with a black star at the base; White bat ears;Short, plain black cooks-outfit, decorated with her emblem on her left shoulder and star shaped buttons; Low sitting black and white skirt; Grey eyes
+	Wings replaced with her familiar; Familiar is dark green, black and white and looks like a hedgehog-chameleon hybrid with dragon wings
+	
+Starguardian animations:
+	Recall: She stretches out her arm and her familliar crawls onto it. She pats its head, then follows its look into the sky
+	Recall flying: Familiar merges with her while she takes her emblem into her hands and looking at it, giving her dragon wings. After puting the emblem back at its spot at her shoulder she conjures and places herself on a flattened star and rides it to the sky
+	Joke: Transforms into her Familiar instead
+	Taunt: Stars instead of starfire
+	B: Black Stars
+	P: Her familiar spreads its wings and leaves behind a trail of stars. Flying more upright than on homeguard
+	Q: Black Stars instead of dark matter
+	W: Familiar spits out an egg, cracking and releasing a rain of stars
+	E Mirror Shield: A cloud of stars surrounds her head
+	E Mark: changed colors and the stars are starguardian themed
+	E 25 fragments: Small paper cranes instead of ghosts
+	R: A giant, rotating, color changing star
