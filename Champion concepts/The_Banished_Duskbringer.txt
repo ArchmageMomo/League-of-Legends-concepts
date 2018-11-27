@@ -6,14 +6,15 @@ B:
 	
 P:
 	Ascended by Starfire:
-		Every time Semaraa has dealt 3000 + 500 * ascension stage damage to enemy champions or legendary monsters her ascension stage gets increased by 1.
+		Every time Semaraa has dealt 3000 + 500 * ascension stage (except the free one on E) damage to enemy champions or legendary monsters her ascension stage gets increased by 1.
 		
 		Per stage her AD, AP and HP get increased by 1% and her range gets increased by 20 up to a maximum of 200.
 		At the second ascension stage wings of starfire burst out of her back, increasing her movement speed by 2%. Every enemy and neutral target touching the wings takes (5-90) + 5% AP + 5 * ascension stage magic damage per second.
 
 Q:
 	Dark barrage (1100 Units / (10/9/8/7/6) s / (40/50/60/70/80) Mana)
-		After channeling for 1 second Semaraa fires 5 projectiles of dark matter dealing (8/16/24/32/40) + (6/12/18/24/30) % AD + (6/12/18/24/30) % AP adaptive damage each. The first one is larger than the others and pulls every enemy it touches to its center. The Projectiles pierce enemies.
+		After channeling for 1 second Semaraa fires 5 projectiles of dark matter dealing (8/16/24/32/40) + (20/25/30/35/40) % AD + (22/24/26/28/30) % AP adaptive damage each. The first one is larger than the others and pulls every enemy it touches to its center. The first projectile pierces all enemies, the smaller ones are blocked by enemy champions.
+		Minions take 40% damage.
 	
 W:
 	Godsoul scorch (1000 Units / 12 s / (70/85/100/115/130) Mana)
@@ -24,7 +25,7 @@ E:
 		The targeted enemy or legendary monster gets marked for (8/8.5/9/9.5/10) seconds. Every time an individual spell or attack from Semaraa hits the enemy it gets damaged by additional (10/20/30/40/50) + 30 % AP magic damage and rips one part of Sho'ma.
 		
 		After 5 hits, the mark disappears and Semaraa gets healed by (10/15/20/25/30)% of the damage dealt.
-		Once 25 parts of Sho'ma got ripped from a champion Semaraa gains [10/20/30/40/50] % damage mirror towards the marked enemy champion, meaning 50% of the damage received from that enemy gets inflicted to this enemy instead. (Excludes True damage and DoT effects)
+		Once 25 parts of Sho'ma got ripped from a champion Semaraa gains (10/20/30/40/50) % damage mirror towards the marked enemy champion, meaning 50% of the damage received from that enemy gets inflicted to this enemy instead. (Excludes True damage and DoT effects)
 		If all enemy champions got 25 parts of Sho'ma ripped from them Semaraa gains one free ascension stage.
 	
 R:
