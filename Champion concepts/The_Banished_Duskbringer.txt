@@ -9,7 +9,7 @@ P:
 		Every time Semaraa has dealt 3000 + 500 * ascension stage (except the free one on E) damage to enemy champions or legendary monsters her ascension stage gets increased by 1.
 		
 		Per stage her AD, AP and HP get increased by 1% and her range gets increased by 20 up to a maximum of 200.
-		At the second ascension stage wings of starfire burst out of her back, increasing her movement speed by 2%. Every enemy and neutral target touching the wings takes (5-90) + 5% AP + 5 * ascension stage magic damage per second.
+		At the second ascension stage wings of starfire burst out of her wings and leave behind a trail. Every enemy and neutral target touching the wings or trail takes (5-90) + 5% AP + 5 * ascension stage magic damage per half second. Her her MS gets increased by 2%.
 
 Q:
 	Dark barrage (1100 Units / (10/9/8/7/6) s / (40/50/60/70/80) Mana)
@@ -33,7 +33,6 @@ R:
 		Semaraa channels for 2 seconds to summon a star of twilight with a radius of 250 + 62.5 per 100 AP Units up to a maximum of + 500 Units. The star travels with a speed of (60/70/80) % MS and deals (350/400/450) + 140% AD + 80% AP adaptive damage to epic monsters and the first enemy champion hit, 40% of the damage to minions and non-legendary monsters and 50% damage to every enemy champion after the first one.
 		
 		The star disappears if it travels behind the enemy nexus.
-		
 
 
 
@@ -42,7 +41,37 @@ R:
 
 
 
-		
+
 Long before the first Shuriman ascended through the sundisc, the aspects of Targon experimented with other forms of ascension. One of the few successful experiments ended up creating a being the aspects were barely able to controll with their combined efforts. In fear of it they bound it to the moon and kept it contained.
 The being, a Vastayashai'rei that got exposed to the energy of a cosmic dragon, was called Semaraa. She envied the Shuriman empire when it rose with the help of the Ascended, and laughed as ascension became their downfall, she watched the cataclysms and cursed at the aspects for standing aside, and she cried as her former homelands died to the grief of a ruined king.
 When Semaraa finally broke her shackles she swore to protect runeterra from whatever might endanger it and its inhabitants.
+
+
+
+
+
+
+
+
+Appearance:
+	Skinny woman with leathery wings on her shoulders (Bat Vastayashai'rei; ignite when passive activates) and bat ears
+	Hair in different shades of gray, crinkly, reaching to the mid of her back, ears dark-brown
+	Eyes glowing in the colors of dusk, always a tired and hungry look on her face
+	Face relatively round, slim neck, small mouth
+	Relatively small body, light-grey skin, moderately sized breasts (REF Taliyah), long moray-like tail drawing behind her, claw-like, but gentle looking fingers
+	Feet bound into mid-grey rags, simple worn out pants that don't seem to fit (but never move ofc, but she wears it super low and it looks like it could slip any second), breasts bound into mid-grey rags
+	Body covered behind a worn out brown travelers-cloak
+	
+Animations:
+	Recall: Starts to hover, crosses legs mid air, starts to meditate, building a dusk star between her hands before accelerating into the air
+	Recall flying: The ground ignites, she lands and absorbs the starfire out of it before disappearing
+	Joke: Changes her appearance to that of a raptor-like animal and screaches. leaves behind a pile of clothes
+	Taunt: draws her hand through the air, leaving behind a streak of starfire
+	B: Throws with dark blobs
+	P: When her wings ignite she flys
+	Q: Thrusts her arms in front of her and summons the dark matter between her claws before releasing it
+	W: Throws a blob of dark matter with her left hand
+	E Mirror Shield: Her hair burn in twilight colors when she has the mirror shield active
+	E Mark: A claw with 5 fingers hovering over the head of the champion, each finger igniting a star at the tip on hit
+	E 25 fragments: A small purple ghost floats around her
+	R: Rams her feet into the ground and stretches an arm in front of her, growing the dusk star around it with the edge always in front of her; tumbles back shortly when she releases it
