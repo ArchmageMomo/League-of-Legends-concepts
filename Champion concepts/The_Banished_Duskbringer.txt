@@ -25,12 +25,12 @@ E:
 		The targeted enemy or legendary monster gets marked for (8/8.5/9/9.5/10) seconds. Every time an individual spell or attack from Semaraa hits the enemy it gets damaged by additional (10/20/30/40/50) + 30 % AP magic damage and rips one part of Sho'ma.
 		
 		After 5 hits, the mark disappears and Semaraa gets healed by (10/15/20/25/30)% of the damage dealt.
-		Once 25 parts of Sho'ma got ripped from a champion Semaraa gains (10/20/30/40/50) % damage mirror towards the marked enemy champion, meaning 50% of the damage received from that enemy gets inflicted to this enemy instead. (Excludes True damage and DoT effects)
+		Once 25 parts of Sho'ma got ripped from a champion Semaraa gains (10/20/30/40/50) % damage mirror towards the marked enemy champion for 4 seconds, meaning 50% of the damage received from that enemy gets inflicted to this enemy instead. (Excludes True damage and DoT effects)
 		If all enemy champions got 25 parts of Sho'ma ripped from them Semaraa gains one free ascension stage.
 	
 R:
 	Dusk Star (global / 90 s / 100 Mana)
-		Semaraa channels for 2 seconds to summon a star of twilight with a radius of 250 + 62.5 per 100 AP Units up to a maximum of + 500 Units. The star travels with a speed of (60/70/80) % MS and deals (350/400/450) + 100% AD + 100% AP adaptive damage to epic monsters and the first enemy champion hit, 40% of the damage to minions and non-legendary monsters and 50% damage to every enemy champion after the first one.
+		Semaraa channels for 2 seconds to summon a star of twilight with a radius of 250 + 62.5 per 100 AP Units up to a maximum of + 500 Units. The star travels with a speed of (60/70/80) % MS and deals (350/400/450) + 140% AD + 80% AP adaptive damage to epic monsters and the first enemy champion hit, 40% of the damage to minions and non-legendary monsters and 50% damage to every enemy champion after the first one.
 		
 		The star disappears if it travels behind the enemy nexus.
 		
