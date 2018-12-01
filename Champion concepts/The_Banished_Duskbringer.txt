@@ -8,8 +8,8 @@ P:
 	Ascended by Starfire:
 		Every time Semaraa has dealt 3000 + 500 * ascension stage (except the free one on E) damage to enemy champions or legendary monsters her ascension stage gets increased by 1.
 		
-		Per stage her AD, AP and HP get increased by 1% and her range gets increased by 20 up to a maximum of 200.
-		At the second ascension stage wings of starfire burst out of her wings and leave behind a trail. Every enemy and neutral target touching the wings or trail takes (5-90) + 5% AP + 5 * ascension stage magic damage per half second. Her her MS gets increased by 2%.
+		Per stage her AD, AP and HP get increased by 3% and her range gets increased by 20 up to a maximum of 200.
+		At the second ascension stage wings of starfire burst out of her wings and leave behind a trail. Every enemy and neutral target touching the wings or trail takes (5-90) + 10% AP + 10 * ascension stage magic damage per half second. Her her MS gets increased by 2%.
 
 Q:
 	Dark barrage (1100 Units / (10/9/8/7/6) s / (40/50/60/70/80) Mana)
@@ -22,7 +22,7 @@ W:
 	
 E:
 	Ripping Sho'ma (600 Units / (20/18/16/14/12) s / (35/40/45/50/55) Mana)
-		The targeted enemy or legendary monster gets marked for (8/8.5/9/9.5/10) seconds. Every time an individual spell or attack from Semaraa hits the enemy it gets damaged by additional (10/20/30/40/50) + 30 % AP magic damage and rips one part of Sho'ma.
+		The targeted enemy or legendary monster gets marked for (8/8.5/9/9.5/10) seconds. Every time an individual spell or attack from Semaraa hits the enemy it gets damaged by additional (10/20/30/40/50) + 50 % AP magic damage and rips one part of Sho'ma.
 		
 		After 5 hits, the mark disappears and Semaraa gets healed by (10/15/20/25/30)% of the damage dealt.
 		Once 25 parts of Sho'ma got ripped from a champion Semaraa gains (10/20/30/40/50) % damage mirror towards the marked enemy champion for 4 seconds, meaning 50% of the damage received from that enemy gets inflicted to this enemy instead. (Excludes True damage and DoT effects)
@@ -43,7 +43,7 @@ R:
 
 
 Long before the first Shuriman ascended through the sundisc, the aspects of Targon experimented with other forms of ascension. One of the few successful experiments ended up creating a being the aspects were barely able to controll with their combined efforts. In fear of it they bound it to the moon and kept it contained.
-The being, a Vastayashai'rei that got exposed to the energy of a cosmic dragon, was called Semaraa. She envied the Shuriman empire when it rose with the help of the Ascended, and laughed as ascension became their downfall, she watched the cataclysms and cursed at the aspects for standing aside, and she cried as her former homelands died to the grief of a ruined king.
+The being, a Vastayashai'rei that got exposed to the energy of a cosmic dragon, was called Semaraa. She envied the Shuriman empire when it rose with the help of the Ascended, and laughed as ascension became their downfall, she watched the cataclysms and cursed at the aspects for standing aside, and she cried as her former homelands disappeared behind a black unnatural mist.
 When Semaraa finally broke her shackles she swore to protect runeterra from whatever might endanger it and its inhabitants.
 
 
@@ -100,3 +100,145 @@ Starguardian animations:
 	E Mark: changed colors and the stars are starguardian themed
 	E 25 fragments: Small paper cranes instead of ghosts
 	R: A giant, rotating, color changing star
+	
+	
+	
+	
+	
+	
+	
+	
+Interactions
+	First encounter:
+		Darkin:
+			"Bound to its own weapon. Targon surely knows how to drive people mad."
+			"You griefed for power as if ascension wasn't enough already."
+			"Blood magic... Try a little harder and you might be able to fight my pinky toe."
+		Vastaya:
+			"Your Sho'ma matches, but you lost what defined us."
+			"Vastaya, huh? What a shame. We were destined for greatnes."
+		Anivia:
+			"Our goals are the same, just their dimensions differ in the same way our power does."
+		Ashe:
+			"Your goals are noble, but can you hold onto your ideals?"
+		Asol:
+			"You and I, we aren't meant to follow Targons call."
+			"With only a fraction of your powers I almost was able to kill the aspects. What are your limits, celestial dragon?"
+		Azir:
+			"His Sho'ma feels awkward. Another one of Targons mistakes?"
+		Ascended:
+			"The practice you thought of as the greatest honor is the result of Targons protective measures."
+			"I see why they changed their approach. You are much more manageable than I was."
+		Void:
+			"Targon and I may have our differences, but you are a common foe."
+		Diana:
+			"Your loyalty forces your hand, moon."
+			"Maybe, one day, we will be friends again."
+		Undead:
+			"You invaded my home and destroyed what was dear to me. Now I will do the same to you."
+		Demon:
+			"Mainly Sho'ma, but still dangerous."
+		Yordle:
+			"Good to know that some of us never change."
+			"Still as cute as when I was young."
+		Illaoi:
+			"Soon your god will see its priestress in stagnation."
+		Kayle:
+		
+		Kindred:
+			"You were supposed to take me a long time ago."
+		Leona:
+			"The aspect of the sun. You are on top of my list."
+		Lissandra:
+			"I have seen what you built. Your secret can't be contained forever."
+		Maokai:
+			"You feel like home. Can we talk?"
+		Morgana:
+			
+		Nasus:
+			"You seem weaker than I am, but your Sho'ma shows wisdom."
+		Neeko:
+			*You call yourself Vastayashai'rei, but you are merely a branch of the tree.*
+			*Show some dignity young one.*
+			*No, I don't want to be part of your tribe. Ask again and I will shove a moderately sized star up your body.*
+			*Oh, how cute. You like me. Doesn't make me like you any better.*
+		Ornn:
+			"You hid in your mountain for too long."
+		Pantheon:
+			"War. We have busines with each other."
+		Soraka:
+			
+		Swain:
+			"Your aproach to the whole Power-thing surprises me."
+		Syndra:
+			"Power isn't everything. It is how it is given and how you use it what counts."
+		Taric:
+			"The protector. How fitting that you were the one to die first that day."
+		Thresh:
+			"So much Sho'ma... Let it free!"
+		Varus:
+			"You are supposed to be dead already."
+		Veigar:
+			"Cute. Do you have any idea on how evil some can really get?"
+		Volibear:
+			"I have seen the rivers you filled."
+			"You bring nothing but war."
+		Xerath:
+			"In your desperate attempts to fathom true ascension you forgot what it means to be mortal."
+			"So much power, but can you create stars?"
+		Zoe:
+			"It seems you always have to clean up the mess the other aspects make, twilight."
+			"Come to bind me again? Amusing."
+	
+	Kill:
+		"Return your Sho'ma to the eternal cycle."
+		
+	Spawn with ally:
+		Diana:
+			"Thanks for coming old friend. Now, let us begin."
+			"Let's catch up after this. That ok?"
+			"It's been a while. How many times have you changed your host since?"
+		Neeko:
+			*I could probably teach you something when we are done here.*
+			*Don't get the wrong idea, young one. I like you, but I am way too old for you. Plus we can't revive the Vastayashai'rei anyway.*
+		Varus:
+			"Let's bring havoc upon Targon. You with me Varus?"
+
+
+
+
+
+
+
+
+When you wish upon a star
+
+A flash of light drew Kanehas attention while he sunk his sable teeth into a grilled fish. A shooting star traveled across the sky, followed by another one. He wasn't superstitious, but never the less he closed his eyes and thought of something he desired. As he opened his eyes again he looked into the sky again just to be stunned by another bigger shooting star lighting the night-sky. It took a while for Kanehas to realize that something was off. It didn't travel across the sky as the other ones did and instead just got bigger while it fell from the sky. Unable to move he watched it drawing closer until it disappeared behind the tips of the forest. The cracking of wood told him that the shooting star must have landed near his camp. He noticed that his mouth stood wide open and closed it before he ran into the direction he last saw the shooting star.
+
+Semaraa leaned at a tree and tried not to scream. It took some time until the pain of entering runeterras atmosphere decreased to a manageable amount, and still she felt like she went through literal hellfire. The more she thought about it, the less farfetched this comparison sounded to her. After all she did burn at reentry. When she felt ready she took a look at her surroundings. She appeared to have landed in a forest. There were some small flames where she came in contact with the trees, but that was nothing that would lead to any major damage. Her clothes did burn off though. She stretched her wings before she folded them completely and looked at the sky. The moon looked so tiny, and yet seemed to taunt her even after she escaped. She forced herself to look away and started walking into a random direction.
+
+It wasn't long until she felt someone nearby. Curiously she sneaked up to them and hid behind a tree so that she could see them. The Sho'ma of one of them told Semaraa that he was a mostly harmless being, probably a Vastayashai'rei. The other one confused her as it felt like the Sho'ma of three persons combined, but she didn't have to read its Sho'ma to understand its agressive behaviour. It held a bow in its hand and had a red glowing arrow pointed at the Vastayashai'rei. But something was off. The person with the bow seemed to struggle to release the arrow. Semaraa took a deep breath and released a small portion of her power to form a star in her hand. Both the Vastayashai'rei and the person with the bow turned towards her in shock.
+"Don't care what is going on. Run or die." Semaraa felt awkward using her voice after all this time and noticed that the sentences were off in some way. But it was appearent that both of them understood her. Just for show she spread her wings and took a step closer. "What will it be?"
+"That's not possible!" said the one with the bow with a shaky voice. His confusing Sho'ma told her that he was something between scared to the bone and pleasantly surprised. Semaraa took another step forward. Now the one with the confusing Sho'ma paniced and released the arrow, but he missed.
+"That your choice?" she asked in the most unimpressed voice she could and took another step forward. She would have no problem killing the strange man with the bow, but she would much more prefer to simply scare him off. And indeed he took a step back. "Last chance. Run now or die a fool." The man backed off a bit more. She took another step forward, and that was what finally made him run. When Semaraa was sure that he was gone she banished the star and its warmth in an instant.
+"Thank you for saving me." The Vastayashai'rei said. His name was Kaneha and he went away from his camp to look where a shooting star had landed. And he called himself a Vastaya.
+"What are Vastaya?" she bluntly asked, interrupting whatever Kaneha wanted to say. He took a breath, but then took a confused look at her.
+"Shouldn't you know that yours..."
+"No. Except Vastaya and Vastayashai'rei are the same which I doubt as you insist on vocal conversation." She could literally see his jaw drop. "You have a camp nearby? Let's go there while we talk."
+
+When they got to the camp the fire Kaneha had prepared had already burned down. He has told Semaraa everything he could remember from the stories he was told as a child, but most of them depicted the Vastayashai'rei way different than they really were.
+"So there are no known Vastayashai'rei alive." she concluded and placed some branches in the fire pit.
+"Not to my knowledge. Except you, appearantly." She laughed shortly and ignited the branches with a tiny bit of her powers. With a look at the Vastaya whose jaw had dropped again and who held flint and steel in his hands she had to laugh again.
+"You thought that this was just for show? He could as well be less than a pile of ash by now." She pointed at a bag. "Have any spare clothing you could give me?" He snapped out of it and started searching in the bag.
+"Were all Vastayashai'rei able to do that?" he asked while he pulled out some pants.
+"No. But I could show you something all of us were able to do."
+"It would be an honor." Almost instantly Semaraa made her body copy the shape of Kanehas.
+"We were defined more through our Sho'ma than we were through our bodies." She said in his voice "In theory everyone of us was able to mimic the shape of anything as long as it had Sho'ma."
+"You mean a soul?" he asked.
+"That's not exactly what Sho'ma is." She thought about it for a second. "But to simplify things, yes. Also we rarely used our voice as it is much easier to read the Sho'ma of the others as long as they could read yours. There were no secrets."
+"But you can speak quite well. Where did you learn to?" Kaneha handed the pants and a travelers-cloak to her, which she put on top of a stone.
+"A friend of mine tought me before we went on a journey to her village." She changed her shape again, this time to a bat, took off and flew a few circles before landing and turning into her favourite shape again. It wasn't just for show, but also for her to move around a bit. "You don't happen to have anything to cover my chest, don't you?" 
+"If you are ok with dusty bandages?"
+"Will suffice." *At least if it isn't any more moondust.* She put on the pants and started to wrap her chest into the bandages. When she considered herself covered she turned towards Kaneha again. "Can I keep it?"
+"Of course. I don't really need that old stuff anyway, and the bandages were just rotting in the bag for years now." Semaraa nodded and put on the cloak. It felt good to wear relatively new clothes again. She sat down on a rock when she felt the confusing Sho'ma again.
+"Seek cover. He's back." she hissed and jumped to her feet. She knew where the red arrow was coming from before she saw it and catched it out of the air before it reached her. "You are either brave or stupid." Semaraa burned the arrow in her hand releasing a foul smell. Another arrow hit the tree behind her as she jumped into the air and summoned her own projectiles against the man with the bow. She could see him hiding behind a tree as the spheres of something-really-dark flew past him. She hovered above the fire and summoned another barrage of super-dark-stuff in her hands. The next arrow flew, but it wasn't aimed at her. Kanehas body dropped to the ground as his Sho'ma diffused back into the worlds endless cycle. Semaraa screamed in rage. She had known the Vastaya for just a short time, but he had grown close to her in some way. She ignited a super-dark-star between her hands and released it at the man with the bow. The world seemed to ignite until Semaraa banished the dark star and returned night to the world most of the forest in front of her had disappeared and got replaced by literal scorched earth and the surrounding trees catched fire. There was also no trace of the strange man left. Semaraa sighed and floated back to the floor. *What a crapy day.* she thought and went to work through the dead Vastayas bag. He didn't have much useful stuff with him, but at least he had some bread. She could use something to eat after all this time. But for now she left the bread alone and turned her attention towards the corpse. *I probably should get rid of him too.* In lack of any better idea she summoned another smaller star and lowered it onto the body. When she was finished she ate the bread and went to sleep on the mossy floor.
