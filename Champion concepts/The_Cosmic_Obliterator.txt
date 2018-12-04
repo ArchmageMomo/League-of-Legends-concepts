@@ -1,0 +1,71 @@
+The Cosmic Obliterator
+
+
+Basic idea:
+	Counterpart to Bard
+	sharp sounds (synthetic, e-guitar) or acoustic bass instead of voice 
+	Kit should hint at the eternal fight between him and Bard.
+
+
+
+
+B:
+	460 Units
+
+P:
+	Cosmic obliteration:
+		Once every minute an enemy champion gets marked with a cosmic fragment. Attacking this champion when it is below (50-80)% with an ability grants the fragment. Fragments stay active on champions for 2 minutes.
+		
+		Fragments can be spent in shop to modify abilities. Their price is shown like this: (Cost[cost increase for each additional]). If the price has no increased cost declared the modification can't be bought multiple times.
+		
+			Radial ruin:
+				Cosmic burn (7+2):
+					Deals 1% max HP damage per second over 5 seconds per burst hit.
+				Radial destruction (7+5 (limited to 3 times)):
+					Adds two additional gusts that fly on two additional circles that intersect on the respective locations at the outmost edges.
+				Cycle of destruction (7+2):
+					The bursts go for one additional round.
+			
+			Obliterator's Shrine:
+				Intense prayer (7+0):
+					Charge speed gets increased by 20%.
+				Durable stones (7+2):
+					Shrines take one more hit and regenerate when out of combat.
+				Secret rituals (7):
+					Shrines are invisible now, but disappear if triggered.
+					
+			Channeling doom:
+				Cosmic scorch (7+5 (limited to 3)):
+					The ability leaves behind a scorched area for 2 seconds if charged between 0.5 and 1.5 seconds. Enemies inside are grounded. Upgrades increase the duration by 2 seconds.
+				Rebound (10+0):
+					The ability hits one aditional time with its lowest damage in the same radius after 0.3 seconds.
+				Tormenting flesh (9):
+					The ability inflicts grievous wounds for 4 seconds.
+					
+			Sounds of destruction:
+				Opposing the Caretaker (10+5 (limited to 3)):
+					The healing shockwave will keep 15% of the remaining DoT active. (Increases by 15%)
+				
+
+Q:
+	Radial ruin (1000 Units / (11/9.5/8/6.5/5) s / 80 Mana)
+		Lodiee fires two bursts of spirit energy that fly in their individual circles of 400 units radius that intersect each other at the position of the cursor or overlay each other at max range. Each does (80/125/170/215/260) + 70% AP magic damage to the first target hit, but still keep flying. If an enemy champion is hit twice it becomes untargetable and gets pulled to Lodiees location.
+		
+W:
+	Obliterator's Shrine (800 Units / 13 s / 90 Mana)
+		Lodiee conjures a shrine at the targeted location. The shrine endures 3 hits before it gets destroyed and goes into 150 Units camouflage without indicator after 1 second. Up to 3 shrines can be active at once and each builds power over 10 seconds.
+		
+		When an enemy steps onto a shrine it deals between (50/80/110/140/170) + 20% AP * (1 + % charged) and (50/80/110/140/170) + 60% AP * (1 + % charged) magic damage based on hp lower than 50% HP caping at its highest at 25% HP. This effect can occur once every 5 seconds to the same champion.
+		
+E:
+	Channeling doom (1200 Units / (13/12/11/9/8) s / 80 Mana)
+		Lodiee channels a ray of energy from the sky, striking the area after 0.5 seconds. It starts at 250 Units radius and (10/20/30/40/50) + 20% AP magic damage, but shrinks and increases in damage over 2 seconds to 50 Units radius and (50/100/150/200/250) + 80 % AP magic damage. If channeled to max it also roots the target for 1 second.
+		
+		Lodiee can move at 50% speed and re-aim while channeling.
+
+R:
+	Sounds of destruction ( - / (200/180/160) s / 100 Mana)
+		Lodiee sends out a shockwave at (2000/3000/4000) Units per second. Once it a Nexus (or a spawn platform on maps without) it resonates with it. Every enemy champion gets stunned for 0.5 seconds and damaged by (100/400/1200) + 60% AP magic damage over 15 seconds, indicated at their lifebar. Minions get stunned for 2 seconds instead and won't take any damage.
+		2 seconds after the first Nexus resonated the other one resonates as well and releases a shockwave traveling at 1000 Units per second. Enemy champions touching the shockwave or healed by the fountain won't take any more damage by the DoT.
+		
+		This ability doesn't proc any effects, but prevents Recall and Teleport while the DoT is active.
