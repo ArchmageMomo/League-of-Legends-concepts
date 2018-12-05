@@ -17,7 +17,11 @@ P:
 		Once every minute an enemy champion gets marked with a cosmic fragment. Attacking this champion when it is below (50-80)% with an ability grants the fragment. Fragments stay active on champions for 2 minutes.
 		
 		Fragments can be spent in shop to modify abilities. Their price is shown like this: (Cost[cost increase for each additional]). If the price has no increased cost declared the modification can't be bought multiple times.
-		
+			
+			Cosmic obliteration:
+				Harvest (4+3):
+					When a cosmic fragment gets collected, the champion it gets ripped off gets damaged with (10-20) + 2 * fragments + 5% AP magic damage.
+					
 			Radial ruin:
 				Cosmic burn (7+2):
 					Deals 1% max HP damage per second over 5 seconds per burst hit.
