@@ -1,0 +1,47 @@
+The force of nature:
+
+Metadata:
+	Child -> Less than 4 years old
+	Commands the weather
+	Floats
+	Emotionaly unstable -> affects weather
+
+
+B:
+	440 Units ranged
+	
+P:
+	Force of nature:
+		Every time Bubble casts an basic ability the weather in a 1500 Units radius around him changes for 5 seconds. It takes 2 seconds from the initial cast for the weather to change.
+		
+Q:
+	Thunderous Anger (1100 Units / (8/7/6/5/4) s / (80/90/100/110/120) Mana)
+		Bubble starts channeling a lightning bolt for up to 2.5 seconds and gets slowed by 50% while channeling. After 2. seconds the bolt is fully charged. When Bubble releases the bolt he channels for another 0.5 seconds and deals (40/60/80/100/120) + 70% AP magic damage to the first enemy in line. Depending on how long he has charged the bolt it bounces over to 0-4 enemies dealing the same amount of damage.
+		When he channels for the full 2.5 seconds Bubble channels a thunderstorm, channeling a passive lightning for 7 visible enemies in range prioritizing minions over champions over monsters.
+		
+		FoN: Thunderstorm
+			Enemy champuons inside the passive radius build up static charges. Once 100 static charges have built up a lightning channels for 0.3 seconds and strikes the position the enemy was standing on in a 50 units radius dealing (40/60/80/100/120) + 50% AP damage.
+
+W:
+	Shining Joy (725 Units / 20 s / (80/90/100/110/120) Mana)
+		Bubble sends out a wave of warm energy healing every allied champion hit by (60/85/110/135/160) + 20% AP + (1% per 200 total max HP) missing HP.
+		
+		FoN: Sunny day
+			The ally with the least % HP inside the passive radius gets healed by (5/10/16/23/35) + 5% AP per second for the cost of 5 Mana per proc below (100/95/90/85/80) % HP.
+	
+E:
+	Freezing Fear (900 Units/ 10 s / 90 Mana)
+		Bubble sends out a gust of cold energy piercing enemies. When it hits an enemy it gets slowed by 50% for 2 and feared for 0.5-2 seconds based on proximity to Bubble (the closer the higher), as well as damaged with (80/110/140/170/200) + 60% AP magic damage, reduced by (50/45/40/35/30)% for every additional enemy hit.
+		
+		FoN: Blizzard
+			Enemies inside the passive radius take 1% max health magic damage every (3/2.5/2/2.5/1) seconds and are slowed by (1.5% per 100 AP). Also the vision of every enemy towards anything inside the passive range gets impaired by (100/150/200/250/300) units.
+			
+R:
+	Monsoon of Sadness (passive radius / (130/110/90) s / 100 Mana)
+		Bubble creates a 500 Units wide ring around her. Any enemy trying to leave his passive range gets pushed back in and punished with (100/300/700) + 60% AP. Any enemy touching the outer edge gets pulled in and damaged by (100/150/200) + 30 % AP. After 5 seconds
+		
+		FoN:
+			Any enemy outside the radius gets slowed by 5% per enemy inside the radius while this ability is active. When it ends the FoN is based off the last used ability again.
+			
+		PASSIVE Unchecked forces:
+			The passive radius gets increased by (200/350/500) Units.
