@@ -305,7 +305,7 @@ W:
 			
 		Female: Dystopic (220 Units / (14/13/12/11/10) s / 100 + 10% Mana)
 			
-			Muolon strikes with her blade. Every enemy in front of him takes (30/60/90/120/150) + Building Barrage % user max health physical damage and knocks them back by (40/80/120/160/200) Units.
+			Muolon strikes with her blade. Every enemy in front of her takes (30/60/90/120/150) + Building Barrage % user max health physical damage and knocks them back by (40/80/120/160/200) Units.
 			
 E:
 	Male: Bending space ((400/475/550/625/700) Units / 10 s / 100 Mana)

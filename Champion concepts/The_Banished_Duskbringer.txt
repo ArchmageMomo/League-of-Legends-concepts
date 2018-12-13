@@ -18,7 +18,7 @@ Q:
 	
 W:
 	Godsoul scorch (1000 Units / 12 s / (70/85/100/115/130) Mana)
-		Semaraa throws a blob of dark matter. If it hits an enemy champion or epic or legendary monster it deals (70/80/90/100/110) + 100 % AD physical damage and sticks to it, else it just stays where it hit the ground. For the next 5 seconds the orb summons a steady stream of spikes in a 200 units radius out of the ground, dealing (5/10/15/20/25) + 14% AD physical damage per half second.
+		Semaraa throws a blob of dark matter. If it hits an enemy champion or epic or legendary monster it deals (70/80/90/100/110) + 100 % AD physical damage and sticks to it, else it just stays where it hit the ground. For the next 5 seconds the orb summons a steady stream of spikes in a 200 units radius out of the ground, dealing (5/10/15/20/25) + 14% AD physical damage per half second and slows for (1.5% per 50 AP). 
 	
 E:
 	Ripping Sho'ma (600 Units / (20/18/16/14/12) s / (35/40/45/50/55) Mana)
