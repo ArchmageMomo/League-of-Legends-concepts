@@ -2,7 +2,7 @@ The Banished Duskbringer
 
 
 B:
-	500 Ranged ( quickly fly after a small delay after the the animation)
+	500 Ranged (quickly fly after a small delay after the the animation)
 	
 P:
 	Ascended by Starfire:
@@ -30,7 +30,7 @@ E:
 	
 R:
 	Dusk Star (global / 120 s / 100 Mana)
-		Semaraa channels for 2 seconds to summon a star of twilight with a radius of 250 + 62.5 per 100 AP Units up to a maximum of + 500 Units. The star travels with a speed of (60/70/80) % MS (excluding homeguard and buffs from champions) and deals (350/400/450) + 200% AD + 145% AP adaptive damage to epic monsters and the first enemy champion hit, 20% of the damage to minions and non-legendary monsters and 40% damage to every enemy champion after the first one.
+		Semaraa channels for 2 seconds to summon a star of twilight with a radius of 250 + 62.5 per 100 AP Units up to a maximum of + 500 Units. The star travels with a speed of 60 % MS (excluding homeguard and buffs from champions) and deals (350/400/450) + 200% AD + 145% AP adaptive damage to epic monsters and the first enemy champion hit, 20% of the damage to minions and non-legendary monsters and 40% damage to every enemy champion after the first one.
 		
 		The star disappears if it travels behind the enemy nexus.
 		As long as an allied or enemy champion is near or inside the star it gets translucent.
