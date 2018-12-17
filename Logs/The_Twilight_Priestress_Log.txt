@@ -1,0 +1,28 @@
+I decided to rework this concept as it was quite broken and didn't fit into the universe. I wanted to keep the ability that stood out the most: her E.
+I went back to the roots of the concept and placed her in Demacia. Problem: There is only ONE other mage there (Lux, Shyvana if you consider the world-runes-and-female-dragons-theory) and magic is weakened due to petricite. Solution: Some distance to the capital and the forest.
+Next I took a look at the champions she might interact with. Vayne is the obvious problem, because A: magic and B: not-that-bright-and-comfy-looking-magic. Arch enemy done.
+
+I converted her E to her P and adapted it to be more simple. As I liked the old P (which was way too OP) I noted that it could reappear at specific spots in her kit.
+
+Next Problem: A name. Random character, R, what sounds Demacian-ish? Rosanna. Nice.
+
+I took some power off her basic attacks to make her more vulnerable. If needed I can revert that later.
+
+I took a look at the original Q and decided to stick with the idea of the delayed damage. I reduced the delay so there is less of an anoyance through the delay. Also I decided to give the delay some purpose by punishing heals. Another spot for the 20% AP, yay!
+
+I was forced to take a break from writing. This made me think of something. What if Rosanna was practicing mage, but also the high-priestress of a "newborn god" (something like Nagakabouros, just much less experienced)? Need to think of actual lore later. Q, E and R should probbably hint at it in their theme, W should use Rosannas own power. Quite a challenge, as I can't just use a tentacle theme for a twilight themed champion. What does the god even want? What does it stand for?
+
+BALANCE! Balance between light and darkness, balance between rich and poor, balance between... you get the idea. Nagakabouros wants you to keep moving, to have a goal. This god wants you to accept that there is no perfection and that everyone has both a noble and good self and a disgusting and evil self. Does that god like Nagakabouros tho? I don't really think so, but who am I to decide (the one writing this. It's kinda my job.)
+
+FINALLY i started thinking about abilities again. W seems to turn her into a counterpart to lux. Unintended turn, but i like that they don't really have to oppose each other but have opposing use of magic. Also: NO ROSANNA CROWNGUARD. That would require things that won't work with the actual game lore.
+The Idea is a silence area with damaging edges. Need to work out the specifics and make it a nice defensive tool.
+
+I kinda felt like running against a wall over and over again at this point. No idea on the E whatsoever, but I am not willing to skip it. Let's revisit the idea of the god for a moment. What does it look like? How would its powers visualize in the real world/the game? Nagakabouros has her tentacle arms, but what would the god of balance/twilight use to interact with the world? Shadows. Let's work with shadows.
+
+The idea is the following. An ability that starts flying slowly and speeds up when it turns invisible. It can be kinda wide and has to deal a good amount of damage. Idk yet if minions will get damaged by it as well, but where's the harm. Reminder: define a visual effect on hit. I chose to give it the name of the original E because it seems to fit great in the context of her god giving her a hand - or a strange fur thingy. I guess I picture her god as a furry mess now. Fluffy.
+
+Good news: I have a name for the god now, Phudhogorsh (Pronaunced something like [Fud-ho-gorrsh]). I struggled too hard coming up with a pronaunciation of this name to scrap it. Plus I think it does what it is supposed to: looking way too complicated to ever speak it out aloud but realistic enough to count as a name you can actually say out aloud. I envy Riot for the smooth sounding Nagakabouros by now.
+
+Ult seems to turn out a super-powered Illa E. It has the potential to increase your damage output by an absurd amount, but gives a huge amount of counterplay options as it is pretty hard to kill someone when they are full HP with a shadow alone. It is pretty hard to balance this, and even harder to balance this around the balance theme. I think i screwed up there, but my calcs tell me that this isn't actually too broken (i hope...).
+
+Did I hit what i wanted to hit? I think so. Is this a champion I would like to play? Partially, yes. The ult would have to be tested by someone though.

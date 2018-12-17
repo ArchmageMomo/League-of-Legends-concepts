@@ -1,0 +1,42 @@
+The Twilight Priestress (Former: The Twilight Maiden)
+
+
+B:
+	500 Units ranged
+	
+P:
+	Heart of twilight:
+		Basic attacking minions or monsters below 10% of their max health morphs their shadows into a twilight shadow and deals 20% AP as true damage.
+		Rosannas abilities mark targets damaged for the hunt, causing the shadows to attack until their target is dead or Rosanna is more than 1000 Units away. Wolves have 20% increased MS towards Rosanna.
+		
+		Twilight shadows have the following stats:
+			HP: 30 - 60 % Origin Unit
+			HPR: 3%
+			AD: 60 – 100 + 20% AD + 10% AP
+			AS: 0.7 - 1.4
+			Armor: same as Rosanna
+			MR: same as Rosanna
+			Range: 175 on Melee origin, 400 Units on ranged Origin
+			MS: same as Rosanna
+			
+		Twilight shadows are caped at 5.
+		
+Q:
+	Gloomprayer (1300 Units / (6/5.5/5/4.5/4) s / (80/90/100/110/120) Mana)
+		Rosanna fires somber energy into the targeted direction. The first enemy champion hit receives (80/120/160/200/240) + 65% AP magic damage after 2 seconds. If the target receives any healing besides HPR in the meantime he receives additional 20% AP true damage.
+		
+W:
+	Innocent experiment ( - / 14 s / 80 Mana)
+		Rosanna smashes her staff into the ground and creates an 300 Units radius circular area in front of her. After 1 second the area forms into a bubble of darkness that silences any enemy inside and damages enemies and monsters passing its edge with (60/90/120/150/180) + 30% AP magic damage. The area stays active for 3 seconds. Once the ability ends the staff returns to Rosanna.
+		
+E:
+	Hidden aid (1000 Units/ (15/13/11/9/7) s / 100 Mana)
+		Rosanna seperates her shadow from herself and blasts it into the targeted direction. For 100 Units it flys slowly, then turns invisible to enemies and accelerates to a high speed. Enemies hit take (40/60/80/100/120) + 90% AP magic damage. Minions take 30% damage.
+		
+R:
+	Sacrifice to Phudhogorsh (global / (200/160/140) s / 100 Mana)
+		Gloomy golden light lays itself over the map. Every enemy champion looses its shadow at the position they are. Shadows have the resistances and current HP of the champion and can be attacked. Every time a shadow receives damage it will build up 2% flat damage reduction per % starting health lost. When an enemy champion gets damaged the shadow looses 0.5% flat damage reduction per % starting health lost.
+		
+		If the shadow dies or 12 seconds passed the relative champion gets damaged with 50% of the damage received by it as true damage and (0/20/40)% as magic damage. Every enemy that dies to the true damage gets transformed into a twilight shadow, replacing active twilight shadows.
+		
+		Shadows can't be executed and instead ignore the damage.
