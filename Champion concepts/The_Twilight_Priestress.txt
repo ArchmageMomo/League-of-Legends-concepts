@@ -40,3 +40,9 @@ R:
 		If the shadow dies or 12 seconds passed the relative champion gets damaged with 50% of the damage received by it as true damage and (0/20/40)% as magic damage. Every enemy that dies to the true damage gets transformed into a twilight shadow, replacing active twilight shadows.
 		
 		Shadows can't be executed and instead ignore the damage.
+		
+		
+		
+Rosanna grew up as a normal girl at a farm. One night she discovered her magic abilities as she tried to scare away a wolf from her familys animals. As demacian were scared of magic kept it a secret even to her parents but kept testing her abilities every time she was sure nobody would see her.
+One night she had a dream of a black furry being in an eternal sunset. It revealed itself to be Phudhogorsh a god that had chosen her to be his priestress. At first she wasn't convinced, but the more she thought about it the more clearly she saw it as her destiny until she finally crafted a simple trinket connecting her with the god of balance.
+Now she travels Demacia, not only selling and buying goods but also seeking for those willing to accept the religion of Phudhogorsh, always caught between loyalty to Demacia and her desire to be free to use her powers.
