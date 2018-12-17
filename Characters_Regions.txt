@@ -1,0 +1,216 @@
+Bilgewater:
+	GP
+	MF
+	Pyke
+	Nauti
+	Graves
+	Illa
+	TF
+	Fizz
+	Tham
+	Believer
+
+
+Ionia:
+	Ahri
+	Irelia
+	Yas
+	Karma
+	Kayn
+	Xayah
+	Jhin
+	Syndra
+	Varus
+	Rakan
+	Ivern
+	Kennen
+	Lee
+	Zed
+	Akali
+	Shen
+	Yi
+	Wukong
+	Adventurous Cook
+	artificial vastaya
+	black swan
+	Chained
+	Dancing Mage
+	Lily Ghost
+	Mazerunner
+	Reconstructed Bladesman
+
+
+Void/Icathia:
+	Cho
+	Kha
+	Kog
+	Rek
+	Vel
+	Malzahar
+	Kassadin
+	Kai'Sa
+	Corrupted Charmer
+	Watcher
+
+
+Noxus:
+	Darius
+	Draven
+	Kata
+	LB
+	Sion
+	Swain
+	Talon
+	Cassio
+	Kled
+	Riven
+	Vlad
+	Dreamer
+	Horrific Quartett
+
+	
+Targon:
+	Leona
+	Diana
+	Soraka
+	Pantheon
+	Zoe
+	Taric
+	Asol
+	Banished Duskbringer
+	Fallen Vakyrie
+	Targons Enforcer
+	
+	
+Demacia:
+	Garen
+	Lux
+	J4
+	Fiora
+	Poppy
+	Quinn
+	Galio
+	Xin
+	Morg
+	Sona
+	Lucian
+	Shyvana
+	Vayne
+	Kayle
+	Twilight Maiden
+
+
+Zaun:
+	Ekko
+	Twitch
+	Mundo
+	Singed
+	Urgot
+	Viktor
+	WW
+	Zac
+	Janna
+	Jinx
+	Ziggs
+	Blitz
+	Phantom Thief
+
+
+
+Piltover:
+	Camille
+	Cait
+	Jayce
+	Orianna
+	Vi
+	Heimer
+	Ez
+	Former Cowboy
+	Gunblade Master
+	Hextech Artilery
+	Sadistic Maniac
+
+
+Shadow Isles:
+	Heca
+	Karthus
+	Thresh
+	Kali
+	Morde
+	Yorick
+	Mao
+	Elise
+	Infamous Banshee
+
+
+Shurima:
+	Amumu
+	Azir
+	Nasus
+	Rammus
+	Renekton
+	Sivir
+	Skarner
+	Tali
+	Xerath
+	Rengar
+	Darkin Bow
+	Vampiric Demon
+	
+
+Freljord:
+	Ashe
+	Liss
+	Seju
+	Trynda
+	Braum
+	N&W
+	Olaf
+	Anivia
+	Trundle
+	Voli
+	Ornn
+	Gragas
+	Gnar
+	Udyr
+	Freljordan Blade
+	Illusionary Seeker
+	Lady of the Lake
+	Mirrored
+	The one who has seen it all
+
+
+Bandle:
+	Lulu
+	Teemo
+	Tris
+	Veig
+	Corki
+	Rumble
+	Betrayer
+	Transperent Child
+
+
+Other:
+	Aatrox
+	Alistar
+	Annie
+	Bard
+	Brand
+	Eve
+	Fiddle
+	Jax
+	Kindred
+	Malphite
+	Nami
+	Neeko
+	Nida
+	Nocturne
+	Ryze
+	Shacco
+	Zilean
+	Zyra
+	Cosmic Obliterator
+	Force of Nature
+	Spiritblade Weilder
+	Spirit of new Life
