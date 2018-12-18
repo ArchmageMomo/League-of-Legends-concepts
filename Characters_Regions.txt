@@ -97,7 +97,7 @@ Demacia:
 	Shyvana
 	Vayne
 	Kayle
-	Twilight Maiden
+	Twilight Priestress
 
 
 Zaun:
