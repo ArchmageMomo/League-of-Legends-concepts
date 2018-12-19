@@ -1,0 +1,49 @@
+The King of the Frozen Throne
+
+
+B:
+	180 Units Melee
+	
+P:
+	Frostrite:
+		Every second basic attack deals 90% AP magic damage instead if Teredo has more than 0 AP.
+		
+		Once every (30-15) seconds the first minion killed by Teredo will be revived with 100% HP. It fights for Teredos Team and only reward 5G when killed by an enemy champion.
+		
+	The frostforge blacksmith:
+		Once Teredo hits lvl 6 he can forge an enchantment onto one item for free. On level 8 his teammates can buy one enchantment for one item each. On level 12 Teredo can buy one enchantment for one unenchanted item of a teammate.
+		
+Q:
+	Frostbite Cuts (400 Units / (14/12/10/8/6) s / (20/25/30/35/40) Mana)
+		Teredo summons a horizontally rotating sword in fromt of him, dealing (20/30/40/50/60) + 30% AP magic damage to every enemy in range four times within 1.5 seconds and slowing hit enemies by 5 + 10% AS percent. Every damage tick that hits at least one enemy reduces the cooldown of this ability by 7.5 %.
+		
+		The animation-stun of this ability gets reduced by CDR.
+		The Ability applies on-hit effects
+		
+W:
+	Frostforged hammer (800 Units/ (24/22/20/18/16) s / 70 Mana)
+		Teredo readies his hammer and aims for the targeted direction. For the next (2//2.5/3/3.5/4) seconds he is immune to the first CC effect cast on him. Once hit by CC he copies the ability and casts it into the targeted direction. If it was a PnC or non-projectile ability he instead blasts a bolt of ice into the targeted direction hitting only the first champion in its path, applying (40/80/120/160/200) + 50% AP magic damage and the CC effect.
+		
+E:
+	Soto, the sabre cat (500 Units / (10/9/8/7/6) s / 50 Mana)
+		Soto jumps into vision at the targeted location and stays there for 5 seconds. Teredo dashes towards him with a 0.3 s delay and mounts him. If he gets interrupted Teredo can target Soto to continue the dash from a distance up to 1300 Units.
+		
+		Once riding Soto their MS gets increased by (30/40/50/60/70)%. Receiving damage from a champion causes Soto to flee.
+		
+		If Eizzane is on the map she can be targeted with this ability from any distance for double the cost, making her the target for the dash and mounting her, increasing their MS by (50/60/70/80/90)%. She takes damage instead of Teredo. He controlls her basic attacks, but if he casts any other spell he unmounts her.
+		
+R:
+	Eizzane the necromanced dragon ( - / (120/105/90) s / 100 Mana)
+		Teredo revives Eizzane from the ground beneathe him, the skeleton of a long dead ice dragon. It takes her 2 seconds to fully raise from the ground but is fully targetable for this time.
+		Once she is fully raised from the ground she can be controlled by recasts. She slows enemies in a 400 Units radius around her by (5/10/15)% + 1.25% per 100 AD and attacks enemies with magic damage in a cone behind her target. She generates vision across walls.
+		
+		After (20/60/100) seconds or when defeated she vanishes.
+		
+		Stats:
+			HP: (1000/1700/2500) + 100% AP
+			HPR: 2%/s
+			AS: 0.8
+			Armor: Teredo base
+			MR: Teredo base
+			MS: Teredo base
+			AD: (30/60/90) + 15% AP
