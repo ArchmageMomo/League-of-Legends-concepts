@@ -77,7 +77,7 @@ Enchantments:
 		5% of all damage dealt gets applied as a bleed effect over 3 seconds.
 	
 	Serylda:
-		The first time you receive damage from a champion or monster gain a shield for double the same amount for 2 seconds (20 second cooldown)
+		The first time you receive damage from a champion or monster gain a shield for double the amount for 2 seconds (20 second cooldown)
 	
 	Ornn:
 		Whenever you receive damage gain a shield for 10% of the amount that decreases over 5 seconds.
