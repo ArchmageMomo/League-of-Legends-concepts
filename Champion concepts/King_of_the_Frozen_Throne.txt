@@ -68,7 +68,7 @@ Enchantments:
 		The cooldown of the ability with the highest cooldown gets reduced by 10%
 	
 	Anivia:
-		When an ability kills a unit another unit within 300 Units receives the effect of the ability. Prioritizes champions (20 seconds cooldown)
+		When an ability kills a unit another unit within 300 Units receives the effect and 25% of the damage of the ability. Prioritizes champions (5 seconds cooldown)
 	
 	Ice:
 		The first time you deal damage to an enemy champion receive the same amount of damage done as a shield. (30 seconds cooldown)
