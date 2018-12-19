@@ -47,3 +47,37 @@ R:
 			MR: Teredo base
 			MS: Teredo base
 			AD: (30/60/90) + 15% AP
+			
+Enchantments:
+	Lissandra:
+		The duration of CC effects gets increased by 50%. Any damage you deal in the extended duration will break the CC effect. (10 seconds cooldown)
+	
+	Home:
+		When healing or shielding an ally apply another 20% over 10 seconds (30 seconds Cooldown)
+	
+	Mountain:
+		While over 10% HP take 50% of the damage received by an ally within 1300 Units range as physical damage for 3 seconds after the effect triggered. (10 seconds cooldown)
+	
+	Focus:
+		The first basic attack every 10 seconds procs twice.
+	
+	Avarosa:
+		Basic attacking an enemy makes the next basic attack slow the target by 15% for 1.5 seconds.
+		
+	Life:
+		The cooldown of the ability with the highest cooldown gets reduced by 10%
+	
+	Anivia:
+		When an ability kills a unit another unit within 300 Units receives the effect of the ability. Prioritizes champions (20 seconds cooldown)
+	
+	Ice:
+		The first time you deal damage to an enemy champion receive the same amount of damage done as a shield. (30 seconds cooldown)
+	
+	Volibear:
+		5% of all damage dealt gets applied as a bleed effect over 3 seconds.
+	
+	Serylda:
+		The first time you receive damage from a champion or monster gain a shield for double the same amount for 2 seconds (20 second cooldown)
+	
+	Ornn:
+		Whenever you receive damage gain a shield for 10% of the amount that decreases over 5 seconds.

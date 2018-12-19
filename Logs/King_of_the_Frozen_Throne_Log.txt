@@ -14,3 +14,34 @@ Let's bring back Snowflake. It is clear that old Snowflake is just wanky af, so 
 
 Renaming the ult now. I literally smashed my face against my keyboard and tried to make any sense out of it -> Eizzane.
 There is not much to say, it is a generic frost-dragon pet with cone damage. I balanced it as good as I can, playtests would show if I succeded but... well... 
+
+Lets get to the enchantments. I don't want flat stats. I want passive effects and I want to have them to be runes. Around two options per general archetype.
+
+
+Enchanter/Catcher/Sup:
+	Something to increase your CC force.
+	Something to increase your healing output.
+	Utility for tank sups
+	
+Marksman/AS based champions:
+	Something that gives you a double proc on one basic attack every X seconds
+	Something that slows enemies
+	
+Mages:
+	Bonus Ult or basic CDR
+	Resonating effect on enemy kill
+	
+Assassins:
+	A shield on first damage output
+	Bleed effect
+
+Fighter:
+	survivability
+
+Tank:
+	% damage received shield
+
+
+I guess I will roll with that. Let's think of the specifics now.
+
+I am pretty ok with how the runes turned out. Maybe some have to be nerfed, but overall I think they would work quite nicely in the game.
