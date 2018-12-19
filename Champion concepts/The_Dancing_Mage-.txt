@@ -1,71 +1,45 @@
-The dancing mage:
+The dancing mage (v2)
 
-Basic:
-	600 Units ranged.
 
-Passive:
-	Magical dance:
-		Attacking an enemy with basic attacks causes (3/6/9)[On Level 1/7/13] ghost lights to spiral away from the champion, weaving themselves with each other and dealing dealing 75% AD as magic damage. The ghost lights pierce through enemies and disappear at the initial distance to the enemy the basic attack got casted.
-	Desperate dancer:
-		An illusionary light, representing the location the champion suspects the girl of his dreams, travels across the field of justice. Once every 200 seconds, the Champion is able to recast his recall while channeling to redirect the recall to the location of the light.
+B:
+	450 Units ranged
+	
+P:
+	Unheard Sounds:
+		Rythm constantly dances to a rythm and basic attacks everything in a 200 units radius around him on each beat. When he targets a specific target he only attacks this target.
 		
-		The light is invisible to other champions unless an non neutral unit or attack pierces through it, revealing its location briefly to all champions in range.
-	Dancing styles:
-		In Shop, the champion can change his dancing style, altering his basic attacks.
-			
-			Slow dance:
-				Basic attacks explode in a radius of 150 Units for 30% AD magic damage. Basic attacks travel slower but have a longer range.
-			Blades dance:
-				Every basic attack pierces and damages neutral and enemy units passed for 25% AD magic damage. Additionaly the basic attacks get wider and fly in an arc [Altering left and right.]
-			Shadow dance:
-				Basic attacking leaves behind a shadow. The shadow attacks the same target [no range restrictions] and disappears as the champion attacks again, dealing 50% AD magic damage.
-			Spinning dance:
-				Basic attacks bounce off a target and deal 70% AD magic damage to the second target hit in half the champions attack range. Basic attacks travel faster but have a shorter range.
-			Basic dance:
-				No additional effect.
-			
+		Attack speed modifications instead increase his CSC by the same percentage.
+		
+		Abilities that trigger on beats surpress passive basic attaks.
+
+
 Q:
-	Aetheral Wings:
-		Aetheral wings grow out of the champions back and cut through every enemy in a 180° angle in front of the champion. Enemies hit get knocked back by (30/60/90/120/150) Units and damaged for (30/50/70/90/110) + 50% AP + 50% AD magic damage.
-	
-	Cost: 60 Mana
-	Range: 400 Edge - 600 Center Units
-	Cooldown: 15/13/11/9/7
-	
+	Pirate Style: Load and fire (900 Units / (10/8.5/7/5.5/4) s / 70 Mana)
+		Rythm shethes one of his swords and draws his pistol for 0.3 seconds. At the next beat he fires a bullet into the selected direction, piercing through minions but not champions. All hit enemies hit receive (90/110/140/170/200) + 130% AD + 60% AP physical damage.
+		
+		Does 50% damage against Minions.
+		
+	Prayer Style: Ocean Cascade (1000 Units / 6 s / (50/70/90/110/130) Mana)
+		A pillar of water splashes out of the targeted location the next beat after 0.5 seconds. It has a radius of 70-200 Units based on the time passed before the activating beat and deals (50/70/90/110/130) + 80% AP magic damage.
+		
+
 W:
-	Hextech katalyst:
-		The champion throws a small hextech device, dealing 20 + (20/30/40/50/60)% AD damage as true damage to an enemy hit.
-		As it hits the ground, the champion summons (1/2/3/4/5) + 1 for every allied ward on the map spheres around himself and fires them towards the champion hit or the device on the ground. Orbs hurt the first enemy they hit, dealing (10/20/30/40/50) + 15% AP magical damage.
-		
-	Cost: 60/55/50/45/40 Mana
-	Range: 700 Units
-	Cooldown: 15-10
-	
-E:
-	Improvised move:
-		The Abilitys effect changes with the Dancing styles:
+	Style change ( - / - / - )
+		Rythm changes his dancing style:
 			
-			Slow dance:
-				The champion gets shielded for (50/100/150/200/250) + 100% AP while he jumps towards the targeted location, where he casts Magical dance with (1/1.3/1.6/2/2.5) times the damage on his curent attack range.
-			Blades dance:
-				The champion dashes into the targeted direction. While dashing, he can recast the ability in another direction to dash another 200 Units and deal (30/60/90/120/150) + 70% AD damage.
-			Shadow dance:
-				The champion sinks into the ground, extending his shadow towards the targeted Unit to reappear besides it. Every enemy passed gets rooted for (0.2/0.5/0.8/1.1/1.4) seconds.
-			Spinning dance:
-				The champion rolls towards the targeted enemy to stun him for (0.2/0.4/0.6/0.8/1) seconds and jump back 1.5 times the distance traveled.
-			Basic dance:
-				The champion warps himself to the targeted location, leaving behind a bomb that explodes in a 200 Unit radius and deals (30/60/90/120/150) + 70% AP damage.
+			Pirate Style:
+				Every targeted basic attack throws an explosive as a slightly delayed skillshot at the current location of the target. It deals (10/30/50/70/90) + 15% AD physical damage in a 100 Units radius.
+			Prayer Style:
+				Every non targeted basic attack has 200 Units increased range indicated through waves of water and deals additional (10/40/70/100/130) + 5% AP magic damage.
 				
-		Applying any of the ability's effects on an enemy reduces the cooldown by 5 seconds.
+E:
+	Posing dash (425 Units / (20/18/16/14/12) s / 60 Mana)
+		Rythm dashes into the targeted direction. On the next beat after the dash an explosion deals (100/130/160/190/220) + 150% AD physical damage in a 300 Units radius at the casting location.
 		
-	Cost: 70 Mana
-	Range: 750 Units
-	Cooldown: 20
 
 R:
-	Eternal solitude:
-		The champion sends out a wave of depressing energy. Every enemy champion hit gets invisible to his allys and generates no vision for them for (3/5/8) seconds. (20/30/40)% of all incoming damage gets dealt as true damage in the meantime.
+	Summoning the Sea ( 1000 Units / (150/120/90) s / 100 Mana)
+		A 600 Units radius area flys into the targeted direction decreasing in range over time until it has a range of 100 Units at a distance of 1000 Units and automaticaly triggers its effect.
+		On recast every enemy inside the area gets pulled to its center. After another 1.5 seconds every enemy still in the area gets damaged by (100/400/800) + 70% AP magic damage.
+		(2/4/6) 100 units wide waves orbit the ability, wandering outwards from the edge of the area up to 1100 Units from its center. Each wave deals (20/60/100) + 10% AP magic damage to enemies hit.
 		
-	Cost: 100 Mana
-	Range: 800 Units
-	Cooldown: 160

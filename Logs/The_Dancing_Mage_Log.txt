@@ -16,3 +16,14 @@ I just realized that Bilgewater characters have english-ish names. Great. Give m
 Ok, the byname Wycombe is stupid in this context. Let's change it to Rythm as it seems to be the most fitting nickname for him. I am amazed by how blind I am at times.
 
 That Q took me way too long. Need a break before working out the details on the remaining basic ability.
+
+I sleeped over the remaining ability. It will be a dash, thus on his E. So let's write the W, the style change. I want the styles to enhance the basic attacks. Pirate style has to fit the pirate theme. EXPLOSIVES! Prayer style... some prayer to Nagakabouros? Enhanced passive range and damage?
+
+E being only a dash the ult would have to be way too powerful. Let's add some phys damage to it. MORE EXPLOSIVES!
+
+The ult is intended to feel like it could crush ships (RIP GP). I imagine it to pulsate to the beat of the rythm and look like the wrath of a whole ocean got cast uppon the ones unlucky enough to be impacted by it. At the same time it has to have some counterplay to it. Maybe an aftermath? Waves that circulate around it for some seconds? Completely overtuned, completely noisy, but it has some charme.
+
+Yep, the Ult is overtuned af. I won't downtune it though. It has to be tested out in practice to get the numbers right.
+
+
+
