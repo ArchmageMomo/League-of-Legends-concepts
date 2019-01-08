@@ -1,0 +1,101 @@
+The heir to the celestial blade
+
+
+B:
+	370 Units melee
+	
+P:
+	Celestial inspiration
+		Once every 10 seconds Haze can choose one of the following aura styles to modify every ally in a 800 Units radius:
+		
+		Devour (Blue):
+			Allys deal additional (10-50) + 17% AP / 20% AD adaptive damage when attacking minions or non legendary monsters, but deal 15% less damage to structures. These effects are based on the individual units stats and are doubled for Haze.
+			
+		Fell (Red):
+			Allys deal additional (30-100) + 25% AP / 30% AD adaptive damage when attacking legendary monsters or pets (30% less damage on pets), but deal 20% less damage to champions. These effects are based on the individual units stats and are doubled for Haze.
+			
+		Crumble (Grey):
+			Allys deal additional (0-100) true damage when attacking towers. This effect gets deactivated for 5 seconds when attacking minions. The effect is doubled for Haze, but instead she deals 70% reduced damage to minions.
+			
+		Challenge (Purple):
+			Allys deal additional (5-80) + 10% AP / 17% AD adaptive damage when attacking champions, but deal 40% reduced damage to everything else. These effects are based on the individual units stats and are doubled for Haze. Haze can't target anything but champions while Challenge is active.
+			
+		Shield (Turquoise):
+			On activation all allys in range gain a shield for 10% of their current health while inside the aura. When Haze deals damage to a champion, structure, legendary monster or pet she heals every ally within range by 7% of the damage dealt. The shield is doubled for Haze and regenerates within 5 seconds.
+			
+Q:
+	Fluent strikes (500 Units / - / - )
+		Haze continously attacks the targeted enemy while it is in range and deals additional (9/13/17/21/25)% AP magic damage on each basic attack. She can move while basic attacking. Targeting gets cancled when casting another active ability or commanding a basic attack.
+		
+W:
+	Celestial counterattack ( - / (20/19/15/11/9) s / 80 Mana)
+		Haze takes a defensive stance for up to 1 second. The first attack that would hit her while in defensive stance deals no damage. If it was a targeted ability (basic attack, Annie Q, Malzahar R, ...) it triggers a counterattack, teleporting Haze behind the attacking enemy and dealing (50/80/110/140/170) + 60% AP magic damage before applying CC effects. Skillshots phase through her and don't apply CC.
+		
+E:
+	Piercing blast (1000 Units / 8 s / 80 Mana)
+		Haze disables her blade and points it into the targeted direction. After 1 second she reactivates it, creating a blast of celestial energy in a straight line dealing (40/60/80/100/120) + (0-120)% AP based on the enemys missing health caping at 20% max health magic damage to the first enemy hit.
+	
+R:
+	Godblade (400(jump) - 400(slash) - 3000(wave) Units / (120/100/80) s / 100 Mana)
+		Haze jumps forward, slaming her blade onto the ground. Enemies up to 400 Units in front of her receive (50/100/150) + 30% current health + 60% AP magic damage. When Hazes blade reaches the ground it releases a shockwave traveling into the targeted direction and dealing (50/100/150) + 60% AP magic damage to every enemy hit.
+		
+		
+		
+		
+Long before the great nations of Demacia, Noxus or even Shurima existed Targon enslaved Aurelion Sol. A mere mortal, gifted by the aspects with powers beyond imagination, was chosen to himself gift a crown to the cosmic dragon. Once that mortal realized that he got tricked into enslaving Sol, he used the powers gifted to him to fight Targon to free both the dragon and himself from them. He ultimately got defeated, but managed to escape and go into hiding. Although the aspects tried to find the blade which inhabits all of the mortals gifted power, they never found it.
+Eons later an adventurer discovered a shrine in a cave on the serpent isles. He was surprised to not only find an ancient relic, but a child barely old enough to speak clinging onto it in its sleep. Normally he would have taken the relic for himself, but he decided to leave it and the child to a friend on the isles. Haze, the child, grew up knowing all about its origins. One day, while the Harrowing was reaping through Bilgewater, Hazes foster father gave his life protecting her. In panic she grabed the relic and activated it out of instinct. Even when the undead were long gone she clumsily defended her home from anyone approaching with tears of fear in here eyes.
+When she finally passed out from exhaustion she was brought to the temple of Nagakabouros where she was taken care of, but handled with care as everyone feared her newfound power. When she woke up Illaoi interrogated her fiercly, but softened up as she relaized that Haze was just a scared girl. She decided to train her and keep her close, not just to keep an eye on her as a potential successor but to help reaching her goal of stopping the Harrowing.
+
+
+
+Personality:
+	Calm and cheerfull, yet cheeky appearance, but scarred by the Harrowing on the inside. Clumsy with her relic blade. Soaking up any information she can in hopes of understanding the relic blade. Tries to mimic Illaoi, but with a more peaceful twist. Hates fighting. Loves pickles.
+	
+
+Appearance:
+	Blonde, unruly, little over neck long hair.
+	Athletic, but skinny body shape.
+	Wears a worn out white shirt, leather pants similar to Illaois and worn out but elegant boots.
+	Has green-grey eyes.
+	The relic blade looks like a blade hilt with a side of a hollowed out orbiform attached to it. When activated the other two sides slide back opening the the orbiform and releasing a beam of celestial energy. The solid parts look like greenish steel.
+	
+
+Interactions:
+	Annie:
+		"Wo~~~~w. Finally someone even younger than I am. Do you also posess a power nobody understands?"
+	
+	Asol:
+		"I feel like I am meant to do something important."
+	
+	Bard:
+		"That... stuff you do..."
+		"Do you happen to know where I come from?"
+		"Yoou look funny."
+	
+	Aspects:
+		"You look like you found something important to you. Sorry to disappoint you, but that relic is mine."
+		"I may not carry the eye of god, but this whatchamacallit works wonders too."
+		"I know Nagakabouros is all about staying in motion, but I think it is more healthy for you to stop."
+		
+	Shadow Isles:
+		"Your kind killed my father. For that I will end you."
+		"Illaoi trained me for this moment."
+		"In the name of Nagakabouros, I will make you move once more."
+		
+	Graves:
+		"Malcolm Graves. I have heard stories about you. I wonder if you would survive the test."
+	
+	Illaoi:
+		"This can't be true. Why would you turn against us, high lady?"
+		
+	Lucian:
+		"You too hunt them because you lost someone, don't you?"
+		
+	MF:
+		"You may be a pirate queen, but are you still bound to the law of god."
+	
+	Pyke:
+		"Come to your senses! All you do is helping the enemy!"
+	
+	TF:
+		"You don't happen to be Tobias Fate, don't you? Father said I could count on you, but never trust."
