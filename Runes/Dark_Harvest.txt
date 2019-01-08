@@ -1,0 +1,24 @@
+Dark harvest concepts:
+
+Marksmans harvest:
+	Stacks are granted by attacking enemies above 70% HP or an epic monster once every (100-45) seconds or killing an enemy champion. Cooldown resets on kill participation
+	
+	If one of your attacks brings an enemy below 50% HP you deal up to [stacks * 8 + 50% AD + 30% AP] adaptive damage. The damage dealt depends on how much of the enemies max HP you have damaged in the last second, maxing out at 30% max HP.
+	
+	
+Mejais harvest:
+	Killing an enemy or participating on an legendary monster kill grants 5 stacks. Assisting on killing an enemy grants 3 stack. On death 70% of the stacks are lost.
+	
+	Once every (90-15) seconds the first time you deal damage to an enemy champion deals [stacks * 3% AD + stacks * 2% AP] adaptive damage after 2 seconds.
+	
+	
+Dualproc harvest: CD 90-15 s
+	Damaging an enemy using an ability builds a mark. After 1.5 seconds the mark activates for 2 seconds and can be triggered by any other damage you deal to the enemy, dealing [stack * 2% AD + stacks * 1.5% AP] adaptive damage and granting one stack. Killing an enemy champion resets the cooldown and grants a stack. Assisting on killing an enemy resets the cooldown.
+	
+	One Buff per side grants a stack on kill if you have a jungle item.
+	
+
+Harvest harvest:
+	Every participation on killing an enemy champion or legendary monster grants a stack of dark harvest up to one every (100-60) seconds per target. Participating in killing a target that is on cooldown reduces the remaining cooldown by 50%.
+	
+	Attacking enemies below 50% HP deals [(10-180) + stacks * 1% AP + stacks * 1.5% AD] adaptive damage and reduces each of your cooldowns by 0.3 seconds per stack
