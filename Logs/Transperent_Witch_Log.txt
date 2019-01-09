@@ -1,0 +1,21 @@
+Transperent (still troubles me that i misspelled it) child was meant to be a high risk high reward champion. I overdid this and made her incredibly broken, to the point where she would either be redicolously op or simply useless.
+
+I think it is important to take any mobility from her and give her AP for resistances, so she will always be killed if there is anyone too close to her. Kinda like xerath, but with less range.
+
+I like the idea of her to be always visible in some way. this takes enough power from her to make her kit consist of moderately strong ultimates.
+
+Let's start with her basic attack. 450 units sounds ok for her, as she needs to take a risk.
+
+P1 will be the transformation of armor and MR into AP. Need to calc out the ratio to make it balanced. P2 reveals her for any enemy looking for her. I think a shimmer effect would be the way to go.
+
+Had to think of a name while I was at it. I think Ayana is still fitting, but I kinda hesitate on giving her that name again. On the other hand, who gives. It's not like I would use this name for anyone else anyway.
+
+Let's talk about max range. she has to outrange lvl18 tristana, but has to have less range than Xerath. 750 Units seem about right as the average range of her abilities. I also think that she shouldn't be able to attack anyone REALLY close to her.
+
+I envision Q as a DoT ability with potent damage and short duration. 2 seconds with 100% AP and some damage? let's go.
+
+W needs to be some kind of ultra soft CC with high impact if used wisely. A shield that, when popped, strips an AP based percentage of resistances.
+
+I want E to deal a small amount of damage by itself but deal additional damage per spell effect active. Need to juggle with numbers again.
+
+Ult is only ultimate for her if it gives her needed utility. Sylas won't like it, but for her it is essencial.

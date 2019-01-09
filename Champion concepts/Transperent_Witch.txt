@@ -1,0 +1,27 @@
+Transparent witch
+
+B:
+	450 Units ranged
+
+P:
+	Forcefully revealed:
+		Bonus armor and MR have no effect, but get converted into AP in a 1:1 ratio.
+		If Ayana is in the fog of war, she constantly creates a shimmer effect.
+		
+Q:
+	Witchery (250-750 Units / 4 s / 100 Mana)
+		Ayana throws a ball of dark energy, exploding in a 100 Units radius as it hits the ground. Any enemy hit will get constantly damaged with a total of (30/50/70/90/110) + 100% AP magic damage.
+		
+W:
+	Curse of transparency (200 Units / (23/21/19/17/15) s / 50 Mana)
+		Ayana shields the targeted ally with a spellshield for 2 seconds. When popped, it strips 10% + (2/3/4/5/6) per 100 AP armor and MR from the attacking enemy for 3 seconds.
+		
+E:
+	Hex (750 Units / 10 s / 80 Mana)
+		Ayana deals (20/40/60/80/100) + 10% AP and additional ((10/20/30/40/50) + 30% AP) per active spell effect on the targeted enemy magic damage.
+		
+R:
+	One hidden intention ( 400 Units / 20 s / 100 Mana when cast) Passive, eyes open and glowing as an indicator that it is active
+		If Ayana is hit by any attack she dissolves into dark particles, gets rooted and becomes untargetable for 1 second. The ability becomes castable for that time. If cast she can blink at the targeted location in range.
+		
+		Each time Q or W hits an enemy the cooldown of this ability gets reduced by 1 second.

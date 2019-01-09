@@ -9,6 +9,7 @@ Bilgewater:
 	Fizz
 	Tham
 	Believer
+	Heir of the celestial blade
 
 
 Ionia:
@@ -37,7 +38,6 @@ Ionia:
 	Dancing Mage
 	Lily Ghost
 	Mazerunner
-	Reconstructed Bladesman
 
 
 Void/Icathia:
@@ -98,6 +98,7 @@ Demacia:
 	Vayne
 	Kayle
 	Twilight Priestress
+	Sylas
 
 
 Zaun:
