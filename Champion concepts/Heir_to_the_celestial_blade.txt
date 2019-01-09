@@ -93,7 +93,7 @@ Interactions:
 		"You too hunt them because you lost someone, don't you?"
 		
 	MF:
-		"You may be a pirate queen, but are you still bound to the law of god."
+		"You may be a pirate queen, but you are still bound to the law of god."
 	
 	Pyke:
 		"Come to your senses! All you do is helping the enemy!"
