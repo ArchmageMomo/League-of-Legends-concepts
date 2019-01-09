@@ -25,8 +25,9 @@ P:
 			
 Q:
 	Fluent strikes (500 Units / - / - )
-		Haze continously attacks the targeted enemy while it is in range and deals additional (9/13/17/21/25)% AP magic damage on each basic attack. She can move while basic attacking. Targeting gets cancled when casting another active ability or commanding a basic attack.
+		Haze continously attacks the targeted enemy while it is in range. She can move while basic attacking. Targeting gets cancled when casting another active ability or commanding a basic attack.
 		
+		Haze deals additional (9/13/17/21/25)% AP magic damage on each basic attack (does not count as an On-Hit Effect).
 W:
 	Celestial counterattack ( - / (20/19/15/11/9) s / 80 Mana)
 		Haze takes a defensive stance for up to 1 second. The first attack that would hit her while in defensive stance deals no damage. If it was a targeted ability (basic attack, Annie Q, Malzahar R, ...) it triggers a counterattack, teleporting Haze behind the attacking enemy and dealing (50/80/110/140/170) + 60% AP magic damage before applying CC effects. Skillshots phase through her and don't apply CC.
