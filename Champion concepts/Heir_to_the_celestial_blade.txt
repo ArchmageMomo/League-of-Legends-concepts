@@ -21,7 +21,7 @@ P:
 			Allys deal additional (5-80) + 10% AP / 17% AD adaptive damage when attacking champions, but deal 40% reduced damage to everything else. These effects are based on the individual units stats and are doubled for Haze. Haze can't target anything but champions while Challenge is active.
 			
 		Shield (Turquoise):
-			On activation all allys in range gain a shield for 10% of their current health while inside the aura. When Haze deals damage to a champion, structure, legendary monster or pet she heals every ally within range by 7% of the damage dealt. The shield is doubled for Haze and regenerates within 5 seconds.
+			On activation all allys in range gain a shield for 10% of their current health while inside the aura. When Haze deals damage to a champion, structure, legendary monster or pet she heals every ally within range by 8% of the damage dealt. The shield is doubled for Haze and regenerates within 5 seconds. Haze deals 20% less damage to all targets while shield is active.
 			
 Q:
 	Fluent strikes (500 Units / - / - )
