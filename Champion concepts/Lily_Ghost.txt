@@ -1,0 +1,40 @@
+The Lily Ghost
+
+
+B:
+	600 Units
+	
+P:
+	Lifeless Nectar:
+		Every third basic attack and every ability cast creates a blob of nectar somewhere in a 500 Units radius of Lily for 5 seconds. Nectar grounds and slows enemies by (10-50)%.
+		
+Q:
+	Rootwhip (800 Units / (10/9/8/7/6) s / 50 Mana)
+		Lily flings out a whip dealing (70/110/150/190/230) + 50% AP magic damage and disarming the first enemy hit for 0.5 seconds. If the whip hits close to max range the damage is doubled.
+		
+W:
+	Undead blossom (1000 Units/ (60/50/40/30/20) per charge; 2 charges / 70 Mana)
+		Lily throws a seed at the targeted location. After a brief delay a pile of leaves covers it and the trap is active while going invisible. The trap can be destroyed by basic attacking it 3 times or after (60-180) seconds based on level.
+		
+		Enemies stepping on the trap will get fixated inside a blossom and stabed by spiky vines for (70/100/130/150/180) + 35% AP magic damage after 0.5 and 1 seconds before being released again after 1.2 seconds.
+		Activated traps act as walls.
+		Activating traps interrupts dashes.
+		3 traps can be active at once.
+		
+		FIXATED: Immobilizes, but can be broken using any mobility spell
+		
+E:
+	Glimmer of hope ( - / (35/30/25/20/15) s / 80 Mana)
+		A single healthy lily blossom appears at Lilys location and blocks up to (50/80/110/140/170) + 35% AP damage from any source but towers for any allied champion or structure hit inside a 300 Units radius.
+		
+		When no shieldable target is in range the lily can be attacked directly
+		
+R:
+	Widespread roots ( 1000 Units to global / 120 s / (150/125/100) Mana) Passive
+		A greater lily appears at the base. Any ally can activate it and fasttravel towards Lilys current location on cost of her Mana once per time intervall (cooldown).
+		Enemies can fasttravel towards her corpse if she is dead, but take 20% longer to get there.
+		
+		
+		
+Before the blessed isles fell Lily was a spirit taking care of the flora. As everything around her changed, she kept her airheaded and bright personality while adapting to her changed environment. Outsiders living long enough to take a glimps at her see her as a spark of light in a sea of shadows, only to find out that they ran straight into her trap.
+But like everyone else, she too had a secret, as her secret garden wasn't made to follow the rules of the shadow isles.
