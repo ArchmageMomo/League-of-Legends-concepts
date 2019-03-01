@@ -1,0 +1,68 @@
+Last Valkyrie (Former: Fallen Valkyrie)
+
+B
+	220 Units Melee
+	
+P
+	Eternal Duty
+		
+		Every time a unit gets killed by an ability of this Champion it grants one stack of hero-souls. Every time a champion gets killed in a 1000 Units radius it grants 2 stacks of hero-souls.
+		
+		Stacks of soul grant boni cycling through the following:
+			+5 Out of combat MS (cap: 10* granted)
+				Flight at 10* granted
+					Pass units and structures, pass terrain while on haste
+			+2% CDR (cap: 5 * granted)
+			+5 Perm MS (cap: 10* granted)
+			+2 AP
+			+1 Energy
+			
+Q
+	Spears of light [800 Units / (7/6.5/6/5.5/5) sec / 50 Energy]
+		
+		Hruja marks a 75 Units area. After 0.5 seconds a burst of 3 spears damages any enemies inside with (30/50/70/90/110) + 30% AP physical damage.
+		The spears hover around Hruja for 3 seconds and can be shot by basic attacking or recasting the ability, dealing (20/40/60/80/100) + 30% AP physical damage to the first enemy hit and half of the damage to any enemy standing up to 200 Units behind it.
+
+W
+	[Runestone] [800 Units / 3 sec / (70/60/50/40/30) Energy]
+		
+		The ability casts an effect in the targeted 100 Units area. Runestones cycle through the following by using them:
+		
+		Iza:
+			After 1 second a burst of ice stuns any enemy inside the area for 1 second.
+		
+		Algiz:
+			The targeted area instantly activates and stays active for 3 seconds, making any ally inside immune to CC.
+		
+		Ignuz:
+			The targeted area instantly activates and stays active for 3 seconds, igniting the area dealing up to (96/192/288/384/480) + 120% AP magic damage to any enemy inside and inflicting grievous wounds for 1 second.
+			
+		Dagaz:
+			The targeted area slows any enemy inside by (40 + 3 per 100 AP) %. After 1 second  the area implodes, dealing (20/40/60/80/100) + hero-souls/2 true damage.
+			
+		Perthro:
+			The targeted area instantly activates and stays active for 3 seconds. Any ally inside gets healed for up to (60/100/140/180/220) + 50% AP.
+			
+			
+E
+	Faiths End [400 Units / (10/9/8/7/6) sec / 100 Energy]
+		
+		Hruja marks a 75 Units area. After 0.5 seconds the ground cracks open with holy energy and deals (50/80/110/140/170) + 110% AP magic damage.
+		
+R
+	Hall of Heros (Passive)
+		
+		While out of combat fallen heros charge forward in a 300 Units radius around Hruja. They deal (30/60/90) + 5% AP + 5% HP physical damage to enemies hit. This doesn't count as a combat action.
+		
+	Rune of Void [1000 Units / (90/80/70) sec / - ]
+		
+		The targeted enemy gets teathered and receives (100/150/200) + 30% AP magic damage. After 0.5 seconds the nearest enemy champion in a 600 Units radius around the target gets teathered by the target for (70/100/150) + 20% AP magic damage. This repeats itself until no unaffected enemy champion is in range.
+		If no new target got teathered for 1 second all affected targets get pulled towards the location of the unit that cast the teather on them at the time the teather was cast on them. The later in the chain the target was the weaker the pull gets.
+		(100 -> 80 -> 64 -> 51 -> 41 -> 33 -> ...)%
+		
+		
+		
+		
+The Raven knows all things that were and will come. Everyone in the hall of heros knew that he built it to prepare for the fight against a greater evil even he was scared of. When Hruja was recruited as one of his Valkyries she was determined to save Runeterra using all her essence if she had to. But one day the Raven disappeared, and soon after the void attacked the hall.
+As the attack was over Hruja was one of the last survivors. She collected her runestones which she spread during the battle. With each stone she picked up she grew more confident in what she had to do. The last stone she picked up was different than the others. It had no rune carved into it, but radiated a power greater and scarier than of any other of the stones. It was the runestone the raven took out of the valkyries runebags, the rune of void.
+Ever since she collected the souls of fallen heros to restock the hall in preparation of the final battle against the void.
