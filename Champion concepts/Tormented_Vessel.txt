@@ -1,0 +1,106 @@
+The tormented vessel (Former: Targons Enforcer)
+
+B:
+	350 Units ranged (light bolts)
+	
+P:
+	Celestial Smiting:
+		
+		Basic attacks deal magic damage based on AP instead of physical damage based on AD.
+		Damage is reduced by 25% on Towers and quartered on Minions and Monsters.
+	
+	Radiant Energy:
+	
+		Mihira can't gain AD, MPen and Lethality from items.
+		AD gets converted into AP.
+		MPen and Lethality add a multiplyer of 0.01 to bonus AP.
+		
+	Devine Justice:
+		
+		Mihira starts with 20 base AP.
+		Every time Mihira participates in killing a legendary monster or Champion, she gains 10 base AP.
+		
+
+Q:
+	Cleansing Fire (750 Units / (8/7.5/7/6.5/6) s / (40/45/50/55/60) Mana)
+		
+		Mihira targets the selected spot and releases 5 beams of celestial flames over the course of 1.5 seconds. Each bolt travels 1000 Units and deals (20/35/50/65/80) + 20% AP magic damage.
+		Mihira can move while channeling the ability.
+		
+
+W:
+	Ray of Justice (600 Units / (9/8/7/6/5) s / 100 Mana)
+		
+		A static appears at the rim of a 300 Units radius and slows any enemy it touches by (15 + 3.5 per 100 AP)%. After 1 second the static disappears and a pillar of light strikes the center, damaging any enemy inside a 100 Units radius with (100/150/200/250/300) + 110 AP magic damage.
+		
+
+E:
+	Piercing light (1000 Units / 15 s / (50/60/70/80/90) Mana)
+	
+		A rain of light arrows travels into the targeted direction, dealing (20/30/40/50/60) + 40% AP to any enemy inside a 200 Units radius once every second. It takes 5 seconds until the ability has reached its max range.
+		
+		
+R:
+	Justice won't Compromise (4000 Units / (100/80/60) s / 100 Mana)
+		
+		Each time this ability levels up after the first time it can evolve in 2 different directions
+		
+		Tier 1:
+			
+			Mihira aims at the targeted enemy for 1 second before fireing one huge but slow turning bolt of celestial flames. If it hits the targeted enemy it deals 100 + 50% AP magic damage. If it doesn't hit the targeted enemy for 10 seconds it disappears.
+			
+		Tier 2A:
+			
+			Three smaller bolts get fired instead, each dealing 100 + 25% AP magic damage. The bolts turn slightly faster.
+			
+		Tier 2B:
+			
+			Damage gets increased to 200 + 60% AP magic damage. When the bolt times out it instead splits into ten small bolts which aim at the five closest enemies, dealing 30 + 5% AP magic damage.
+			
+		Tier 3AA:
+			
+			Damage gets increased to 150 + 30% AP magic damage. Bolts now take aim at the closest enemy after 10 seconds of not hitting and stay active for up to 20 seconds.
+			
+		Tier 3AB:
+			
+			Damage gets increased to 150 + 25% AP + 3% missing health magic damage.
+			
+		Tier 3BA:
+			
+			Damage gets increased to 300 + 80% AP magic damage. The small bolts now aim at the targeted champion, but can get blocked by any other enemy target. They also deal 20% reduced damage for each hit after the first one.
+			
+		Tier 3BB:
+			
+			Damage gets increased to 300 + 80% AP magic damage. The small bolts deal additional 5% max health magic damage
+			
+		Tier 4XX (Lvl 18):
+		
+			The ability can be cast on legendary monsters for double the damage (even if it misses).
+			
+
+			
+As the Rune Wars raged, Mount Targon stood as a beacon against the oncoming darkness. During that time Mihira and Kilam began the perilous climb in search of the power to save their tribe from destruction.
+Even when Mihira learned she was with child, she pushed onward. At the mountain’s summit, she was chosen as a divine vessel for the Aspect of Justice, wielding a sword that blazed with a fire brighter than the sun.
+Not long after, the twins were born. Kayle, the elder by a breath, was as bright as Morgana was dark.
+But Mihira had become a fearsome warrior, far greater than any mortal. Kilam began to fear her new divinity, and the sorcerous enemies that were drawn to her light. He resolved to take the girls out of harm’s way, journeying across the Conqueror's Sea to a settlement where the land itself was said to offer protection against magic.
+When Mihira returned home she believed that her enemies had captured her family. Eventually the war ended, but none of her angry fights had revealed the fate of her family. She desperately followed every trace she had left, but none of them lead her to Kilam, Kayle and Morgana.
+Years passed, Mihira gave up hope and instead reduced her life to an eternal hunt for wrongdoers. When she finally found her daughters she was stunned at first as she didn't even look for them that day, but they were unmistakenly her daughters, one as bright as the other was dark. That's when realization hit her. Kilam took them and fled to keep them safe while she was fighting a war in the name of justice and exposed them to danger every day anew. She was transformed into a tool of death, exterminating anyone either she or the aspect found full of guilt. What would happen if she found guilt inside her daughters? Mihira decided that they were better off without her, but before she flew off she also decided to gift them her her sword, just to let them know she was alive and cared.
+When Mihira heared the stories about Kayle and Morgana's fight she immedeately returned to the village, just to find Kilam dead and her daughters nowhere to be found. The more she found out about what happened the guiltier she felt. It seemed that Kayle had decided to follow her example and Mihira finally realized what her strive for justice had actually made of her.
+Ever since Mihira hid in the most secret corners of Runeterra, ignoring the Aspects call for justice. Somehow she knew that Kayle and Morgana would meet each other in fight eventually, and she swore herself that she wouldn't just stand aside when the time had come.
+
+
+
+
+
+Interactions:
+	Kayle:
+		"Kayle... I've failed you."
+		"Your way of bringing justice is even more cruel than mine ever was."
+		"Set off to cleanse the world? You must be stopped."
+		"Is there any regret behind that armor you wear?"
+		
+	Morgana:
+		"Morgana... I am so sorry..."
+		"Go figure, one kills, one rehabilitates."
+		"You were able to do what neither your sister nor I could."
+		"Why did you chain down your beautiful wings?"
