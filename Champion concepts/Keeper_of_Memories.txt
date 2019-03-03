@@ -1,0 +1,52 @@
+The Keeper of Memories
+
+
+B:
+	500 Units ranged (Keychain)
+	
+P:
+	Key to Oblivion:
+		
+		Hitting enemy champions with basic attacks or Swarm of Keys (once per cast) knocks spectral keys out of them. The keys represent one of their basic abilities and land somewhere 300-600 Units around the hit champion. The key stays active for 5 seconds and can be picked up by either the respective champion or Memoire.
+		
+		While a key is on the field the respective ability can't be used. If Memoire picks up a key, the enemy champion gets damaged by (10-100) + 40% AP magic damage and receive another 2 seconds cooldown on the respective ability.
+		
+		If all basic abilities got locked the ultimate ability can be converted into a key as well and appears bigger and lockdown is multiplied by 5 on Memoire-Pickup.
+		
+		Only affects abilities off cooldown.
+		Every ability can get affected only once every (20-10) seconds.
+		
+
+Q:
+	Swarm of Keys (600 Units / (8/7.5/7/6.5/6) s / 60 Mana)
+		
+		Memoire releases a swarm of 5 keys which swarm around her until enemy or neutral targets are in range. The keys prioritize Champions and deal (10/20/30/40/50) + 30% AP magic damage each and slow enemy champions by 20% for 2 seconds.
+		
+		Cooldown procs after the first key hit a target.
+		Cooldown can get reduced by .75 seconds by picking up keys.
+		
+
+W:
+	Restraining memories (1000 Units / (15/14/13/12/11) s / 80 Mana)
+		
+		A trap gets placed on the targeted location. After 1 second it turns invisible to enemies and activates. Once an allied champion steps onto it, the closest enemy prioritizing champions within 400 Units radius gets teathered for 0.5 seconds. If he leaves the effect radius the teather breaks. After the 0.5 seconds the enemy gets damaged with (50/80/100/120/140) + 50% AP magic damage and rooted for 1.5 seconds.
+		
+	
+E:
+	Path of broken Promises (1200 Units / 10 s / 50 Mana)
+		
+		Memoire dashes towards the selected wall and leaves behind a trail of dark energy for 3 seconds. Enemies passing the trail receive (10/12/14/16/18) + 5% AP magic damage trice a second for 3 seconds after leaving the trail and get slowed by 8% per second active.
+		
+
+R:
+	Key to Heart and Soul (2500 Units / (90/75/60) s / -)
+		
+		Only castable on enemies that recently got damaged by Memoire.
+		
+		Memoire pierces the targeted Enemy using a key of dark energy, surpressing him for up to 5 seconds. The ability can be recast to lift the surpression and disable all of his abilities for three times the remaining time.
+		
+		Memoire can move while surpressing a target, but gets revealed and can't use any other ability while channeling the key.
+		
+		
+		
+Memoire is a celestial being from Targon on a mission to fix Runeterra by stealing knowledge from mortals.
