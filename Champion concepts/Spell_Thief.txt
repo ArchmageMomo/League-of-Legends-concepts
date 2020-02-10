@@ -1,0 +1,72 @@
+Axxid - The spell thief
+
+
+Basic:
+	450 Units, instant, scaling with cdr AND AS
+	
+P:
+	Spell scribing:
+		
+		A study table spawns besides the shop, collecting spells from all teammates and enemies killed by Axxid. Axxid can build or modify his own basic spells by combining components from others when using the study table.
+		
+		Every spell collected grants access to three Words. Words are separated into major, condition and minor words, major words granting new spell behaviour, condition words adding a status affliction and minor words granting modifications to specific stats. Multiple of the same word can be added to a spell. Slots for major and condition words can instead be filled with minor words.
+		
+		Examples of Major Words:
+		
+			Multiplicity (Gained through Orb of Deception, Blooming Burst): The effect of the ability gets played in reverse once finished
+			Targeted (Gained through Fox Fire, Icathian Rain): The Ability automatically targets the closest enemy (champion) within range
+			Physics (Gained through the more boring AD abilities): Changes the damage type to physical
+			
+		Examples of Condition Words:
+			
+			Charm: The ability charms enemies on hit
+			Fear: The ability fears enemies on hit
+			
+		Examples of Minor Words:
+			
+			Damage: Increases damage
+			Speed: Increases the speed of the ability
+			Cooldown: Reduce the cooldown of the ability
+			Range: Increases the range of the ability
+			
+		With equiping a word from a spell, the new spell gains particle effects resembling the spell
+			
+	Minor Missiles:
+		
+		On levels 3, 9 and 15 one additional minor word can be equiped to the basic attacks slot. Basic attacks deal magic damage (unless changed by a word).
+		
+Q:
+	Spellloaded Burst ( 900 Units / 7 s / 50 Mana )
+		
+		Axxid shoots a burst of <energy>, dealing <(80 / 110 / 140 / 170 / 200) + 70% AP> <magic damage> to <the first enemy> hit.
+		
+		(Straight line if not modified)
+		
+		Spellloaded Burst starts with one major word.
+		On each time you spend a point on this ability another minor word can be added. Each time [R] gets skilled one additional major word can be added.
+		
+W:
+	Puddle of Word ( (600/650/700/750/800) Units / (13/12/11/10/9) s / 80 Mana)
+		
+		Over <0.7 seconds> a <150 Units> radius area builds up and explodes, damaging all enemies inside for <(60 / 105 / 150 / 195 / 240) + 60% AP> <magic damage>.
+		
+		Puddle of Word starts with 4 slots for minor words and one for a major word.
+		Puddle of Word gains up to 3 slots for major words, one on lvl 6, 11 and 16 each.
+		
+E:
+	Arcing Arkana ( 500 Units / 15 s / 70 Mana )
+		
+		Axxid strikes <the selected enemy> with a homing bolt, dealing <(50 / 70 / 90 / 110 / 130) + 40% AP> magic damage and <slows the enemy by 50%>.
+		
+		Arcing Arkana gains one slot for condition words on skill level 1, 3 and 5.
+		Arcing Arkana gains one slot for minor words on skill level 1, 2 and 4.
+		Arcing Arkana gains one slot for major words on skill level 5.
+		
+R:
+	Spellcrafters Storm ( - / (90 / 75 / 60) s / 100 Mana )
+	
+		For the next 10 seconds Axxid launches arkane meteorites at enemies he hits, dealing <(80/110/150) + 35% AP> to every enemy within a 225 Units radius.
+		
+		For 10 seconds every spell cast by Axxid is cast twice and every major word gets doubled.
+		
+		Each time you spend a point in Spellcrafters Storm it gains one minor and one major or condition word.
